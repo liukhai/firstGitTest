@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ICouponListViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='t1I-Hh-EOB' id='EWh-Bh-IaY' property='btn_logout'/>
+                <outlet destination='lHD-qO-ggR' id='Hcd-5l-eh6' property='table_view'/>
+                <outlet destination='7kX-pE-mjv' id='P3Q-dl-ijf' property='txf_search'/>
+                <outlet destination='i5M-Pr-FkT' id='nE5-OV-ugm' property='view'/>
+                <outlet destination='vWw-bK-EJo' id='ZEe-z1-gxb' property='view_search'/>
+                <outlet destination='f5T-M4-Nc7' id='xWC-83-xCr' property='web_view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='i5M-Pr-FkT'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <tableView alwaysBounceVertical='YES' clipsSubviews='YES' contentMode='scaleToFill' id='lHD-qO-ggR' rowHeight='128' sectionFooterHeight='22' sectionHeaderHeight='22' separatorStyle='none' showsSelectionImmediatelyOnTouchBegin='NO' style='plain'>
+                    <rect height='461' key='frame' width='320' x='0.0' y='99'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='separatorColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='-1' id='kZ7-kB-jgj' property='dataSource'/>
+                        <outlet destination='-1' id='54X-1K-lCu' property='delegate'/>
+                    </connections>
+                </tableView>
+                <view contentMode='scaleToFill' id='vWw-bK-EJo'>
+                    <rect height='65' key='frame' width='320' x='0.0' y='105'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='7kX-pE-mjv' minimumFontSize='17' opaque='NO' placeholder='Search123'>
+                            <rect height='30' key='frame' width='294' x='13' y='35'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocorrectionType='no' key='textInputTraits' returnKeyType='done'/>
+                            <connections>
+                                <outlet destination='-1' id='GBo-Xc-Jcg' property='delegate'/>
+                            </connections>
+                        </textField>
+                        <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='t1I-Hh-EOB' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='29' key='frame' width='61' x='254' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='boldSystem'/>
+                            <state backgroundImage='btn_orange_big.png' key='normal' title='Logout'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='LKB-d3-tUs' selector='logout:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange_big.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_big_new.png'/></userDefinedRuntimeAttributes></button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <webView contentMode='scaleToFill' id='f5T-M4-Nc7' multipleTouchEnabled='YES' scalesPageToFit='YES'>
+                    <rect height='461' key='frame' width='320' x='0.0' y='99'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color catalog='System' colorSpace='catalog' key='backgroundColor' name='alternateSelectedControlTextColor'/>
+                    <connections>
+                        <outlet destination='-1' id='ZFw-Lp-MDl' property='delegate'/>
+                    </connections>
+                </webView>
+            </subviews>
+            <color alpha='1' blue='1' colorSpace='deviceRGB' green='1' key='backgroundColor' red='1'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='44' name='btn_orange_big.png' width='180'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='SpendingRewardsListViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='52' id='59' property='borderImageView'/>
+                <outlet destination='51' id='58' property='lineImageView'/>
+                <outlet destination='53' id='57' property='table_view'/>
+                <outlet destination='50' id='56' property='title_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='50' lineBreakMode='tailTruncation' opaque='NO' text='Label' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='280' x='20' y='86'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <tableView autoresizesSubviews='NO' bounces='NO' bouncesZoom='NO' clearsContextBeforeDrawing='NO' clipsSubviews='YES' contentMode='scaleToFill' id='53' opaque='NO' rowHeight='70' sectionFooterHeight='0.0' sectionHeaderHeight='0.0' separatorStyle='none' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' style='plain'>
+                    <rect height='348' key='frame' width='298' x='11' y='108'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <connections>
+                        <outlet destination='-1' id='54' property='dataSource'/>
+                        <outlet destination='-1' id='55' property='delegate'/>
+                    </connections>
+                </tableView>
+                <imageView clipsSubviews='YES' contentMode='center' id='51' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='1' key='frame' width='300' x='10' y='108'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='52' image='borderlistwithborder.9b.png' userInteractionEnabled='NO'>
+                    <rect height='382' key='frame' width='300' x='10' y='78'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='3' name='borderlist_line.png' width='754'/>
+        <image height='848' name='borderlistwithborder.9b.png' width='600'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

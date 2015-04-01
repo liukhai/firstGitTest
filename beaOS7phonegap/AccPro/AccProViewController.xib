@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13D65' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='AccProViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <navigationController autoresizesArchivedViewToFullSize='NO' id='4' navigationBarHidden='YES' userLabel='Navigation Controller'>
+            <extendedEdge key='edgesForExtendedLayout'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <nil key='simulatedTopBarMetrics'/>
+            <nil key='simulatedBottomBarMetrics'/>
+            <simulatedOrientationMetrics key='simulatedOrientationMetrics'/>
+            <nil key='simulatedDestinationMetrics'/>
+            <navigationBar clipsSubviews='YES' contentMode='scaleToFill' id='6' key='navigationBar' multipleTouchEnabled='YES' opaque='NO'>
+                <autoresizingMask key='autoresizingMask'/>
+                <color alpha='1' blue='0.22352941179999999' colorSpace='calibratedRGB' green='0.0039215686269999999' key='tintColor' red='0.82745098039999998'/>
+            </navigationBar>
+            <viewControllers>
+                <viewController customClass='RootViewController' id='5' nibName='RootViewController'>
+                    <extendedEdge key='edgesForExtendedLayout'/>
+                    <navigationItem id='7' key='navigationItem'>
+                        <nil key='title'/>
+                    </navigationItem>
+                    <nil key='simulatedStatusBarMetrics'/>
+                    <nil key='simulatedTopBarMetrics'/>
+                    <nil key='simulatedBottomBarMetrics'/>
+                    <simulatedOrientationMetrics key='simulatedOrientationMetrics'/>
+                    <nil key='simulatedDestinationMetrics'/>
+                </viewController>
+            </viewControllers>
+        </navigationController>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </view>
+    </objects>
+</document>

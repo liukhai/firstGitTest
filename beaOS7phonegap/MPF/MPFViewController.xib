@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='MPFViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='LmR-f4-sai' id='HXc-Uk-4tO' property='backBtn'/>
+                <outlet destination='0Gv-9q-gvU' id='KFs-fU-Dz6' property='backgroundView'/>
+                <outlet destination='18' id='23' property='bt_callMPFhotline'/>
+                <outlet destination='17' id='22' property='bt_loginMBK'/>
+                <outlet destination='19' id='21' property='btnView'/>
+                <outlet destination='awE-5M-4sa' id='Jya-bn-csc' property='navigationImage'/>
+                <outlet destination='9' id='14' property='tabBar'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <navigationController autoresizesArchivedViewToFullSize='NO' id='4' userLabel='Navigation Controller'>
+            <extendedEdge key='edgesForExtendedLayout'/>
+            <navigationBar clipsSubviews='YES' contentMode='scaleToFill' id='6' key='navigationBar' multipleTouchEnabled='YES' opaque='NO'>
+                <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                <color alpha='1' blue='0.22352941179999999' colorSpace='calibratedRGB' green='0.0039215686269999999' key='tintColor' red='0.82745098039999998'/>
+            </navigationBar>
+            <viewControllers>
+                <viewController customClass='RootViewController' id='5' nibName='RootViewController'>
+                    <extendedEdge key='edgesForExtendedLayout'/>
+                    <navigationItem id='7' key='navigationItem'>
+                        <nil key='title'/>
+                    </navigationItem>
+                </viewController>
+            </viewControllers>
+        </navigationController>
+        <tabBar clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='9'>
+            <rect height='49' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMinY='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <items>
+                <tabBarItem id='13' image='offers_200dpi.png' title='Loan Offers'/>
+                <tabBarItem id='11' image='MPF_news.png' tag='1' title='Application'/>
+                <tabBarItem id='10' image='fund_price.png' tag='2' title='Nearby'/>
+                <tabBarItem id='12' image='enquiry_200dpi.png' tag='4' title='Enquiry'/>
+            </items>
+        </tabBar>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView clipsSubviews='YES' contentMode='center' id='awE-5M-4sa' image='navigation.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='44' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <view contentMode='scaleToFill' id='0Gv-9q-gvU'>
+                    <rect height='387' key='frame' width='320' x='0.0' y='44'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </view>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='LmR-f4-sai' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='44' key='frame' width='64' x='8' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <state key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='Y6Q-K5-F8W' selector='backBtnClick:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' hidden='YES' id='19'>
+            <rect height='38' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='17' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='35' key='frame' width='150' x='7' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='boldSystem'/>
+                    <state backgroundImage='apply_online_button.png' key='normal'>
+                        <string key='title'>    Log in to
+mobile banking</string>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='18' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='35' key='frame' width='150' x='164' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='boldSystem'/>
+                    <state backgroundImage='apply_online_button.png' key='normal' title='Call MPF hotline'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='27' name='MPF_news.png' width='27'/>
+        <image height='34' name='apply_online_button.png' width='286'/>
+        <image height='27' name='enquiry_200dpi.png' width='27'/>
+        <image height='27' name='fund_price.png' width='27'/>
+        <image height='44' name='navigation.png' width='320'/>
+        <image height='27' name='offers_200dpi.png' width='27'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

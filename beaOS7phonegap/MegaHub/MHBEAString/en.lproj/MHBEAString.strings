@@ -1,0 +1,99 @@
+/* 
+ WFLocalizable.strings
+ MegaHub
+ 
+ Created by Hong on 05/05/2011.
+ Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+
+"MHBEAIndexBarView.m_oDespLabel" = "HSI";
+
+"MHBEAWatchlistLv0ViewController.m_oBackButton" = "Back";
+"MHBEAWatchlistLv0ViewController.m_oEditButton.edit" = "Edit";
+"MHBEAWatchlistLv0ViewController.m_oEditButton.done" = "Save";
+"MHBEAWatchlistLv0ViewController.tableview.delete" = "Delete";
+
+"MHBEAWatchlistLv0View.m_oStockTotalValueTitle"				= "Total Profit / Loss";
+
+// MHBEAWatchlistLv0ViewStockCell
+"MHBEAWatchlistLv0ViewStockCell.m_oInputPriceTextField.placeholder"		= "<Price>";
+"MHBEAWatchlistLv0ViewStockCell.m_oQtyTextField.placeholder"			= "<Qty.>";
+"MHBEAWatchlistLv0ViewStockCell.symbolLabel"							= "Code";
+"MHBEAWatchlistLv0ViewStockCell.despLabel"								= "Name";
+"MHBEAWatchlistLv0ViewStockCell.lastLabel"								= "Last Price";
+"MHBEAWatchlistLv0ViewStockCell.changeLabel"							= "Change";
+"MHBEAWatchlistLv0ViewStockCell.pChangeLabel"							= "%";
+"MHBEAWatchlistLv0ViewStockCell.changeLabel.gainloss"					= "Cal. P/L";
+"MHBEAWatchlistLv0ViewStockCell.pChangeLabel.pgainloss"					= "%";
+"MHBEAWatchlistLv0ViewStockCell.buy_Label"                              = "Buy @";
+"MHBEAWatchlistLv0ViewStockCell.cal_p_l_Label"                          = "Cal. P/L";
+
+"AlertView.showCannotAddStockToWatchlist.title"				= "This stock has been added in the watchlist";
+"AlertView.showCannotAddStockToWatchlist.ok"				= "OK";
+"AlertView.showAddedStockToWatchlist.title" = "Successfully";
+"AlertView.showAddedStockToWatchlist.message" = "Added to watchlist";
+"AlertView.showAddedStockToWatchlist.ok" = "OK";
+"AlertView.showAddWatchlistInvalidStock.title" = "Invalid Stock";
+"AlertView.showAddWatchlistInvalidStock.message" = "Cannot add to watchlist";
+"AlertView.showAddWatchlistInvalidStock.ok" = "OK";
+
+"MHDisclaimerBarView.m_oTextLabel"			= "The above data are for reference only.";
+
+
+"MHBEAFAQuoteViewController.title" = "Quote";
+"MHBEAFAQuoteViewController.title.invalid_stock" = "Invalid stock";
+"MHBEAFAQuoteView.m_oBidTitleLabel" = "Bid";
+"MHBEAFAQuoteView.m_oAskTitleLabel" = "Ask";
+"MHBEAFAQuoteViewController.ok" = "OK";
+
+
+"MHBEAPTSSIndexViewController.indices" = "Indices";
+"MHBEAPTSSIndexViewController.sector" = "Sector";
+"MHBEAPTSSIndexViewController.ranking" = "Ranking";
+"MHBEAPTSSIndexViewController.ah" = "A + H";
+"MHBEAPTSSIndexViewController.news" = "News";
+
+
+"MHBEAFAQuoteView.m_oLastUpdateTimeLabel"	= "The above data are for ref. only. Last Update:";
+"MHBEAWatchlistLv0View.m_oSearchBar.placeholder" = "Stock Name/Code";
+"MHBEAWatchlistLv0View.m_oSearchBar.searchButton" = "Search";
+
+"MHBEAQuoteGainLossView.m_oBuyPriceTitleLabel" = "Buy Price";
+"MHBEAQuoteGainLossView.m_oQtyTitleLabel" = "Qty.";
+"MHBEAQuoteGainLossView.m_oCostTitleLabel" = "Cost";
+"MHBEAQuoteGainLossView.m_oGainLossTitleLabel" = "P/L";
+"MHBEAQuoteGainLossView.m_oMarketValueTitleLabel" = "Mkt. Val.";
+"MHBEAQuoteGainLossView.m_oGainLossPctTitleLabel" = "P/L(%)";
+"MHBEAIndexBarView.m_oQuoteButton" = "Quote";
+
+
+"MHDisclaimerBarView.m_oTextUPLabel" = "Data are at least 15 mins delayed and provided by MegaHub";
+"MHDisclaimerBarView.m_oDelayTextLabel" = "(Delay at least 15mins)";
+"MHBEAWatchlistLv0ViewController.no_search_result" = "No Search Result";
+"MHBEABuySellStockView.m_oBuySellButton.buy" = "Input Order";
+"MHBEABuySellStockView.m_oBuySellLabel.buy" = "Click stock to proceed";
+
+"MHBEABasicDataView.m_oBottomLeftButton" = "◂       Quote Details";
+"MHBEABasicDataView.m_oBottomRightButton" = "Basic Data       ▸";
+
+"MHBEABottomBarView.m_oBuyButton" = "Buy";
+"MHBEABottomBarView.m_oQuoteButton" = "Quote";
+"MHBEABottomBarView.m_oNewsButton" = "News";
+"MHBEABottomBarView.m_oStockButton" = "Stock";
+"MHBEABottomBarView.m_oSellButton" = "Sell";
+
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.all" = "All News";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.overview" = "Market Overview";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.market" = "Market News";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.overseas" = "Overseas Trends";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.commentary" = "Commentary & Report";
+
+"AlertView.showNoMobileNoStockTrading.title" = "Thank you for using our stock trading service.
+
+If you have a Cyberbanking account and a sub-securities account, please press \"Settings\" at app menu and follow the instruction to create a mobile password for stock trading service.";
+"AlertView.showNoMobileNoStockTrading.cancelButton" = "OK";
+
+"AlertView.showNoMobileNoEAS.title" = "To enjoy Cybertrading - Mobile Service, please 
+1. log in to your Cyberbanking account online and activate the mobile channel (select Homepage/Mobile Banking) OR visit any EAS outlet to register
+2. select \"Settings\" in the BEA App main menu and input your mobile phone number.";
+"AlertView.showNoMobileNoEAS.cancelButton" = "OK";

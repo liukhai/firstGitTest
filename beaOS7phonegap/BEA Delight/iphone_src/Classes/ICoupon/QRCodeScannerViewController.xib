@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13F34' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1296' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='QRCodeScannerViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='FXI-7X-Bmr' id='Pb1-gg-5uy' property='btn_cancel'/>
+                <outlet destination='i5M-Pr-FkT' id='sfx-zR-JGt' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='i5M-Pr-FkT'>
+            <rect height='548' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='FXI-7X-Bmr' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='155' x='83' y='412'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                    <state backgroundImage='btn_orange_big.png' key='normal' title='Cancel &amp; Back'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='dod-Xs-IAS' selector='cancel_onTouch:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange_big.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_big_new.png'/></userDefinedRuntimeAttributes></button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='44' name='btn_orange_big.png' width='180'/>
+    </resources>
+</document>

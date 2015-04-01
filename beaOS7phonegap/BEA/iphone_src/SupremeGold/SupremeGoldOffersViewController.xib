@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14A389' targetRuntime='iOS.CocoaTouch' toolsVersion='6250' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6244'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='SupremeGoldOffersViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='cfn-Ak-htm' id='KK0-Fy-q1D' property='bookButton'/>
+                <outlet destination='cfn-Ak-htm' id='OE9-pJ-72K' property='btnBookmark'/>
+                <outlet destination='xO3-rx-AGj' id='eaB-ox-8N7' property='btnGotoURL'/>
+                <outlet destination='4wg-yC-JRe' id='Ma2-Y6-jfH' property='btnShare'/>
+                <outlet destination='3Se-GL-XSK' id='A8y-Ff-loD' property='btnTC'/>
+                <outlet destination='c4N-Oq-DU6' id='kNZ-Hi-L1S' property='callButton'/>
+                <outlet destination='hnt-nl-h2G' id='r6A-1B-FtS' property='contentScroll'/>
+                <outlet destination='Whn-pK-hUm' id='kUM-rS-Bxw' property='view'/>
+                <outlet destination='hY3-tx-X3n' id='Ev9-Xd-Tdq' property='webView'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='Whn-pK-hUm' multipleTouchEnabled='YES'>
+            <rect height='460' key='frame' width='320' x='0.0' y='20'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' hidden='YES' horizontalHuggingPriority='251' id='3JY-JQ-JTY' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='21' key='frame' width='42' x='139' y='220'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='hnt-nl-h2G' multipleTouchEnabled='YES'>
+                    <rect height='313' key='frame' width='320' x='0.0' y='95'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <webView contentMode='scaleToFill' id='hY3-tx-X3n' multipleTouchEnabled='YES' scalesPageToFit='YES'>
+                            <rect height='313' key='frame' width='320' x='0.0' y='0.0'/>
+                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                            <connections>
+                                <outlet destination='-1' id='1P1-Er-S4I' property='delegate'/>
+                            </connections>
+                        </webView>
+                    </subviews>
+                </scrollView>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='cfn-Ak-htm' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='30' x='279' y='107'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='0.0' minY='-5'/>
+                    <state backgroundImage='btn_bookmark.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' blue='0.11372549830000001' colorSpace='deviceRGB' green='0.1215686351' key='titleShadowColor' red='0.0'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='2oa-eh-iuG' selector='doButtonsPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_bookmark.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_bookmark_new.png'/></userDefinedRuntimeAttributes></button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='3Se-GL-XSK' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='35' key='frame' width='80' x='2' y='416'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_01.png' key='normal' title='1'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='WRQ-P7-VpH' selector='doButtonsPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='4wg-yC-JRe' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='35' key='frame' width='80' x='81' y='416'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_01.png' key='normal' title='2'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='fB9-YN-Pky' selector='doButtonsPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='c4N-Oq-DU6' lineBreakMode='middleTruncation' opaque='NO' tag='3'>
+                    <rect height='35' key='frame' width='80' x='162' y='416'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_01.png' key='normal' title='3'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='7wS-0G-GtP' selector='doButtonsPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='xO3-rx-AGj' lineBreakMode='middleTruncation' opaque='NO' tag='4'>
+                    <rect height='35' key='frame' width='80' x='240' y='416'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_01.png' key='normal' title='4'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='2al-ge-Nkj' selector='doButtonsPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='70' name='btn_blank_01.png' width='305'/>
+        <image height='68' name='btn_bookmark.png' width='68'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

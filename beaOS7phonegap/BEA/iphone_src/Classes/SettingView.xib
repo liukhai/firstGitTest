@@ -1,0 +1,663 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14C109' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='SettingViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='86' id='75l-4v-EIr' property='CyberbankingSBackImg'/>
+                <outlet destination='93' id='r7m-gf-Dqc' property='CyberbankingSBottomImg'/>
+                <outlet destination='103' id='ued-ix-HkU' property='Img1'/>
+                <outlet destination='104' id='axa-Wj-CDO' property='Img2'/>
+                <outlet destination='71' id='qLi-Pp-1zd' property='btnDefaultAccount_1'/>
+                <outlet destination='TUK-mn-3RH' id='9mr-rx-nyK' property='btnDefaultAccount_1BigBtn'/>
+                <outlet destination='75' id='77' property='btnDefaultAccount_2'/>
+                <outlet destination='HVZ-Z5-mOC' id='Wlc-dp-DFt' property='btnDefaultAccount_2BigBtn'/>
+                <outlet destination='54' id='62' property='btnDefaultPage_1'/>
+                <outlet destination='56' id='63' property='btnDefaultPage_2'/>
+                <outlet destination='58' id='64' property='btnDefaultPage_3'/>
+                <outlet destination='46' id='60' property='btnLang_en'/>
+                <outlet destination='47' id='61' property='btnLang_zh'/>
+                <outlet destination='F8u-wU-Uf1' id='BSJ-XT-mLA' property='btnPageTheme_1'/>
+                <outlet destination='ANQ-Wk-T5b' id='Wyf-Rd-CDS' property='btnPageTheme_2'/>
+                <outlet destination='13' id='33' property='cyberbanking_button'/>
+                <outlet destination='Ktb-MB-MI8' id='qc0-cV-aLV' property='cyberbanking_input'/>
+                <outlet destination='0ep-80-BxC' id='dfq-Mx-vVV' property='cyberbanking_input_label'/>
+                <outlet destination='90' id='91' property='cyberbanking_text'/>
+                <outlet destination='83' id='88' property='cyberbanking_title'/>
+                <outlet destination='98' id='Wz0-dS-un6' property='cybertradingSBackImg'/>
+                <outlet destination='94' id='RsJ-ur-nw4' property='cybertradingSBottomImg'/>
+                <outlet destination='19' id='34' property='cybertrading_button'/>
+                <outlet destination='20' id='27' property='cybertrading_input'/>
+                <outlet destination='l7u-je-nTL' id='Uyt-ah-7fM' property='cybertrading_input_label'/>
+                <outlet destination='9Lm-m8-BhW' id='Gvo-Mr-3Gs' property='cybertrading_text'/>
+                <outlet destination='105' id='112' property='cybertrading_text3'/>
+                <outlet destination='106' id='113' property='cybertrading_text4'/>
+                <outlet destination='99' id='101' property='cybertrading_title'/>
+                <outlet destination='72' id='80' property='lbDefaultAccount_1'/>
+                <outlet destination='74' id='81' property='lbDefaultAccount_2'/>
+                <outlet destination='bUN-xp-Eau' id='W4T-BN-sUT' property='mCopright'/>
+                <outlet destination='YiD-B3-oP8' id='FlI-n9-xhs' property='mVersionLabel'/>
+                <outlet destination='k51-ks-h40' id='TFb-gx-bnr' property='notification_label'/>
+                <outlet destination='AL7-8Q-ZLF' id='K3Y-5i-94l' property='notification_off'/>
+                <outlet destination='04V-gM-Gax' id='sfj-wj-kGx' property='notification_on'/>
+                <outlet destination='21' id='23' property='save_button'/>
+                <outlet destination='40' id='42' property='save_button02'/>
+                <outlet destination='12' id='35' property='scroll_view'/>
+                <outlet destination='53' id='115' property='setting_default_page'/>
+                <outlet destination='52' id='114' property='setting_language'/>
+                <outlet destination='qbT-9q-rbK' id='okJ-Pb-JFs' property='setting_page_theme'/>
+                <outlet destination='1' id='3' property='view'/>
+                <outlet destination='116' id='120' property='view4EAS'/>
+                <outlet destination='118' id='121' property='view4Lang'/>
+                <outlet destination='117' id='119' property='view4MobileBanking'/>
+                <outlet destination='122' id='124' property='view4Part1'/>
+                <outlet destination='123' id='125' property='view4Part2'/>
+                <outlet destination='Rkd-cm-CLs' id='v8c-CJ-LtW' property='view4Version'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='12' multipleTouchEnabled='YES'>
+            <rect height='753' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view contentMode='scaleToFill' id='122'>
+                    <rect height='37' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='71' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='20' key='frame' width='20' x='12' y='8'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='tick_no.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='tick_yes.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='78' selector='changeDefaultAccount:'/>
+                            </connections>
+                        </button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='72' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='Default stock account (For Stock Watch &amp; Fast Trade)' userInteractionEnabled='NO'>
+                            <rect height='36' key='frame' width='269' x='40' y='1'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='TUK-mn-3RH' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='30' key='frame' width='320' x='0.0' y='4'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <state key='normal'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='Mr2-HG-Tjv' selector='changeDefaultAccount:'/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='117'>
+                    <rect height='133' key='frame' width='320' x='0.0' y='37'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='82' image='borderlist_thin_white_top.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='8' key='frame' width='300' x='10' y='0.0'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='84' image='borderlist_white.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='33' key='frame' width='300' x='10' y='8'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='85' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='1' key='frame' width='300' x='10' y='41'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='86' image='borderlist_gray.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='87' key='frame' width='300' x='10' y='42'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='93' image='borderlist_thin_gray_bottom.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='8' key='frame' width='300' x='10' y='125'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits image='YES' key='traits' none='YES' notEnabled='YES'/>
+                            </accessibility>
+                        </imageView>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='83' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' text='Mobile Banking/Stock Trading Services' userInteractionEnabled='NO'>
+                            <rect height='33' key='frame' width='300' x='10' y='8'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES' staticText='YES'/>
+                            </accessibility>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='90' multipleTouchEnabled='YES' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' text='Please input your mobile phone number below and press &quot;Save&quot;:'>
+                            <rect height='57' key='frame' width='300' x='10' y='42'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES' staticText='YES'/>
+                            </accessibility>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <button contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='13' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                            <rect height='29' key='frame' width='105' x='14' y='90'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='11' minY='0.0'/>
+                            <state key='normal' title='Cyberbanking:'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                        </button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' contentMode='left' horizontalHuggingPriority='251' id='0ep-80-BxC' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='25' key='frame' width='15' x='120' y='92'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <textField clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='Ktb-MB-MI8' minimumFontSize='17' opaque='NO'>
+                            <rect height='24' key='frame' width='116' x='119' y='93'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <textInputTraits key='textInputTraits' keyboardType='numberPad' returnKeyType='done'/>
+                            <connections>
+                                <outlet destination='-1' id='m68-IS-Gbx' property='delegate'/>
+                            </connections>
+                        </textField>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='40' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='29' key='frame' width='64' x='244' y='90'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <size height='1' key='titleShadowOffset' width='1'/>
+                            <state backgroundImage='btn_blank_03.png' key='normal' title='Save'>
+                                <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='43' selector='saveButtonPressed02:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_03.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_03_new.png'/></userDefinedRuntimeAttributes></button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='123'>
+                    <rect height='36' key='frame' width='320' x='0.0' y='170'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='74' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='Default stock account (For Stock Watch &amp; Fast Trade)' userInteractionEnabled='NO'>
+                            <rect height='36' key='frame' width='269' x='40' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='75' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                            <rect height='20' key='frame' width='20' x='12' y='8'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='tick_no.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='tick_yes.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='79' selector='changeDefaultAccount:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='HVZ-Z5-mOC' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                            <rect height='30' key='frame' width='320' x='0.0' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <state key='normal'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='GHV-sO-9Mj' selector='changeDefaultAccount:'/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='116'>
+                    <rect height='255' key='frame' width='320' x='0.0' y='206'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='97' image='borderlist_thin_white_top.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='8' key='frame' width='300' x='10' y='0.0'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='95' image='borderlist_white.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='48' key='frame' width='300' x='10' y='8'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='96' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='1' key='frame' width='300' x='10' y='56'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='98' image='borderlist_gray.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='190' key='frame' width='300' x='10' y='57'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='94' image='borderlist_thin_gray_bottom.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='8' key='frame' width='300' x='10' y='247'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='99' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' userInteractionEnabled='NO'>
+                            <rect height='51' key='frame' width='290' x='10' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES' staticText='YES'/>
+                            </accessibility>
+                            <string key='text'>EAS Cybertrading - Mobile Service
+ (For EAS customers only)</string>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <fontDescription family='Helvetica Neue' key='fontDescription' name='HelveticaNeue' pointSize='14'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='103' image='setting_number1.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='20' key='frame' width='20' x='20' y='112'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration' label='1'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                        </imageView>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='105' multipleTouchEnabled='YES' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO'>
+                            <rect height='68' key='frame' width='270' x='38' y='102'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES' staticText='YES'/>
+                            </accessibility>
+                            <string key='text'>log in to your Cyberbanking account online and activate the mobile channel (select Homepage/Mobile Banking) OR visit and EAS outlet to register and</string>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='104' image='setting_number2.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='20' key='frame' width='20' x='20' y='177'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='106' multipleTouchEnabled='YES' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' text='input your mobile phone number below and press &quot;Save&quot;:'>
+                            <rect height='50' key='frame' width='270' x='38' y='170'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' heightSizable='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES' staticText='YES'/>
+                            </accessibility>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <button contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='19' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                            <rect height='29' key='frame' width='96' x='14' y='215'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='11' minY='0.0'/>
+                            <state key='normal' title='Cybertrading:'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                        </button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' contentMode='left' horizontalHuggingPriority='251' id='l7u-je-nTL' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='24' key='frame' width='16' x='118' y='217'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <textField clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='20' minimumFontSize='17' opaque='NO'>
+                            <rect height='24' key='frame' width='116' x='118' y='217'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <textInputTraits key='textInputTraits' keyboardType='numberPad' returnKeyType='done'/>
+                            <connections>
+                                <outlet destination='-1' id='24' property='delegate'/>
+                            </connections>
+                        </textField>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='21' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                            <rect height='29' key='frame' width='64' x='244' y='214'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <size height='1' key='titleShadowOffset' width='1'/>
+                            <state backgroundImage='btn_blank_03.png' key='normal' title='Save'>
+                                <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='29' selector='saveButtonPressed:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_03.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_03_new.png'/></userDefinedRuntimeAttributes></button>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='9Lm-m8-BhW' multipleTouchEnabled='YES' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' text='To enjoy Cybertrading - Mobile Service, please'>
+                            <rect height='50' key='frame' width='300' x='10' y='55'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' heightSizable='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES' staticText='YES'/>
+                            </accessibility>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='118'>
+                    <rect height='211' key='frame' width='320' x='0.0' y='468'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='108' image='borderlist_thin_white_top.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='8' key='frame' width='300' x='10' y='0.0'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='107' image='borderlist_white.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='48' key='frame' width='300' x='10' y='8'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='110' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='1' key='frame' width='300' x='10' y='56'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='111' image='borderlist_gray.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='48' key='frame' width='300' x='10' y='57'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='dBW-hi-ga4' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='1' key='frame' width='300' x='10' y='105'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='oqg-B1-pyz' image='borderlist_white.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='48' key='frame' width='300' x='10' y='106'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='hHw-DY-F1G' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='1' key='frame' width='300' x='10' y='154'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='MVO-pt-rMj' image='borderlist_gray.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='48' key='frame' width='300' x='10' y='155'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='109' image='borderlist_thin_gray_bottom.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='8' key='frame' width='300' x='10' y='203'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='52' lineBreakMode='tailTruncation' opaque='NO' text='Language' userInteractionEnabled='NO'>
+                            <rect height='22' key='frame' width='81' x='16' y='18'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='47' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='35' key='frame' width='100' x='204' y='11'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_01_right_off.png' key='normal' title='繁體'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_01_right_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='70' selector='changeLang:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_01_right_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_01_right_on_new.png'/></userDefinedRuntimeAttributes></button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='46' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='35' key='frame' width='100' x='105' y='11'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_01_left_off.png' key='normal' title='English'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_01_left_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='69' selector='changeLang:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_01_left_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_01_left_on_new.png'/></userDefinedRuntimeAttributes></button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='53' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='Default Main page' userInteractionEnabled='NO'>
+                            <rect height='35' key='frame' width='73' x='16' y='66'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='58' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='35' key='frame' width='67' x='237' y='66'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_02_right_off.png' key='normal' title='Lifestyle'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_02_right_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='68' selector='changeDefaultPage:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='56' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                            <rect height='35' key='frame' width='67' x='171' y='66'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_02_middle_off.png' key='normal' title='Wealth'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_02_middle_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='67' selector='changeDefaultPage:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_02_middle_off.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_02_middle_off_new.png'/></userDefinedRuntimeAttributes></button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='54' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='35' key='frame' width='67' x='105' y='66'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_02_left_off.png' key='normal' title='Banking'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_02_left_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='66' selector='changeDefaultPage:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_02_left_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_02_left_on_new.png'/></userDefinedRuntimeAttributes></button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='qbT-9q-rbK' lineBreakMode='tailTruncation' opaque='NO' text='Page Theme' userInteractionEnabled='NO'>
+                            <rect height='22' key='frame' width='81' x='16' y='118'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='F8u-wU-Uf1' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='35' key='frame' width='100' x='105' y='113'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_01_left_off.png' key='normal' title='Orange&amp;Red'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_01_left_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='kW5-DU-XCK' selector='changePageTheme:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_01_left_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_01_left_on_new.png'/></userDefinedRuntimeAttributes></button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='ANQ-Wk-T5b' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                            <rect height='35' key='frame' width='100' x='204' y='113'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_01_right_off.png' key='normal' title='Red'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_01_right_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='89h-NN-ich' selector='changePageTheme:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_01_right_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_01_right_on_new.png'/></userDefinedRuntimeAttributes></button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='k51-ks-h40' lineBreakMode='tailTruncation' opaque='NO' text='Notification' userInteractionEnabled='NO'>
+                            <rect height='22' key='frame' width='81' x='16' y='167'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='04V-gM-Gax' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='35' key='frame' width='100' x='105' y='162'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_01_left_off.png' key='normal' title='on'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_01_left_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='jxi-ah-SHn' selector='clickNotificationOnOrOff:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_01_left_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_01_left_on_new.png'/></userDefinedRuntimeAttributes></button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='AL7-8Q-ZLF' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='35' key='frame' width='100' x='204' y='162'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='setting_switchbtn_01_right_off.png' key='normal' title='off'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='setting_switchbtn_01_right_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='G7H-L8-P6c' selector='clickNotificationOnOrOff:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='setting_switchbtn_01_right_on.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='setting_switchbtn_01_right_on_new.png'/></userDefinedRuntimeAttributes></button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='Rkd-cm-CLs'>
+                    <rect height='51' key='frame' width='320' x='0.0' y='687'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='YiD-B3-oP8' lineBreakMode='tailTruncation' opaque='NO' text='Version' userInteractionEnabled='NO'>
+                            <rect height='22' key='frame' width='261' x='20' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='10' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='bUN-xp-Eau' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='© 2006 The Bank of East Asia, Limited. All rights reserved.' userInteractionEnabled='NO'>
+                            <rect height='43' key='frame' width='287' x='20' y='8'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='10' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+            </subviews>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </scrollView>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='20' name='borderlist_gray.png' width='754'/>
+        <image height='3' name='borderlist_line.png' width='754'/>
+        <image height='20' name='borderlist_thin_gray_bottom.png' width='676'/>
+        <image height='20' name='borderlist_thin_white_top.png' width='676'/>
+        <image height='20' name='borderlist_white.png' width='754'/>
+        <image height='70' name='btn_blank_03.png' width='148'/>
+        <image height='46' name='setting_number1.png' width='46'/>
+        <image height='46' name='setting_number2.png' width='46'/>
+        <image height='70' name='setting_switchbtn_01_left_off.png' width='200'/>
+        <image height='70' name='setting_switchbtn_01_left_on.png' width='200'/>
+        <image height='70' name='setting_switchbtn_01_right_off.png' width='200'/>
+        <image height='70' name='setting_switchbtn_01_right_on.png' width='200'/>
+        <image height='70' name='setting_switchbtn_02_left_off.png' width='134'/>
+        <image height='68' name='setting_switchbtn_02_left_on.png' width='148'/>
+        <image height='70' name='setting_switchbtn_02_middle_off.png' width='134'/>
+        <image height='70' name='setting_switchbtn_02_middle_on.png' width='134'/>
+        <image height='70' name='setting_switchbtn_02_right_off.png' width='134'/>
+        <image height='70' name='setting_switchbtn_02_right_on.png' width='134'/>
+        <image height='38' name='tick_no.png' width='38'/>
+        <image height='38' name='tick_yes.png' width='38'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

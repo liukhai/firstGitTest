@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='12F45' targetRuntime='iOS.CocoaTouch' toolsVersion='4514' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1072' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3747'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='TaxLoanHomeViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='43' id='45' property='back_to_home'/>
+                <outlet destination='5' id='67' property='bt_application'/>
+                <outlet destination='7' id='68' property='bt_callnow'/>
+                <outlet destination='9' id='69' property='bt_nearby'/>
+                <outlet destination='6' id='66' property='bt_offers'/>
+                <outlet destination='31' id='65' property='label0'/>
+                <outlet destination='26' id='64' property='label1'/>
+                <outlet destination='32' id='39' property='label2'/>
+                <outlet destination='33' id='40' property='label3'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button buttonType='roundedRect' clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='top' contentVerticalAlignment='center' id='5' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='72' key='frame' width='76' x='189' y='44'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <state backgroundImage='icon_online.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='11' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='6' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='72' key='frame' width='76' x='55' y='44'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <state backgroundImage='icon_offers.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='12' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='7' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='72' key='frame' width='76' x='56' y='164'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <state backgroundImage='icon_callnow.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='13' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='9' lineBreakMode='middleTruncation' opaque='NO' tag='3'>
+                    <rect height='72' key='frame' width='76' x='188' y='164'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <state backgroundImage='icon_nearby.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='16' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='26' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Application' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='188' y='129'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' flexibleMinX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='31' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Loan Offers' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='56' y='110'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='32' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Call Now' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='55' y='228'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='33' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='BEA Nearby' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='188' y='228'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='43' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='37' key='frame' width='156' x='92' y='295'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='6' minX='0.0' minY='0.0'/>
+                    <size height='-1' key='titleShadowOffset' width='-1'/>
+                    <state backgroundImage='btn_back_to_main_menu.png' key='normal' title='Back to Main Menu'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='titleShadowColor' white='0.25'/>
+                    </state>
+                    <state backgroundImage='btn_back_to_main_menu_highlighted.png' key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='47' selector='backToHomePressed:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='0.0' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='37' name='btn_back_to_main_menu.png' width='156'/>
+        <image height='37' name='btn_back_to_main_menu_highlighted.png' width='156'/>
+        <image height='200' name='icon_callnow.png' width='211'/>
+        <image height='200' name='icon_nearby.png' width='211'/>
+        <image height='200' name='icon_offers.png' width='211'/>
+        <image height='200' name='icon_online.png' width='211'/>
+    </resources>
+</document>

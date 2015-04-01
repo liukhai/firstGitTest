@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='FavouriteListViewController2' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='56' id='59' property='btnEdit'/>
+                <outlet destination='7' id='10' property='table_view'/>
+                <outlet destination='55' id='57' property='title_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask key='autoresizingMask'/>
+            <subviews>
+                <tableView bounces='NO' bouncesZoom='NO' clearsContextBeforeDrawing='NO' clipsSubviews='YES' contentMode='scaleToFill' id='7' opaque='NO' rowHeight='44' sectionFooterHeight='1' sectionHeaderHeight='1' separatorStyle='none' showsHorizontalScrollIndicator='NO' style='plain'>
+                    <rect height='349' key='frame' width='298' x='11' y='110'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <connections>
+                        <outlet destination='-1' id='8' property='dataSource'/>
+                        <outlet destination='-1' id='9' property='delegate'/>
+                    </connections>
+                </tableView>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='55' lineBreakMode='tailTruncation' opaque='NO' text='Label' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='189' x='20' y='80'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='56' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='25' key='frame' width='73' x='227' y='80'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_02.png' key='normal' title='Edit'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='58' selector='btnPressedEdit:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_02.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_02_new.png'/></userDefinedRuntimeAttributes></button>
+                <imageView clipsSubviews='YES' contentMode='center' id='54' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='1' key='frame' width='298' x='11' y='110'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='50' image='borderlistwithborder.9b.png' userInteractionEnabled='NO'>
+                    <rect height='390' key='frame' width='300' x='10' y='70'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='3' name='borderlist_line.png' width='754'/>
+        <image height='848' name='borderlistwithborder.9b.png' width='600'/>
+        <image height='70' name='btn_blank_02.png' width='200'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

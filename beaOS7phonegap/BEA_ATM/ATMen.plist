@@ -1,0 +1,7293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SN</key>
+	<string>20110307</string>
+	<key>atmlist</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Admiralty Branch</string>
+			<key>address</key>
+			<string>Shop 1007 &amp;amp; 1008, United Centre, 95 Queensway, Admiralty</string>
+			<key>remark</key>
+			<string>6:00 a.m. to 10:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.278653,114.165287</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Main Branch</string>
+			<key>address</key>
+			<string>10 Des Voeux Road Central</string>
+			<key>remark</key>
+			<string>Office hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.281204,114.158378</string>
+			<key>newtopitem</key>
+			<string>1</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>3</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Entertainment Building</string>
+			<key>address</key>
+			<string>Open Space outside the Shop 2E &amp;amp; F, 2/F, Entertainment Building, Central</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.281589,114.156551</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>4</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Queen&apos;s Road Central Branch</string>
+			<key>address</key>
+			<string>G/F, Wah Ying Cheong Building, 158-164 Queen&apos;s Road Central</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.284517,114.153711</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>5</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Bonham Road Branch</string>
+			<key>address</key>
+			<string>Shop No. 1-3, Ka Fu Building, 19-27 Bonham Road, Mid-levels</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.28449,114.142566</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>6</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Caine Road Branch</string>
+			<key>address</key>
+			<string>Shop C, G/F, Cameo Court, 63-69 Caine Road, Mid-levels</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.281154,114.152262</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>7</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>The University of HK Branch</string>
+			<key>address</key>
+			<string>Rm 203, 2/F, Chong Yuet Ming Amenities Centre, Pokfulam</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.28273,114.139063</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>8</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Sheung Wan Branch</string>
+			<key>address</key>
+			<string>181 Des Voeux Road Central, Sheung Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.285952,114.154003</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>9</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>88 Des Voeux Road West Branch</string>
+			<key>address</key>
+			<string>Shop Nos. 2-3, G/F, Princeton Tower, 88 Des Voeux Road West, Western District</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.287563,114.146015</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>10</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Kennedy Town Centre Branch</string>
+			<key>address</key>
+			<string>Shop D, G/F, Kennedy Town Centre, 23 Belcher&apos;s Street, Western District</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.283805,114.130654</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>11</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Chai Wan Branch</string>
+			<key>address</key>
+			<string>G/F, 345 Chai Wan Road, Chai Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.264276,114.240437</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>12</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>King&apos;s Road Branch</string>
+			<key>address</key>
+			<string>Shop 2, G/F, S U P  Tower, 75-83 King&apos;s Road, Fortress Hill</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.28616,114.192809</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>13</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>North Point Branch</string>
+			<key>address</key>
+			<string>G/F, 326-328 King&apos;s Road, North Point</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.290322,114.196578</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>14</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Quarry Bay Branch</string>
+			<key>address</key>
+			<string>G/F, 1035 King&apos;s Road, Quarry Bay</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.284748,114.213502</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>15</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Shaukiwan Branch</string>
+			<key>address</key>
+			<string>G/F, Ka Fook Building, Nos. 289-293 Shaukiwan Road, Shaukiwan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.278747,114.226409</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>16</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>307 Shaukiwan Road</string>
+			<key>address</key>
+			<string>Portion of G/F Shop, 307-309 Shaukiwan Road, Shaukiwan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.278184,114.226782</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>17</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Siu Sai Wan Branch</string>
+			<key>address</key>
+			<string>Shop Nos. 56-62, G/F, Cheerful Garden, Siu Sai Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.262673,114.250858</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>18</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Siu Sai Wan Estate</string>
+			<key>address</key>
+			<string>ATM No. 2, 1/F, Siu Sai Wan Shopping Centre, Siu Sai Wan Estate, Siu Sai Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.263355,114.248087</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>19</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Taikoo Shing Branch</string>
+			<key>address</key>
+			<string>Shop No. G1010-1011 Yiu Sing Mansion, Taikoo Shing</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.28621,114.218953</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>20</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Aberdeen Branch</string>
+			<key>address</key>
+			<string>162-164 Aberdeen Main Road, Aberdeen</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.248513,114.155744</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>21</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Lei Tung Estate</string>
+			<key>address</key>
+			<string>ATM1, G/F, Phase I, Lei Tung Commercial Centre, Apleichau</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.241043,114.155907</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>22</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Wah Fu Estate</string>
+			<key>address</key>
+			<string>Open Space Opposite to Shop 7, Wah Fu (I) Shopping Centre, Wah Fu (I) Estate</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.250283,114.137473</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>23</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Ocean Park</string>
+			<key>address</key>
+			<string>Guest Relations Office at the Headland, Ocean Park, Wong Chuk Hang</string>
+			<key>remark</key>
+			<string>10:00 a.m. to 6:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.235941,114.168844</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>24</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>SOGO Department Store</string>
+			<key>address</key>
+			<string>SOGO Department Store (Facing East Point Road), No. 555 Hennessy Road, Causeway Bay</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.280258,114.18432</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>25</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Causeway Bay Branch</string>
+			<key>address</key>
+			<string>G/F, 46 Yee Wo Street, Causeway Bay</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.27971,114.18586</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>26</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Happy Valley Branch</string>
+			<key>address</key>
+			<string>G/F, 5-7 Sing Woo Road, Happy Valley</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.26971,114.184985</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>27</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>BEA Harbour View Centre Branch</string>
+			<key>address</key>
+			<string>Shop 1, G/F, Bank of East Asia Harbour View Centre, 56 Gloucester Road, Wanchai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.279094,114.171193</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>28</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Harbour Centre</string>
+			<key>address</key>
+			<string>Showcase No.1, 1/F, Harbour Centre, Wanchai</string>
+			<key>remark</key>
+			<string>7:30 a.m. to 11:30 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.281127,114.175689</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>29</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>399 Hennessy Road Branch</string>
+			<key>address</key>
+			<string>G/F, Eastern Commercial Centre, 399 Hennessy Road, Wanchai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.27903,114.180106</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>30</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Wanchai Branch</string>
+			<key>address</key>
+			<string>Shop Nos A-C, G/F, Easey Commercial Building, 253-261 Hennessy Road, Wanchai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.278032,114.176429</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>31</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Queen&apos;s Road East Branch</string>
+			<key>address</key>
+			<string>Ground Floor Shops B &amp; C, 228 Queen&apos;s Road East, Wanchai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.274627,114.172878</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>32</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Revenue Tower SGC</string>
+			<key>address</key>
+			<string>G/F, 5 Gloucester Road, Wanchai</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 7:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.279665,114.171842</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>33</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Waterloo Road Branch</string>
+			<key>address</key>
+			<string>Shop A, G/F, Richland House, 77B &amp; 77C Waterloo Road</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.319967,114.176442</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>34</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>The HK Polytechnic University Branch</string>
+			<key>address</key>
+			<string>Room VA 210, Shaw Amenities Building, Hong Kong Polytechnic University, Hung Hom</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.304582,114.179326</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>35</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Ma Tau Wei Road Branch</string>
+			<key>address</key>
+			<string>G/F, 23-27 Ma Tau Wei Road, Hung Hom</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.309078,114.187694</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>36</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>The Metropolis</string>
+			<key>address</key>
+			<string>Entrance Lobby of The Footbridge 3 of Level 5, The Metropolis, 6 Metropolis Drive, Hung Hom</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.302857,114.183193</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>37</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Whampoa Garden Branch</string>
+			<key>address</key>
+			<string>Shops 1-3, G/F, Site 9, Whampoa Garden, Hung Hom</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.302708,114.191095</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>38</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Kowloon City Branch</string>
+			<key>address</key>
+			<string>Shop E &amp; F, 45-45A, Nga Tsin Wai Road, Kowloon City</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.328924,114.188445</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>39</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Festival Walk Branch</string>
+			<key>address</key>
+			<string>Unit MTR07, Level MTR, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.337185,114.174589</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>40</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>HK Baptist University Branch</string>
+			<key>address</key>
+			<string>Unit G02, G/F, Jockey Club Academic Community Centre, Hong Kong Baptist University, 9 Baptist University Road, Kowloon Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.335766,114.182512</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>41</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Pau Chung Street Branch</string>
+			<key>address</key>
+			<string>Shop No. D, 154-160 Pau Chung Street, Tokwawan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.321728,114.190087</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>42</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>HITEC - EMAX</string>
+			<key>address</key>
+			<string>Display showcase 01C on Ground Floor, Hongkong International Trade &amp; Exhibition Centre, 1 Trademart Drive, Kowloon Bay</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.324165,114.203997</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>43</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Hiu Lai Shopping Centre</string>
+			<key>address</key>
+			<string>Open Space near to Shop No 209A, Hiu Lai Shopping Centre, Hiu Lai Court, Kwun Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.32083,114.229432</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>44</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Hoi Yuen Road Branch</string>
+			<key>address</key>
+			<string>Unit 1, G/F, Hewlett Centre, 54 Hoi Yuen Road, Kwun Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.309694,114.223708</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>45</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Kwun Tong Branch</string>
+			<key>address</key>
+			<string>G/F, 7 Hong Ning Road, Kwun Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.313902,114.223424</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>46</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Laguna City Branch</string>
+			<key>address</key>
+			<string>Shop No. 38, G/F, Commercial Complex, Laguna City, Kwun Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.306917,114.228032</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>47</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Millennium City 5 Branch</string>
+			<key>address</key>
+			<string>Shop 1, G/F Millennium City 5, 418 Kwun Tong Road, Kwun Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.312515,114.225411</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>48</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>MC5 UC Level</string>
+			<key>address</key>
+			<string>Opposite to Shop nos. UC-36, Upper Concourse Level, Millennium City 5, 418 Kwun Tong Road, Kwun Tong</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 2:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.312334,114.225267</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>49</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Po Tat Estate</string>
+			<key>address</key>
+			<string>Open Space beneath the escalator facing shop 9, G/F, Po Tat Shopping Centre, Po Tat Estate, Sau Mau Ping</string>
+			<key>remark</key>
+			<string>6:00 a.m. to 11:30 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.317349,114.236355</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>50</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Amoy Plaza Branch</string>
+			<key>address</key>
+			<string>Shops G178-179, G/F, Amoy Gardens Phase II, 77 Ngau Tau Kok Road, Ngau Tau Kok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.324331,114.215659</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>51</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Lok Wah Estate</string>
+			<key>address</key>
+			<string>2/F, Lok Wah (North) Shopping Centre, 70 Chun Wah Road, Ngau Tau Kok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.32181,114.219934</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>52</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Castle Peak Road Branch</string>
+			<key>address</key>
+			<string>Shop 1, G/F, One Madison, 305 Castle Peak Road</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.338024,114.156838</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>53</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Cheung Sha Wan Road Branch</string>
+			<key>address</key>
+			<string>G/F, 132-134 Cheung Sha Wan Road, Cheung Sha Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.32941,114.164193</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>54</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Cheung Sha Wan Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 117-118, 1/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.337086,114.148732</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>55</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Lai Chi Kok MTR Station</string>
+			<key>address</key>
+			<string>ATM site (LCK-ATM 4), MTR Lai Chi Kok Station (Near Exit C to Tung Chau West Street)</string>
+			<key>remark</key>
+			<string>6:30 a.m to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.337007,114.146876</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>56</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Pacifica Mall</string>
+			<key>address</key>
+			<string>ATM Area A on Second Floor of Pacifica Mall, 9 Sham Shing Road, Lai Chi Kok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.333873,114.149277</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>57</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Mei Foo Sun Chuen Branch</string>
+			<key>address</key>
+			<string>Shop No. N57, G/F, Mount Sterling Mall, Mei Foo Sun Chuen</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.33761,114.138548</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>58</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Sham Shui Po MTR Station</string>
+			<key>address</key>
+			<string>ATM site (SSP-ATM 3), MTR Sham Shui Po Station (near Exit B to Nam Cheong Street)</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.330658,114.162975</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>59</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Tai Hang Tung Branch</string>
+			<key>address</key>
+			<string>G/F, 13 Woh Chai Street, Tai Hang Tung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.331521,114.169946</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>60</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Lok Fu Branch</string>
+			<key>address</key>
+			<string>Shop 1158 - 1159, 1/F, Lok Fu Plaza, Wang Tau Hom</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.337446,114.187378</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>61</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>San Po Kong Branch</string>
+			<key>address</key>
+			<string>G/F, 65 Shung Ling Street, San Po Kong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.334804,114.195518</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>62</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Chuk Yuen Branch</string>
+			<key>address</key>
+			<string>Shop No. S2, G/F, Chuk Yuen Plaza, Wong Tai Sin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.345184,114.193048</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>63</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Wong Tai Sin Branch</string>
+			<key>address</key>
+			<string>Shop UG15, Upper Ground Floor, Wong Tai Sin Plaza, Wong Tai Sin</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 11:30 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.341296,114.193984</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>64</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Lung Cheung Mall</string>
+			<key>address</key>
+			<string>Open Space near Shop 116A, Level 1, Lung Cheung Plaza, 136 Lung Cheung Road, Wong Tai Sin</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 11:30 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.341817,114.196575</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>65</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Tsz Wan Shan Shopping Centre</string>
+			<key>address</key>
+			<string>Shop No. 540, 5/F, Tsz Wan Shan Shopping Centre, 23 Yuk Wah Street, Wong Tai Sin</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.348285,114.200539</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>66</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Tsz Wan Shan Branch</string>
+			<key>address</key>
+			<string>G/F, 1 Yuk Wah Crescent, Tsz Wan Shan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.347101,114.20118</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>67</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>BEA Mongkok Building</string>
+			<key>address</key>
+			<string>Main Entrance of G/F, The Bank of East Asia Mongkok Building, 638-640 Nathan Road, Mongkok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.318448,114.169662</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>68</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Hoi Fu Court</string>
+			<key>address</key>
+			<string>Open space near the escalator facing Shop 2, G/F, Hoi Fu Shopping Centre, Hoi Fu Court, Mongkok</string>
+			<key>remark</key>
+			<string>7:00 a.m. - 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.315657,114.164429</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>70</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Mong Kok MTR Station</string>
+			<key>address</key>
+			<string>ATM site (MOK-ATM 5), MTR Mong Kok Station, (near Exit A to Mong Kok Road)</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.32021,114.168664</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>71</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Mongkok Branch</string>
+			<key>address</key>
+			<string>G/F, 638-640 Nathan Road, Mongkok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.318448,114.169662</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>72</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>732 Nathan Road</string>
+			<key>address</key>
+			<string>732 Nathan Road, Mongkok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.321428,114.169045</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>73</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Prince Edward Branch</string>
+			<key>address</key>
+			<string>G/F, Hanley House, No. 776-778 Nathan Road, Prince Edward</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.325482,114.168189</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>74</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Prince Edward Road West</string>
+			<key>address</key>
+			<string>Near the main entrance of G/F, Mongkok City Building, 154-158 Prince Edward Road West</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.324611,114.170842</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>75</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Olympian City Branch</string>
+			<key>address</key>
+			<string>Shop No. UG45, Upper Ground Floor, Olympian City 2, 18 Hoi Ting Road, West Kowloon</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.317247,114.16213</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>76</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>East Tsim Sha Tsui Branch</string>
+			<key>address</key>
+			<string>G3- G5, G/F, East Ocean Centre, 98 Granville Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.30012,114.177735</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>77</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>iSquare</string>
+			<key>address</key>
+			<string>Open space outside Shop UG01, Upper Ground Floor, iSquare, 63 Nathan Road, Tsim Sha Tsui, Kowloon</string>
+			<key>remark</key>
+			<string>10:30 a.m. to 10:30 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.296616,114.172119</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>78</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Kowloon Station Branch</string>
+			<key>address</key>
+			<string>Shop 1002, 1/F, Elements, 1 Austin Road West, Tsim Sha Tsui, Kowloon</string>
+			<key>remark</key>
+			<string>10:00 a.m. to 10:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.304334,114.161403</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>79</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>One Peking Branch</string>
+			<key>address</key>
+			<string>Shop 202 &amp; 203, L/F., One Peking, No. 1 Peking Road, Tsim Sha Tsui, Kowloon</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 10:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.29604,114.169817</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>80</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Tsim Sha Tsui MTR Station</string>
+			<key>address</key>
+			<string>ATM site (TST-ATM 4), MTR Tsim Sha Tsui Station, (near Exit D to Carnarvon Road)</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.297706,114.172591</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>81</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Tsim Sha Tsui Branch</string>
+			<key>address</key>
+			<string>Shop A &amp; B, Milton Mansion, No. 96 Nathan Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.299386,114.172132</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>82</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Yaumatei Branch</string>
+			<key>address</key>
+			<string>G/F, 524 Nathan Road, Yaumatei</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.312942,114.17081</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>83</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Ha Kwai Chung Branch</string>
+			<key>address</key>
+			<string>G/F, 202 Hing Fong Road, Kwai Chung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.358971,114.127463</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>84</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Kwai Chung Estate</string>
+			<key>address</key>
+			<string>Open space beneath the escalator facing Shop 102, 1/F, Kwai Chung Shopping Centre, Kwai Chung Estate</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.367606,114.127755</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>85</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Sheung Kwai Chung Branch</string>
+			<key>address</key>
+			<string>G/F, 44-46 Shek Yam Road, Kwai Chung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.368633,114.139868</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>86</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Park Island</string>
+			<key>address</key>
+			<string>Level 1, Park Island, Lot No. 392, Ma Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.35333,114.06288</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>87</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Maritime Square</string>
+			<key>address</key>
+			<string>Shop Unit 173A, 1/F, Maritime Square, 33 Tsing King Road, Tsing Yi</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.359192,114.108194</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>88</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Maritime Square Branch</string>
+			<key>address</key>
+			<string>Shop Units 308A-C, 3/F, Maritime Square, 33 Tsing King Road, Tsing Yi</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.359185,114.108183</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>89</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Tsing Yi Garden</string>
+			<key>address</key>
+			<string>Shop No.9, G/F, Tsing Yi Garden, Tsing Yi.</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 11:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.35337,114.104921</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>90</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Fanling Branch</string>
+			<key>address</key>
+			<string>Shops No. B &amp; C, 39-41 Wo Fung Street, Luen Wo Hui, Fanling</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.498918,114.142722</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>91</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>KCR East Rail Lo Wu Station</string>
+			<key>address</key>
+			<string>Shop No. K5 at the Unpaid Concourse, Lo Wu Station, Lo Wu</string>
+			<key>remark</key>
+			<string>6:30 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.529465,114.11337</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>92</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Choi Yuen Estate</string>
+			<key>address</key>
+			<string>ATM1, 3/F, Choi Yuen Shopping Centre, 8 Choi Yuen Road, Sheung Shui</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.500071,114.12558</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>93</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Sheung Shui Branch</string>
+			<key>address</key>
+			<string>Shop Nos. 1015-19, Level 1, Sheung Shui Centre Shopping Arcade, 3 Chi Cheong Road, Sheung Shui</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.501082,114.129742</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>94</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Silvermine Bay Branch</string>
+			<key>address</key>
+			<string>Shop A2, Silver Centre Building, Silvermine Bay, Lantau Island</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.264857,114.000739</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>95</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Tai O Branch</string>
+			<key>address</key>
+			<string>G/F, 6-8 Market Street, Tai O, Lantau Island</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.253173,113.861851</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>96</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Tung Chung Branch</string>
+			<key>address</key>
+			<string>Shop No. 11, G/F, Fu Tung Plaza, Fu Tung Estate, Tung Chung, Lantau Island</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.288833,113.942304</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>97</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Sai Kung Branch</string>
+			<key>address</key>
+			<string>G/F, 13 &amp; 15 Man Nin Street , Sai Kung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.381932,114.271564</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>98</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>HKUST Branch</string>
+			<key>address</key>
+			<string>G/F,  Entrance Piazza, The Hong Kong University of Science and Technology, Clear Water Bay, Sai Kung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.337513,114.263477</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>99</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>East Point City Branch</string>
+			<key>address</key>
+			<string>Shop No. 217B, Level 2, East Point City, 8 Chung Wa Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.316344,114.265355</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>100</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Metro City Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 243, Level 2, Metro City Plaza I , 1 Wan Hang Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.321316,114.257491</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>101</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Tiu Keng Leng Branch</string>
+			<key>address</key>
+			<string>Shop Nos. 51, 68-70, Level 2, Metro Town Shopping Mall, 8 King Ling Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.304453,114.251965</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>102</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Ming Tak Estate</string>
+			<key>address</key>
+			<string>Open Space opposite to shop 5, G/F, Ming Tak Shopping Centre, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.316165,114.269032</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>103</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>The Lane - Hang Hau</string>
+			<key>address</key>
+			<string>Open space near the Entrance A of MTR Hang Hau Station, G/F, The Lane, No.15 Pui Shing Road, Hang Hau, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.315753,114.263912</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>104</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Park Central Branch</string>
+			<key>address</key>
+			<string>Shop G06, Park Central, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>6:00 a.m. to 11:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.307076,114.257118</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>105</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Chung On Estate</string>
+			<key>address</key>
+			<string>Open space next to the security counter, G/F, Chung On Shopping Centre, Chung On Estate, Ma On Shan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.422318,114.226154</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>106</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Lee On Estate</string>
+			<key>address</key>
+			<string>Open space opposite to Shop LG 104, LG1/F, Lee On Shopping Centre, Ma On Shan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.426558,114.241035</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>107</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Ma On Shan Plaza Branch</string>
+			<key>address</key>
+			<string>Shop Nos. 318-322, Level 3, Ma On Shan Plaza, 608 Sai Sha Road, Ma On Shan</string>
+			<key>remark</key>
+			<string>10:00 a.m. to 10:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.425355,114.23223</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>108</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Prince of Wales Hospital</string>
+			<key>address</key>
+			<string>2/F, Main Block, 30-32 Ngan Shing Street, Shatin, N.T.</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.379777,114.201159</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>109</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Shatin Plaza Branch</string>
+			<key>address</key>
+			<string>Shop No. 4, Level 1, Shatin Plaza, Shatin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.38286,114.189207</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>110</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Sun Chui Estate Branch</string>
+			<key>address</key>
+			<string>Address Shop No. 12, G/F, Commercial Centre, Sun Chui Estate, Shatin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.36931,114.181294</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>111</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Chinese University</string>
+			<key>address</key>
+			<string>G/F, Benjamin Franklin Centre, The Chinese University of Hong Kong, Shatin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.418941,114.205276</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>112</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>CUHK LWC Building</string>
+			<key>address</key>
+			<string>Room LG01, Lower Ground Floor, Li Wai Chun Building, The Chinese University of Hong Kong, Shatin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.415155,114.207188</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>113</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Wo Che Shopping Centre</string>
+			<key>address</key>
+			<string>Open space near Shop No. 56, Wo Che Shopping Centre, Wo Che Estate, Shatin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.387842,114.194931</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>114</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Mei Tin Estate</string>
+			<key>address</key>
+			<string>Opposite to Shop 104, 1/F., Mei Tin Shopping Centre, Mei Tin Estate, Tai Wai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.376369,114.170697</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>115</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Tai Wai Branch</string>
+			<key>address</key>
+			<string>G/F, 16-18 Tai Wai Road, Cheung Fung Mansion, Tai Wai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.375801,114.177373</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>116</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Kwong Fuk Estate</string>
+			<key>address</key>
+			<string>Open space near Shop K1, Podium Floor, Kwong Fuk Shopping Centre, Kwong Fuk Estate, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.44862,114.174146</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>117</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Branch</string>
+			<key>address</key>
+			<string>G/F, 62-66 Po Heung Street, Tai Po Market, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.447908,114.166287</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>118</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Mega Mall Zone B</string>
+			<key>address</key>
+			<string>Level 1, Zone B, Tai Po Mega Mall, Tai Po</string>
+			<key>remark</key>
+			<string>6:00 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.451562,114.170209</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>119</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Mega Mall Zone E</string>
+			<key>address</key>
+			<string>Shop No. 356a on Level 2, Zone E, Tai Po Mega Mall, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.450035,114.168994</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>120</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Plaza Branch</string>
+			<key>address</key>
+			<string>Units 49-52, Level 1, Tai Po Plaza, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.444351,114.169002</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>121</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Wo Estate</string>
+			<key>address</key>
+			<string>Shop S229E, Tai Wo Plaza, Tai Wo Estate, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.45,114.16</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>122</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Wo Branch</string>
+			<key>address</key>
+			<string>Shop 215-215A, Level 2, Tai Wo Plaza, Tai Wo Estate, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.450598,114.160684</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>123</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>HK Institute of Education</string>
+			<key>address</key>
+			<string>Room C2019, Hong Kong Institute of Education, 10 Lo Ping Road, Tai Po</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.469074,114.19433</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>124</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>The HK Institute of Education Branch</string>
+			<key>address</key>
+			<string>Room AG-10 Administration Building, Hong Kong Institute of Education, 10 Lo Ping Road, Tai Po</string>
+			<key>remark</key>
+			<string>Office hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.466938,114.193807</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>125</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tsuen Wan</string>
+			<key>title</key>
+			<string>Tsuen Wan Branch</string>
+			<key>address</key>
+			<string>G/F, 241 Sha Tsui Road, Tsuen Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.370119,114.116052</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>126</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tsuen Wan</string>
+			<key>title</key>
+			<string>Tsuen Wan Plaza</string>
+			<key>address</key>
+			<string>Open area near Elevator No. 30 Basement 1, Tsuen Wan Plaza, 4-30 Tai Po Street, Tsuen Wan</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 11:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.370796,114.111678</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>127</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Tuen Mun Branch</string>
+			<key>address</key>
+			<string>Shop No. G16, G/F, Eldo Court Shopping Centre, Tuen Mun</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.39825,113.975194</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>128</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Lingnan University Branch</string>
+			<key>address</key>
+			<string>Shop MBG 14, Main Building, Lingnan University, 8 Castle Peak Road, Tuen Mun</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.410361,113.982916</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>129</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Po Tin Interim Housing Estate</string>
+			<key>address</key>
+			<string>Open space near the Main Entrance adjacent to Shop No. 10, G/F, Po Tin Shopping Centre, Po Tin Interim Housing Estate, Tuen Mun</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.409578,113.966592</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>130</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Sam Shing Estate</string>
+			<key>address</key>
+			<string>Open space opposite to Shop 3, G/F, Commercial Centre, Sam Shing Estate, Tuen Mun</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.381399,113.977932</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>131</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Tuen Mun Town Plaza Branch</string>
+			<key>address</key>
+			<string>Shop Nos. 2-10, UG/F, Tuen Mun Town Plaza Phase II, 3 Tuen Lung Street, Tuen Mun</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 0:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.394169,113.975993</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>132</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Chung Fu SC G/F </string>
+			<key>address</key>
+			<string>ATM no. 3 at Open space next to Shop 1, G/F., Chung Fu Plaza, Tin Shui Wai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.462451,113.997853</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>133</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Chung Fu Shopping Centre</string>
+			<key>address</key>
+			<string>Open space opposite to Shop 205, 2/F., Chung Fu Plaza, Tin Shui Wai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.462,113.997</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>134</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Kingswood Ginza</string>
+			<key>address</key>
+			<string>Open space opposite to Shop 134A, 1/F, Kingswood Ginza, Phase 2, Tin Shui Wai</string>
+			<key>remark</key>
+			<string>8:30 a.m. to 10:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.45732,114.004124</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>135</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Tin Chak Estate</string>
+			<key>address</key>
+			<string>Open Space beside escalator opposite to Shop 5, G/F, Tin Chak Shopping Centre, Tin Chak Estate, Tin Shui Wai</string>
+			<key>remark</key>
+			<string>6:00 a.m. to 1:00 a.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.46843,113.998695</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>136</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Yuen Long Branch</string>
+			<key>address</key>
+			<string>G/F, 77 Castle Peak Road, Yuen Long</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.444594,114.029479</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>137</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Yuen Long Plaza</string>
+			<key>address</key>
+			<string>1/F, Yuen Long Plaza, 249-251 Castle Peak Road, Yuen Long</string>
+			<key>remark</key>
+			<string>7:00 a.m. to 11:00 p.m.</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.44503,114.024122</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>138</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>88 Des Voeux Road West Branch</string>
+			<key>address</key>
+			<string>Shop 2-3, G/F, Priceton Tower, 88 Des Voeux Road West, Hong Kong</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1621</string>
+			<key>fax</key>
+			<string>3609 1102</string>
+			<key>gps</key>
+			<string>22.287563,114.146015</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>139</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Admiralty Branch</string>
+			<key>address</key>
+			<string>Shop 1007-1008, 1/F, United Centre, 95 Queensway</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1834</string>
+			<key>fax</key>
+			<string>3609 1148</string>
+			<key>gps</key>
+			<string>22.278653,114.165287</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>140</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Bonham Road Branch</string>
+			<key>address</key>
+			<string>Shop 1-3, Ka Fu Building, 19-27 Bonham Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1662</string>
+			<key>fax</key>
+			<string>3609 1111</string>
+			<key>gps</key>
+			<string>22.28449,114.142566</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>141</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Caine Road Branch</string>
+			<key>address</key>
+			<string>Shop C, G/F, Cameo Court, 63-69 Caine Road </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1685</string>
+			<key>fax</key>
+			<string>3609 1113</string>
+			<key>gps</key>
+			<string>22.281154,114.152262</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>142</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Kennedy Town Centre Branch</string>
+			<key>address</key>
+			<string>Shop D, G/F, Kennedy Town Centre, 23 Belcher&apos;s Street</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1606</string>
+			<key>fax</key>
+			<string>3609 1100</string>
+			<key>gps</key>
+			<string>22.283805,114.130654</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>143</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Main Branch</string>
+			<key>address</key>
+			<string>10 Des Voeux Road Central, Hong Kong</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3608 3608</string>
+			<key>fax</key>
+			<string>3608 6000</string>
+			<key>gps</key>
+			<string>22.281204,114.158378</string>
+			<key>newtopitem</key>
+			<string>1</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>144</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Queen&apos;s Road Central Branch</string>
+			<key>address</key>
+			<string>Shop A - C, G/F, Wah Ying Cheong Central Building, 158 -164 Queen&apos;s Road Central </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1750</string>
+			<key>fax</key>
+			<string>3609 1129</string>
+			<key>gps</key>
+			<string>22.284517,114.153711</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>145</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Sheung Wan Branch</string>
+			<key>address</key>
+			<string>G/F, Sun House, 181 Des Voeux Road Central, Central</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1782</string>
+			<key>fax</key>
+			<string>3609 1133</string>
+			<key>gps</key>
+			<string>22.285952,114.154003</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>146</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>The University of Hong Kong Branch</string>
+			<key>address</key>
+			<string>Rm 203, 2/F, Chong Yuet Ming Amenities Centre</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1812</string>
+			<key>fax</key>
+			<string>3609 1140</string>
+			<key>gps</key>
+			<string>22.28273,114.139063</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>147</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>399 Hennessy Road Branch</string>
+			<key>address</key>
+			<string>G/F, Eastern Commercial Centre, 399 Hennessy Road, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1366</string>
+			<key>fax</key>
+			<string>3609 1041</string>
+			<key>gps</key>
+			<string>22.27903,114.180106</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>148</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>BEA Harbour View Centre Branch</string>
+			<key>address</key>
+			<string>Shop 1,G/F, Bank of East Asia Harbour View Centre, 56 Gloucester Road, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1200</string>
+			<key>fax</key>
+			<string>3609 1009</string>
+			<key>gps</key>
+			<string>22.279094,114.171193</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>149</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Causeway Bay Branch</string>
+			<key>address</key>
+			<string>46 Yee Wo Street</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1265</string>
+			<key>fax</key>
+			<string>3609 1011</string>
+			<key>gps</key>
+			<string>22.27971,114.18586</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>150</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Happy Valley Branch</string>
+			<key>address</key>
+			<string>5-7 Sing Woo Road </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1301</string>
+			<key>fax</key>
+			<string>3609 1020</string>
+			<key>gps</key>
+			<string>22.26971,114.184985</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>151</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Queen&apos;s Road East Branch</string>
+			<key>address</key>
+			<string>Ground Floor Shop B &amp; C, 228 Queen&apos;s Road East, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1437</string>
+			<key>fax</key>
+			<string>3609 1055</string>
+			<key>gps</key>
+			<string>22.274627,114.172878</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>152</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Wanchai Branch</string>
+			<key>address</key>
+			<string>Shop A-C, G/F, Easey Commercial Building, 253-261 Hennessy Road, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1343</string>
+			<key>fax</key>
+			<string>3609 1038</string>
+			<key>gps</key>
+			<string>22.278032,114.176429</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>153</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Aberdeen Branch</string>
+			<key>address</key>
+			<string>162-164 Aberdeen Main Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1637</string>
+			<key>fax</key>
+			<string>3609 1110</string>
+			<key>gps</key>
+			<string>22.248513,114.155744</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>154</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Chai Wan Branch</string>
+			<key>address</key>
+			<string>345 Chai Wan Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1281</string>
+			<key>fax</key>
+			<string>3609 1018</string>
+			<key>gps</key>
+			<string>22.264276,114.240437</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>155</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>King&apos;s Road Branch</string>
+			<key>address</key>
+			<string>Shop 2, G/F, S U P Tower, 75-83 King&apos;s Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1389</string>
+			<key>fax</key>
+			<string>3609 1043</string>
+			<key>gps</key>
+			<string>22.28616,114.192809</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>156</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>North Point Branch</string>
+			<key>address</key>
+			<string>326-328 King&apos;s Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1412</string>
+			<key>fax</key>
+			<string>3609 1048</string>
+			<key>gps</key>
+			<string>22.290322,114.196578</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>157</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Quarry Bay Branch</string>
+			<key>address</key>
+			<string>1035 King&apos;s Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1420</string>
+			<key>fax</key>
+			<string>3609 1053</string>
+			<key>gps</key>
+			<string>22.284748,114.213502</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>158</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Shaukiwan Branch</string>
+			<key>address</key>
+			<string>G/F, Ka Fook Building, 289-293 Shau Kei Wan Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1477</string>
+			<key>fax</key>
+			<string>3609 1068</string>
+			<key>gps</key>
+			<string>22.278747,114.226409</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>159</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Siu Sai Wan Branch</string>
+			<key>address</key>
+			<string>Shop 56-62, G/F, Cheerful Garden </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1505</string>
+			<key>fax</key>
+			<string>3609 1070</string>
+			<key>gps</key>
+			<string>22.262673,114.250858</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>160</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Taikoo Shing Branch</string>
+			<key>address</key>
+			<string>Shop G1010-1011, Yiu Sing Mansion </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1516</string>
+			<key>fax</key>
+			<string>3609 1071</string>
+			<key>gps</key>
+			<string>22.28621,114.218953</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>161</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>East Tsim Sha Tsui Branch</string>
+			<key>address</key>
+			<string>Shop G3 - G5, G/F, East Ocean Centre, 98 Granville Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2633</string>
+			<key>fax</key>
+			<string>3609 3905</string>
+			<key>gps</key>
+			<string>22.30012,114.177735</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>162</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>iSQUARE Branch</string>
+			<key>address</key>
+			<string>Shop UG01, iSQUARE, 63 Nathan Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2648</string>
+			<key>fax</key>
+			<string>3609 3908</string>
+			<key>gps</key>
+			<string>22.296475,114.171837</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>163</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Kowloon Station Branch</string>
+			<key>address</key>
+			<string>Shop 1002, 1/F, Elements, 1 Austin Road West, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2422</string>
+			<key>fax</key>
+			<string>3609 3579</string>
+			<key>gps</key>
+			<string>22.304334,114.161403</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>165</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Mongkok Branch</string>
+			<key>address</key>
+			<string>638 - 640 Nathan Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2704</string>
+			<key>fax</key>
+			<string>3609 3922</string>
+			<key>gps</key>
+			<string>22.318448,114.169662</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>166</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Mongkok North Branch</string>
+			<key>address</key>
+			<string>G/F, Kalok Building, 720 - 722 Nathan Road, Mongkok</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2738</string>
+			<key>fax</key>
+			<string>3609 3929</string>
+			<key>gps</key>
+			<string>22.320895,114.16916</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>167</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Olympian City Branch</string>
+			<key>address</key>
+			<string>Shop UG45, Upper Ground Floor, Olympian City 2, 18 Hoi Ting Road, West Kowloon</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2763</string>
+			<key>fax</key>
+			<string>3609 3938</string>
+			<key>gps</key>
+			<string>22.317247,114.16213</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>168</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>One Peking Branch</string>
+			<key>address</key>
+			<string>Shop 202 - 203, L/F, One Peking, 1 Peking Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2777</string>
+			<key>fax</key>
+			<string>3609 3940</string>
+			<key>gps</key>
+			<string>22.29604,114.169817</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>169</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Prince Edward Branch</string>
+			<key>address</key>
+			<string>G/F, Hanley House, 776 - 778 Nathan Road, Kowloon</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2800</string>
+			<key>fax</key>
+			<string>3609 3955</string>
+			<key>gps</key>
+			<string>22.325482,114.168189</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>170</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Tsim Sha Tsui Branch</string>
+			<key>address</key>
+			<string>Shop A &amp; B, Milton Mansion, 96 Nathan Road, Kowloon</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2857</string>
+			<key>fax</key>
+			<string>3609 3963</string>
+			<key>gps</key>
+			<string>22.299386,114.172132</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>171</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Yaumatei Branch</string>
+			<key>address</key>
+			<string>G/F, 526 Nathan Road, Kowloon</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2900</string>
+			<key>fax</key>
+			<string>3609 3980</string>
+			<key>gps</key>
+			<string>22.312676,114.170834</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>172</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Festival Walk Branch</string>
+			<key>address</key>
+			<string>Unit MTR-07, Level MTR , Festival Walk, 80 Tat Chee Avenue, Kowloon Tong </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2237</string>
+			<key>fax</key>
+			<string>3609 3505</string>
+			<key>gps</key>
+			<string>22.337185,114.174589</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>173</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Hong Kong Baptist University Branch</string>
+			<key>address</key>
+			<string>G02, G/F, Jockey Club Academic Community Centre, 9 Baptist University Road, Kowloon Tong </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2251</string>
+			<key>fax</key>
+			<string>3609 3508</string>
+			<key>gps</key>
+			<string>22.335766,114.182512</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>174</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Kowloon City Branch</string>
+			<key>address</key>
+			<string>Shop E &amp; F, G/F, Hing Fat Building, 45 - 45A Nga Tsin Wai Road, Kowloon City</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2279</string>
+			<key>fax</key>
+			<string>3609 3516</string>
+			<key>gps</key>
+			<string>22.328924,114.188445</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>175</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Ma Tau Wei Road Branch</string>
+			<key>address</key>
+			<string>23 - 27 Ma Tau Wei Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2378</string>
+			<key>fax</key>
+			<string>3609 3535</string>
+			<key>gps</key>
+			<string>22.309078,114.187694</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>176</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Pau Chung Street Branch</string>
+			<key>address</key>
+			<string>Shop D, 154 -160 Pau Chung Street, Tokwawan</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2509</string>
+			<key>fax</key>
+			<string>3609 3540</string>
+			<key>gps</key>
+			<string>22.321728,114.190087</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>177</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>The Hong Kong Polytechnic University Branch</string>
+			<key>address</key>
+			<string>Room VA210, Shaw Amenities Building, The Hong Kong Polytechnic University, Hung Hom, Kowloon</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2547</string>
+			<key>fax</key>
+			<string>3609 3550</string>
+			<key>gps</key>
+			<string>22.304582,114.179326</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>178</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Waterloo Road Branch</string>
+			<key>address</key>
+			<string>Shop A, G/F, Richland House, 77B &amp; 77C Waterloo Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2875</string>
+			<key>fax</key>
+			<string>3609 3971</string>
+			<key>gps</key>
+			<string>22.319967,114.176442</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>179</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Whampoa Garden Branch</string>
+			<key>address</key>
+			<string>Shop 1 - 3, G/F, Site 9, Whampoa Garden</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2577</string>
+			<key>fax</key>
+			<string>3609 3555</string>
+			<key>gps</key>
+			<string>22.302708,114.191095</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>180</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Chuk Yuen Branch</string>
+			<key>address</key>
+			<string>Shop S2, G/F, Chuk Yuen Plaza </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2228</string>
+			<key>fax</key>
+			<string>3609 3503</string>
+			<key>gps</key>
+			<string>22.345184,114.193048</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>181</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Lok Fu Branch</string>
+			<key>address</key>
+			<string>Shop 1158 - 1159, 1/F, Lok Fu Plaza, Wang Tau Hom</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2350</string>
+			<key>fax</key>
+			<string>3609 3528</string>
+			<key>gps</key>
+			<string>22.337446,114.187378</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>182</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>San Po Kong Branch</string>
+			<key>address</key>
+			<string>65 Shung Ling Street</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2512</string>
+			<key>fax</key>
+			<string>3609 3541</string>
+			<key>gps</key>
+			<string>22.334804,114.195518</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>183</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Tsz Wan Shan Branch</string>
+			<key>address</key>
+			<string>1 Yuk Wah Crescent</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2560</string>
+			<key>fax</key>
+			<string>3609 3553</string>
+			<key>gps</key>
+			<string>22.347101,114.20118</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>184</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Wong Tai Sin Branch</string>
+			<key>address</key>
+			<string>Shop UG15, Upper Ground Floor, Wong Tai Sin Plaza</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2363</string>
+			<key>fax</key>
+			<string>3609 3530</string>
+			<key>gps</key>
+			<string>22.341296,114.193984</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>185</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Amoy Plaza Branch</string>
+			<key>address</key>
+			<string>Shop G178 - 179, G/F, Amoy Gardens Phase II, 77 Ngau Tau Kok Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2219</string>
+			<key>fax</key>
+			<string>3609 3500</string>
+			<key>gps</key>
+			<string>22.324331,114.215659</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>186</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Hoi Yuen Road Branch</string>
+			<key>address</key>
+			<string>Unit 1, G/F, Hewlett Centre, 54 Hoi Yuen Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2256</string>
+			<key>fax</key>
+			<string>3609 3509</string>
+			<key>gps</key>
+			<string>22.309694,114.223708</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>187</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Kwun Tong Branch</string>
+			<key>address</key>
+			<string>7 Hong Ning Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2319</string>
+			<key>fax</key>
+			<string>3609 3523</string>
+			<key>gps</key>
+			<string>22.313902,114.223424</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>188</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Laguna City Branch</string>
+			<key>address</key>
+			<string>Shop 38, G/F, Commercial Complex, Laguna City</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2329</string>
+			<key>fax</key>
+			<string>3609 3525</string>
+			<key>gps</key>
+			<string>22.306917,114.228032</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>189</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Millennium City 5 Branch</string>
+			<key>address</key>
+			<string>Shop 1, G/F, Millennium City 5, 418 Kwun Tong Road, Kwun Tong</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2206</string>
+			<key>fax</key>
+			<string>3609 2000</string>
+			<key>gps</key>
+			<string>22.312515,114.225411</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>190</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Castle Peak Road Branch</string>
+			<key>address</key>
+			<string>Shop 1, G/F, One Madison, 305 Castle Peak Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2603</string>
+			<key>fax</key>
+			<string>3609 3900</string>
+			<key>gps</key>
+			<string>22.338024,114.156838</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>191</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Cheung Sha Wan Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 117 - 118, 1/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2485</string>
+			<key>fax</key>
+			<string>3609 3060</string>
+			<key>gps</key>
+			<string>22.337086,114.148732</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>192</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Cheung Sha Wan Road Branch</string>
+			<key>address</key>
+			<string>132 - 134 Cheung Sha Wan Road </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2622</string>
+			<key>fax</key>
+			<string>3609 3903</string>
+			<key>gps</key>
+			<string>22.32941,114.164193</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>193</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Mei Foo Sun Chuen Branch</string>
+			<key>address</key>
+			<string>Shop N57, G/F, Mount Sterling Mall</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2693</string>
+			<key>fax</key>
+			<string>3609 3918</string>
+			<key>gps</key>
+			<string>22.33761,114.138548</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>194</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Tai Hang Tung Branch</string>
+			<key>address</key>
+			<string>G/F, 13 Woh Chai Street</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2833</string>
+			<key>fax</key>
+			<string>3609 3960</string>
+			<key>gps</key>
+			<string>22.331521,114.169946</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>195</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Ha Kwai Chung Branch</string>
+			<key>address</key>
+			<string>202 Hing Fong Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3622</string>
+			<key>fax</key>
+			<string>3609 3101</string>
+			<key>gps</key>
+			<string>22.358971,114.127463</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>196</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Maritime Square Branch</string>
+			<key>address</key>
+			<string>Shop 308A-C, 3/F, Maritime Square, 33 Tsing King Road, Tsing Yi</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3661</string>
+			<key>fax</key>
+			<string>3609 3111</string>
+			<key>gps</key>
+			<string>22.359185,114.108183</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>197</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Sheung Kwai Chung Branch</string>
+			<key>address</key>
+			<string>44-46 Shek Yam Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3640</string>
+			<key>fax</key>
+			<string>3609 3109</string>
+			<key>gps</key>
+			<string>22.368633,114.139868</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>198</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tsuen Wan</string>
+			<key>title</key>
+			<string>Tsuen Wan Branch</string>
+			<key>address</key>
+			<string>239-243 Sha Tsui Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3670</string>
+			<key>fax</key>
+			<string>3609 3118</string>
+			<key>gps</key>
+			<string>22.370119,114.116052</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>199</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Lingnan University Branch</string>
+			<key>address</key>
+			<string>Shop MBG 13, Main Building, Lingnan University, 8 Castle Peak Road, Tuen Mun</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3631</string>
+			<key>fax</key>
+			<string>3609 3108</string>
+			<key>gps</key>
+			<string>22.410047,113.982854</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>200</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Tuen Mun Branch</string>
+			<key>address</key>
+			<string>Shop G16, G/F, Eldo Court Shopping Centre </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3694</string>
+			<key>fax</key>
+			<string>3609 3121</string>
+			<key>gps</key>
+			<string>22.39825,113.975194</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>201</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Tuen Mun Town Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 2 - 10, UG/F, Tuen Mun Town Plaza Phase II, 3 Tuen Lung Street, Tuen Mun</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3709</string>
+			<key>fax</key>
+			<string>3609 3123</string>
+			<key>gps</key>
+			<string>22.394169,113.975993</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>202</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Tin Shui Wai Branch</string>
+			<key>address</key>
+			<string>Shop 128, 1/F, Phase 2, Kingswood Ginza,12-18 Tin Yan Road, Tin Shui Wai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3757</string>
+			<key>fax</key>
+			<string>3609 3139</string>
+			<key>gps</key>
+			<string>22.457013,114.003947</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>203</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Yuen Long Branch</string>
+			<key>address</key>
+			<string>77 Castle Peak Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3741</string>
+			<key>fax</key>
+			<string>3609 3138</string>
+			<key>gps</key>
+			<string>22.444594,114.029479</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>204</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>East Point City Branch</string>
+			<key>address</key>
+			<string>Shop 217B, Level 2, East Point City, 8 Chung Wa Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2987</string>
+			<key>fax</key>
+			<string>3609 3983</string>
+			<key>gps</key>
+			<string>22.316344,114.265355</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>205</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Metro City Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 243, Level 2, Metro City Plaza I, 1 Wan Hang Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2988</string>
+			<key>fax</key>
+			<string>3609 3986</string>
+			<key>gps</key>
+			<string>22.321316,114.257491</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>206</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Park Central Branch</string>
+			<key>address</key>
+			<string>Shop G6, G/F, Park Central, 9 Tong Tak Street, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2933</string>
+			<key>fax</key>
+			<string>3609 3988</string>
+			<key>gps</key>
+			<string>22.307076,114.257118</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>207</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Sai Kung Branch</string>
+			<key>address</key>
+			<string>G/F, 13 &amp; 15 Man Nin Street, Sai Kung</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2976</string>
+			<key>fax</key>
+			<string>3609 3597</string>
+			<key>gps</key>
+			<string>22.381932,114.271564</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>208</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>The Hong Kong University of Science and Technology Branch</string>
+			<key>address</key>
+			<string>G/F, Entrance Piazza, The Hong Kong University of Science and Technology, Clear Water Bay Road, Sai Kung</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2425</string>
+			<key>fax</key>
+			<string>3609 3575</string>
+			<key>gps</key>
+			<string>22.337513,114.263477</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>209</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Tiu Keng Leng Branch</string>
+			<key>address</key>
+			<string>Shop 51, 68-70, Level 2, Metro Town Shopping Mall, 8 King Ling Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2592</string>
+			<key>fax</key>
+			<string>3609 3587</string>
+			<key>gps</key>
+			<string>22.304453,114.251965</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>210</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Ma On Shan Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 318-322, Level 3, Ma On Shan Plaza, 608 Sai Sha Road, Ma On Shan</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3200</string>
+			<key>fax</key>
+			<string>3609 3000</string>
+			<key>gps</key>
+			<string>22.425355,114.23223</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>211</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Shatin Plaza Branch</string>
+			<key>address</key>
+			<string>Shop 3 - 4, Level 1, Shatin Plaza</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3248</string>
+			<key>fax</key>
+			<string>3609 3008</string>
+			<key>gps</key>
+			<string>22.38286,114.189207</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>212</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Sun Chui Estate Branch</string>
+			<key>address</key>
+			<string>Shop 12, G/F, Commercial Centre, Sun Chui Estate</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3283</string>
+			<key>fax</key>
+			<string>3609 3016</string>
+			<key>gps</key>
+			<string>22.36931,114.181294</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>213</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Tai Wai Branch</string>
+			<key>address</key>
+			<string>16-18 Tai Wai Road, Cheung Fung Mansion, Shatin </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3323</string>
+			<key>fax</key>
+			<string>3609 3022</string>
+			<key>gps</key>
+			<string>22.375801,114.177373</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>214</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>The Chinese University of Hong Kong Branch</string>
+			<key>address</key>
+			<string>Room LG01, Lower Ground Floor, Li Wai Chun Building, The Chinese University of Hong Kong, Shatin</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3790</string>
+			<key>fax</key>
+			<string>3609 3148</string>
+			<key>gps</key>
+			<string>22.415155,114.207188</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>215</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>The Hong Kong Institute of Education Branch</string>
+			<key>address</key>
+			<string>Room AG-10, Administration Building, The Hong Kong Institute of Education, 10 Lo Ping Road, Tai Po </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3330</string>
+			<key>fax</key>
+			<string>3609 3023</string>
+			<key>gps</key>
+			<string>22.466938,114.193807</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>216</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Branch</string>
+			<key>address</key>
+			<string>62-66 Po Heung Street, Tai Po Market </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3299</string>
+			<key>fax</key>
+			<string>3609 3018</string>
+			<key>gps</key>
+			<string>22.447908,114.166287</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>217</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Plaza Branch</string>
+			<key>address</key>
+			<string>Unit 49-52, Level 1, Tai Po Plaza </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3301</string>
+			<key>fax</key>
+			<string>3609 3020</string>
+			<key>gps</key>
+			<string>22.444351,114.169002</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>218</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Wo Branch</string>
+			<key>address</key>
+			<string>Shop 215-215A, Level 2, Tai Wo Plaza, Tai Po </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3813</string>
+			<key>fax</key>
+			<string>3609 3055</string>
+			<key>gps</key>
+			<string>22.450598,114.160684</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>219</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Fanling Branch</string>
+			<key>address</key>
+			<string>Shop B &amp; C, 39-41 Wo Fung Street, Luen Wo Hui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3223</string>
+			<key>fax</key>
+			<string>3609 3003</string>
+			<key>gps</key>
+			<string>22.498918,114.142722</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>220</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Sheung Shui Branch</string>
+			<key>address</key>
+			<string>Shop 1015-19, L1, Sheung Shui Centre Shopping Arcade, 3 Chi Cheong Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3268</string>
+			<key>fax</key>
+			<string>3609 3013</string>
+			<key>gps</key>
+			<string>22.501082,114.129742</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>221</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Tung Chung Branch</string>
+			<key>address</key>
+			<string>Shop 10-11, G/F, Fu Tung Plaza, Tung Chung, Lantau Island</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1873</string>
+			<key>fax</key>
+			<string>3609 1155</string>
+			<key>gps</key>
+			<string>22.288833,113.942304</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>222</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Silvermine Bay Branch</string>
+			<key>address</key>
+			<string>Shop A2, Silver Centre Building, Silvermine Bay, Lantau Island </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1845</string>
+			<key>fax</key>
+			<string>3609 1151</string>
+			<key>gps</key>
+			<string>22.264857,114.000739</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>223</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Tai O Branch</string>
+			<key>address</key>
+			<string>G/F, 6-8 Market Street, Tai O, Lantau Island</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1856</string>
+			<key>fax</key>
+			<string>3609 1153</string>
+			<key>gps</key>
+			<string>22.253173,113.861851</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>224</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Outlying Island</string>
+			<key>title</key>
+			<string>Cheung Chau Branch</string>
+			<key>address</key>
+			<string>G/F, 73 Tai San Street, Cheung Chau</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1838</string>
+			<key>fax</key>
+			<string>3609 1149</string>
+			<key>gps</key>
+			<string>22.207548,114.029135</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>225</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Admiralty SupremeGold Centre</string>
+			<key>address</key>
+			<string>Unit 17B, 17/F, United Centre, 95 Queensway</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1712</string>
+			<key>fax</key>
+			<string>3609 1116</string>
+			<key>gps</key>
+			<string>22.278653,114.165287</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>226</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Queen&apos;s Road Central SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop A-C, G/F, Wah Ying Cheong Central Building, 158-164 Queen&apos;s Road Central</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1749</string>
+			<key>fax</key>
+			<string>3609 1129</string>
+			<key>gps</key>
+			<string>22.284517,114.153711</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>227</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Sheung Wan SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, Sun House, 181 Des Voeux Road Central, Central</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1796</string>
+			<key>fax</key>
+			<string>3609 1137</string>
+			<key>gps</key>
+			<string>22.285952,114.154003</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>228</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>The University of Hong Kong SupremeGold Centre</string>
+			<key>address</key>
+			<string>Rm 203, 2/F, Chong Yuet Ming Amenities Centre</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1807</string>
+			<key>fax</key>
+			<string>3609 1187</string>
+			<key>gps</key>
+			<string>22.28273,114.139063</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>229</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Main Branch SupremeGold Centre</string>
+			<key>address</key>
+			<string>B/F, 10 Des Voeux Road Central</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3608 0138</string>
+			<key>fax</key>
+			<string>3608 6197</string>
+			<key>gps</key>
+			<string>22.281204,114.158378</string>
+			<key>newtopitem</key>
+			<string>1</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>230</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Queen&apos;s Road East SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, Shop B &amp; C, 228 Queen&apos;s Road East, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1441</string>
+			<key>fax</key>
+			<string>3609 1055</string>
+			<key>gps</key>
+			<string>22.274627,114.172878</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>231</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>399 Hennessy Road SupremeGold Centre</string>
+			<key>address</key>
+			<string>B/F, Eastern Commercial Centre, 
+399 Hennessy Road, Wanchai
+</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1882</string>
+			<key>fax</key>
+			<string>3609 1162</string>
+			<key>gps</key>
+			<string>22.27903,114.180106</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>232</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Happy Valley SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 5-7 Sing Woo Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1299</string>
+			<key>fax</key>
+			<string>3609 1021</string>
+			<key>gps</key>
+			<string>22.26971,114.184985</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>233</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Causeway Bay SupremeGold Centre</string>
+			<key>address</key>
+			<string>Basement, 9 &amp; 10/F, 46 Yee Wo Street, Causeway Bay</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1265</string>
+			<key>fax</key>
+			<string>3609 1015</string>
+			<key>gps</key>
+			<string>22.27971,114.18586</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>234</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>BEA Harbour View Centre SupremeGold Centre </string>
+			<key>address</key>
+			<string>1 &amp; 21/F, Bank of East Asia Harbour View Centre, 56 Gloucester Road, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1200</string>
+			<key>fax</key>
+			<string>3609 1000</string>
+			<key>gps</key>
+			<string>22.279094,114.171193</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>235</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Wanchai SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop A-C, 2/F, Easey Commercial Building,
+253-261 Hennessy Road, Wanchai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1322</string>
+			<key>fax</key>
+			<string>3609 1039</string>
+			<key>gps</key>
+			<string>22.278032,114.176429</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>236</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Revenue Tower SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, 5 Gloucester Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1457</string>
+			<key>fax</key>
+			<string>3609 1057</string>
+			<key>gps</key>
+			<string>22.279573,114.1717</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>237</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Aberdeen SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 162-164 Aberdeen Main Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1656</string>
+			<key>fax</key>
+			<string>3609 1105</string>
+			<key>gps</key>
+			<string>22.248513,114.155744</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>238</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Taikoo Shing SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop G1010-1011, Yiu Sing Mansion</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1519</string>
+			<key>fax</key>
+			<string>3609 1072</string>
+			<key>gps</key>
+			<string>22.28621,114.218953</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>239</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>North Point SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, 326-328 King&apos;s Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1402</string>
+			<key>fax</key>
+			<string>3609 1048</string>
+			<key>gps</key>
+			<string>22.290322,114.196578</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>240</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>King&apos;s Road SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 2, G/F, S U P Tower, 75-83 King&apos;s Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1384</string>
+			<key>fax</key>
+			<string>3609 1043</string>
+			<key>gps</key>
+			<string>22.28616,114.192809</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>241</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Shaukiwan SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, Ka Fook Building, 289-293 Shau Kei Wan Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1482</string>
+			<key>fax</key>
+			<string>3609 1068</string>
+			<key>gps</key>
+			<string>22.278747,114.226409</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>242</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Kowloon Station SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 1002, 1/F, Elements, 1 Austin Road West, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2417</string>
+			<key>fax</key>
+			<string>3609 3584</string>
+			<key>gps</key>
+			<string>22.304334,114.161403</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>243</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Prince Edward SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, Hanley House, 776-778 Nathan Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2823</string>
+			<key>fax</key>
+			<string>3609 3952</string>
+			<key>gps</key>
+			<string>22.325482,114.168189</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>244</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>One Peking SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 202 &amp; 203, L/F, One Peking, 1 Peking Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2767</string>
+			<key>fax</key>
+			<string>3609 3940</string>
+			<key>gps</key>
+			<string>22.29604,114.169817</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>245</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Tsim Sha Tsui SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, Shop A &amp; B, Milton Mansion, 96 Nathan Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2841</string>
+			<key>fax</key>
+			<string>3609 3970</string>
+			<key>gps</key>
+			<string>22.299386,114.172132</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>246</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>East Tsim Sha Tsui SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop G3 - G5, G/F, East Ocean Cenrtre, 98 Granville Road, Tsim Sha Tsui</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2633</string>
+			<key>fax</key>
+			<string>3609 3905</string>
+			<key>gps</key>
+			<string>22.30012,114.177735</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>247</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Mongkok SupremeGold Centre</string>
+			<key>address</key>
+			<string>1, 7 &amp; 8/F, 638-640 Nathan Road, Mongkok</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2702</string>
+			<key>fax</key>
+			<string>3609 3926</string>
+			<key>gps</key>
+			<string>22.318448,114.169662</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>248</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Mongkok North SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, Kalok Building, 720-722 Nathan Road, Mongkok</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2742</string>
+			<key>fax</key>
+			<string>3609 3930</string>
+			<key>gps</key>
+			<string>22.320895,114.16916</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>249</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Yaumatei SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 526 Nathan Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2900</string>
+			<key>fax</key>
+			<string>3609 3980</string>
+			<key>gps</key>
+			<string>22.312676,114.170834</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>250</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>iSQUARE SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop UG01, iSQUARE, 63 Nathan Road, Tsim Sha Tsui </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2652</string>
+			<key>fax</key>
+			<string>3609 3908</string>
+			<key>gps</key>
+			<string>22.296475,114.171837</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>252</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Pau Chung Street SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop D, 154-160 Pau Chung Street, Tokwawan</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2965</string>
+			<key>fax</key>
+			<string>3609 3590</string>
+			<key>gps</key>
+			<string>22.321728,114.190087</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>253</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Ma Tau Wei Road SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, 23-27 Ma Tau Wei Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2381</string>
+			<key>fax</key>
+			<string>3609 3531</string>
+			<key>gps</key>
+			<string>22.309078,114.187694</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>254</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Whampoa Garden SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 1 - 3, G/F, Site 9, Whampoa Garden</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2574</string>
+			<key>fax</key>
+			<string>3609 3070</string>
+			<key>gps</key>
+			<string>22.302708,114.191095</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>255</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>San Po Kong SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 65 Shung Ling Street</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2512</string>
+			<key>fax</key>
+			<string>3609 3541</string>
+			<key>gps</key>
+			<string>22.334804,114.195518</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>256</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Wong Tai Sin SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop UG15, Upper Ground Floor, Wong Tai Sin Plaza</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2363</string>
+			<key>fax</key>
+			<string>3609 3530</string>
+			<key>gps</key>
+			<string>22.341296,114.193984</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>257</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Chuk Yuen SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop S2, G/F, Chuk Yuen Plaza</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2233</string>
+			<key>fax</key>
+			<string>3609 3030</string>
+			<key>gps</key>
+			<string>22.345184,114.193048</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>258</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Hoi Yuen Road SupremeGold Centre</string>
+			<key>address</key>
+			<string>Unit 1, G/F, Hewlett Centre, 54 Hoi Yuen Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2263</string>
+			<key>fax</key>
+			<string>3609 3512</string>
+			<key>gps</key>
+			<string>22.309694,114.223708</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>259</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>Kwun Tong SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 7 Hong Ning Road, Kwun Tong</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2303</string>
+			<key>fax</key>
+			<string>3609 3524</string>
+			<key>gps</key>
+			<string>22.313902,114.223424</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>260</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Tai Hang Tung SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, 13 Woh Chai Street</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2828</string>
+			<key>fax</key>
+			<string>3609 3959</string>
+			<key>gps</key>
+			<string>22.331521,114.169946</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>261</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Castle Peak Road SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 1, G/F, One Madison, 305 Castle Peak Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2483</string>
+			<key>fax</key>
+			<string>3609 3042</string>
+			<key>gps</key>
+			<string>22.338024,114.156838</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>262</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Mei Foo SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop N57, G/F, Mount Sterling Mall</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2692</string>
+			<key>fax</key>
+			<string>3609 3917</string>
+			<key>gps</key>
+			<string>22.33761,114.138548</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>263</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Ha Kwai Chung SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 202 Hing Fong Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3603</string>
+			<key>fax</key>
+			<string>3609 3103</string>
+			<key>gps</key>
+			<string>22.358971,114.127463</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>264</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Maritime Square SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 308A-C, 3/F, Maritime Square, 33 Tsing King Road, Tsing Yi</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3660</string>
+			<key>fax</key>
+			<string>3609 3048</string>
+			<key>gps</key>
+			<string>22.359185,114.108183</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>265</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Tsuen Wan</string>
+			<key>title</key>
+			<string>Tsuen Wan SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, 239 - 243 Sha Tsui Road, Tsuen Wan</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3670</string>
+			<key>fax</key>
+			<string>3609 3118</string>
+			<key>gps</key>
+			<string>22.370119,114.116052</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>266</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Tuen Mun Town Plaza SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 2 - 10, UG/F, Tuen Mun Town Plaza Phase II, 3 Tuen Lung Street, Tuen Mun</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3721</string>
+			<key>fax</key>
+			<string>3609 3123</string>
+			<key>gps</key>
+			<string>22.394169,113.975993</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>267</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Yuen Long SupremeGold Centre</string>
+			<key>address</key>
+			<string>1/F, 77 Castle Peak Road, Yuen Long</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3741</string>
+			<key>fax</key>
+			<string>3609 3138</string>
+			<key>gps</key>
+			<string>22.444594,114.029479</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>268</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Yuen Long</string>
+			<key>title</key>
+			<string>Tin Shui Wai SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 128, 1/F, Phase 2, Kingswood Ginza, 12-18 Tin Yan Road, Tin Shui Wai</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3772</string>
+			<key>fax</key>
+			<string>3609 3139</string>
+			<key>gps</key>
+			<string>22.457013,114.003947</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>269</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Metro City Plaza SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 243, Level 2, Metro City Plaza I, 1 Wan Hang Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2922</string>
+			<key>fax</key>
+			<string>3609 3599</string>
+			<key>gps</key>
+			<string>22.321316,114.257491</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>270</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Sai Kung SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, 13 &amp; 15 Man Nin Steet, Sai Kung</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2968</string>
+			<key>fax</key>
+			<string>3609 3594</string>
+			<key>gps</key>
+			<string>22.381932,114.271564</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>271</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Tai Wai SupremeGold Centre</string>
+			<key>address</key>
+			<string>16-18 Tai Wai Road, Cheung Fung Mansion, Shatin</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3319</string>
+			<key>fax</key>
+			<string>3609 1195</string>
+			<key>gps</key>
+			<string>22.375801,114.177373</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>272</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Shatin</string>
+			<key>title</key>
+			<string>Shatin Plaza SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 3 - 4, Level 1, Shatin Plaza</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3247</string>
+			<key>fax</key>
+			<string>3609 3009</string>
+			<key>gps</key>
+			<string>22.38286,114.189207</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>273</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Po Plaza SupremeGold Centre</string>
+			<key>address</key>
+			<string>Unit 49-52, Level 1, Tai Po Plaza</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3311</string>
+			<key>fax</key>
+			<string>3609 3025</string>
+			<key>gps</key>
+			<string>22.444351,114.169002</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>274</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Tai Po</string>
+			<key>title</key>
+			<string>Tai Wo SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 215-215A, Level 2, Tai Wo Plaza,  Tai Po</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3809</string>
+			<key>fax</key>
+			<string>3609 3054</string>
+			<key>gps</key>
+			<string>22.450598,114.160684</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>275</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Sheung Shui SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 1015-19, L1, Sheung Shui Centre Shopping Arcade, 3 Chi Cheong Road</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 3261</string>
+			<key>fax</key>
+			<string>3609 3013</string>
+			<key>gps</key>
+			<string>22.501082,114.129742</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>276</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Queen Mary Hospital</string>
+			<key>address</key>
+			<string>ATM room adjacent to the main entrance block, Ground Floor, Wing A, Queen Mary Hospital, Pok Fu Lam</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.270085,114.131325</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>277</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Hospital Authority Building</string>
+			<key>address</key>
+			<string>ATM room next to the entrance of car park, G/F, Hospital Authority Building, 147B Argyle Street, Kowloon</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.32442,114.183263</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>278</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwun Tong</string>
+			<key>title</key>
+			<string>United Christian Hospital</string>
+			<key>address</key>
+			<string>Open space area near the entrance of Ground Floor Block S, United Christian Hospital, 130 Hip Wo Street, Kwun Tong</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.323304,114.227072</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>279</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Princess Margaret Hospital</string>
+			<key>address</key>
+			<string>Room A0005, ATM room at ground floor of Main Block, Princess Margaret Hospital, 2-10 Princess Margaret Hospital Road, Lai Chi Kok</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.3402,114.134694</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>280</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Caritas Medical Centre</string>
+			<key>address</key>
+			<string>G/F Lift Lobby of Wing Hong Street Lift Tower, Caritas Medical Centre, Shumshuipo</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.340674,114.15263</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>281</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Queen Elizabeth Hospital</string>
+			<key>address</key>
+			<string>Room 06, Ground floor, Block E of Queen Elizabeth Hospital, Kowloon</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.309394,114.1753</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>282</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>North District Hospital</string>
+			<key>address</key>
+			<string>Open space area near the lift lobby, Ground floor of Main Block, North District Hospital, 9 Po Kin Road, Sheung Shui</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.496594,114.124737</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>283</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Tuen Mun Hospital</string>
+			<key>address</key>
+			<string>Open space area in the lobby, Ground floor of Main Block, Tuen Mun Hospital, 23 Tsing Chung Koon Road, Tuen Mun</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.407324,113.976438</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>284</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Eastern</string>
+			<key>title</key>
+			<string>Eastern Hospital</string>
+			<key>address</key>
+			<string>Open space area in the lobby, Ground floor of Main Block, Pamela Youde Nethersole Eastern Hospital, 3 Lok Man Road, Chai Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.269434,114.236328</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>285</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Southern</string>
+			<key>title</key>
+			<string>Grantham Hospital</string>
+			<key>address</key>
+			<string>Open space area at the front entrance of Grantham Hospital Specialist outpatient Department,125 Wong Chuk Hang Road, Aberdeen</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.251107,114.173149</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>286</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sham Shui Po</string>
+			<key>title</key>
+			<string>Cheung Sha Wan Plaza SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 117 - 118, 1/F, Cheung Sha Wan Plaza, 833 Cheung Sha Wan Road </string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2682</string>
+			<key>fax</key>
+			<string>3609 3060</string>
+			<key>gps</key>
+			<string>22.337086,114.148732</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>287</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>East Point City SupremeGold Centre</string>
+			<key>address</key>
+			<string>Shop 217G, Level 2, East Point City, 8 Chung Wa Road, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2658</string>
+			<key>fax</key>
+			<string>3609 3983</string>
+			<key>gps</key>
+			<string>22.316344,114.265355</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>288</string>
+			<key>category</key>
+			<string>S</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>The Hong Kong University of Science and Technology SupremeGold Centre</string>
+			<key>address</key>
+			<string>G/F, Entrance Piazza, The Hong Kong University of Science and Technology, Clear Water Bay Road, Sai Kung</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 2429</string>
+			<key>fax</key>
+			<string>3609 3577</string>
+			<key>gps</key>
+			<string>22.337513,114.263477</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>289</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Kwai Chung Hospital</string>
+			<key>address</key>
+			<string>Main Entrance Lobby, LG 1/F, Service Block, Kwai Chung Hospital, 3-15 Kwai Chung Hospital, Kwai Chung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.34316,114.13305</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>290</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wong Tai Sin</string>
+			<key>title</key>
+			<string>Our Lady of Maryknoll Hospital</string>
+			<key>address</key>
+			<string>Open space area in the ground floor of North Wing, Our Lady of Maryknoll Hospital, 188 Shatin Pass Road, Wong Tai Sin</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.34555,114.19664</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>291</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kowloon City</string>
+			<key>title</key>
+			<string>Kowloon Hospital</string>
+			<key>address</key>
+			<string>Room I-011, Upper Ground, West Wing, Kowloon Hospital 147A Argyle Street</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.32367,114.17944</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>292</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Sai Kung</string>
+			<key>title</key>
+			<string>Tseung Kwan O Hospital</string>
+			<key>address</key>
+			<string>ATM room near the bus station, Ground Floor of Main Block, Tseung Kwan O Hospital, 2 Po Ning Lane, Hang Hau, Tseung Kwan O</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.31792,114.27018</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>293</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Ruttonjee Hospital</string>
+			<key>address</key>
+			<string>Open space area near the entrance in LG3, Hospital Main Building, Ruttonjee Hosptial, 266 Queen&apos;s Road East, Wanchai</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.27608,114.17529</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>294</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tsuen Wan</string>
+			<key>title</key>
+			<string>Yan Chai Hospital</string>
+			<key>address</key>
+			<string>Open space area in the hospital lobby, Ground Floor, Block B, Yan Chai Hospital, 7-11 Yan Chai Street, Tsuen Wan</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.37001,114.11952</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>295</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Tuen Mun</string>
+			<key>title</key>
+			<string>Castle Peak Hospital </string>
+			<key>address</key>
+			<string>Open space area in the ground floor of Serene House , Castle Peak Hospital, 15 Tsing Chung Koon Road, Tuen Mun</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.409228,113.973026</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>296</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Wanchai</string>
+			<key>title</key>
+			<string>Tung Wah Eastern Hospital</string>
+			<key>address</key>
+			<string>Open space area at the ground floor inside the Pharmacy waiting hall, Tung Wah Eastern Hospital, 19 Eastern Hospital Road, Causeway Bay </string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.274773,114.190277</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>297</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Yau Tsim Mong</string>
+			<key>title</key>
+			<string>Queen Elizabeth Hospital</string>
+			<key>address</key>
+			<string>Open space area in the lift lobby Ground floor of ACC Block, Queen Elizabeth Hospital, 30 Gascoigne Road</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.308299,114.17504</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>298</string>
+			<key>category</key>
+			<string>B</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Shun Tak Centre Branch</string>
+			<key>address</key>
+			<string>Shop 305M, 3/F, Shun Tak Centre, 200 Connaught Road Centre, Sheung Wan</string>
+			<key>remark</key>
+			<string>Mon - Fri: 9:00 a.m. to 5:00 p.m.
+Sat: 9:00 a.m. to 1:00 p.m.</string>
+			<key>tel</key>
+			<string>3609 1567</string>
+			<key>fax</key>
+			<string>3609 3088</string>
+			<key>gps</key>
+			<string>22.287955,114.151436</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>299</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Central and Western</string>
+			<key>title</key>
+			<string>Shun Tak Centre</string>
+			<key>address</key>
+			<string>Shop 305B, 3/F., Shun Tak Centre, 200 Connaught Road Central, Sheung Wan  </string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.287955,114.151436</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>300</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>North</string>
+			<key>title</key>
+			<string>Fanling Town Centre</string>
+			<key>address</key>
+			<string>Shop 27B &amp; 27C, level 2 of Fanling Town Centre, Fanling</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.4922,114.139444</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>301</string>
+			<key>category</key>
+			<string>A</string>
+			<key>district</key>
+			<string>Kwai Tsing</string>
+			<key>title</key>
+			<string>Kwai Shing East Shopping Centre</string>
+			<key>address</key>
+			<string>ATM no.3 at open space near shop 132, 1/F Kwai Shing East Shopping Centre, Kwai Chung</string>
+			<key>remark</key>
+			<string>24 hours</string>
+			<key>tel</key>
+			<string>NULL</string>
+			<key>fax</key>
+			<string>NULL</string>
+			<key>gps</key>
+			<string>22.364642,114.127339</string>
+			<key>newtopitem</key>
+			<string>F</string>
+			<key>expire</key>
+			<string>0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

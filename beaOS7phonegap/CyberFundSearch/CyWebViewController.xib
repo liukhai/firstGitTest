@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13C64' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='CyWebViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='gmP-q9-2cM' id='CRZ-y8-7Q2' property='view'/>
+                <outlet destination='kqB-rZ-F9t' id='XwM-tY-aYY' property='webView'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' contentMode='TopLeft' id='gmP-q9-2cM'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <webView contentMode='scaleToFill' id='kqB-rZ-F9t'>
+                    <rect height='367' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                    <dataDetectorType key='dataDetectorTypes'/>
+                </webView>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </view>
+    </objects>
+</document>

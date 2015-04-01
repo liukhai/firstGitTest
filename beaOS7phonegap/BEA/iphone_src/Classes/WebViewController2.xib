@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13E28' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='WebViewController2' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='gHI-XS-SJE' id='VHP-ET-6Xl' property='mTitleLabel'/>
+                <outlet destination='1' id='3' property='view'/>
+                <outlet destination='1dV-WX-Gj4' id='rqs-3k-2Ca' property='web_view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' contentMode='left' hidden='YES' horizontalHuggingPriority='251' id='chP-PI-eIL' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='21' key='frame' width='42' x='139' y='230'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='gHI-XS-SJE' lineBreakMode='tailTruncation' numberOfLines='0' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='24' key='frame' width='306' x='8' y='66'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' heightSizable='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='boldSystem'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <webView contentMode='scaleToFill' id='1dV-WX-Gj4' scalesPageToFit='YES'>
+                    <rect height='414' key='frame' width='320' x='0.0' y='66'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                    <dataDetectorType key='dataDetectorTypes'/>
+                </webView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedScreenMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

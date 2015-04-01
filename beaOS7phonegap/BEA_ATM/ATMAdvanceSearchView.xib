@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13B42' targetRuntime='iOS.CocoaTouch' toolsVersion='4514' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3747'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ATMAdvanceSearchViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='70' id='78' property='branch_btn'/>
+                <outlet destination='51' id='52' property='cuisine'/>
+                <outlet destination='36' id='54' property='cuisine_cell'/>
+                <outlet destination='50' id='69' property='cuisine_label'/>
+                <outlet destination='71' id='72' property='dining_offers'/>
+                <outlet destination='35' id='41' property='district_cell'/>
+                <outlet destination='37' id='42' property='keywords'/>
+                <outlet destination='34' id='40' property='keywords_cell'/>
+                <outlet destination='45' id='46' property='location'/>
+                <outlet destination='43' id='47' property='location_label'/>
+                <outlet destination='61' id='65' property='shopping_offers'/>
+                <outlet destination='4' id='66' property='title_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <userGuides>
+                <userLayoutGuide affinity='minY' location='264.5'/>
+                <userLayoutGuide affinity='minX' location='160'/>
+            </userGuides>
+            <subviews>
+                <button buttonType='roundedRect' clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='61' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='34' key='frame' width='230' x='45' y='231'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state key='normal' title='ATM'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='82' selector='atmButtonPressed'/>
+                    </connections>
+                </button>
+                <imageView clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='25' image='table_header_bg.png' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='4' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' text='ATM Advance Search' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='310' x='5' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.5'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='17'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='shadowColor' white='0.5'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='70' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='37' key='frame' width='230' x='45' y='89'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state key='normal' title='Branch'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='83' selector='branchButtonPressed'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='71' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='37' key='frame' width='230' x='45' y='159'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state key='normal' title='SupremeGold'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='81' selector='supremeGoldButtonPressed'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+            <simulatedTabBarMetrics key='simulatedBottomBarMetrics'/>
+        </view>
+        <tableViewCell clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='34' indentationWidth='10' selectionStyle='blue'>
+            <rect height='44' key='frame' width='260' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='lAf-BD-W4H' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='34'>
+                <rect height='43' key='frame' width='260' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <textField clearsContextBeforeDrawing='NO' clearsOnBeginEditing='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='37' minimumFontSize='17' opaque='NO' text='Enter the keywords'>
+                        <rect height='31' key='frame' width='280' x='20' y='5'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                        <textInputTraits key='textInputTraits' returnKeyType='done'/>
+                        <connections>
+                            <outlet destination='-1' id='56' property='delegate'/>
+                        </connections>
+                    </textField>
+                </subviews>
+            </tableViewCellContentView>
+            <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+        </tableViewCell>
+        <tableViewCell accessoryType='disclosureIndicator' clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='35' indentationWidth='10' selectionStyle='blue'>
+            <rect height='44' key='frame' width='260' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='Q62-bc-QWT' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='35'>
+                <rect height='43' key='frame' width='227' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <label clipsSubviews='YES' contentMode='scaleToFill' id='43' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Districts' userInteractionEnabled='NO'>
+                        <rect height='22' key='frame' width='65' x='20' y='9'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                        <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' id='45' lineBreakMode='tailTruncation' opaque='NO' userInteractionEnabled='NO'>
+                        <rect height='38' key='frame' width='153' x='83' y='1'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='18'/>
+                        <state key='normal' title='Mong Kok'>
+                            <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                        </state>
+                        <state key='highlighted'>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        </state>
+                        <connections>
+                            <action destination='-1' eventType='touchUpInside' id='55' selector='cuisineButtonPressed:'/>
+                        </connections>
+                    </button>
+                </subviews>
+            </tableViewCellContentView>
+            <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+        </tableViewCell>
+        <tableViewCell accessoryType='disclosureIndicator' clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='36' indentationWidth='10' selectionStyle='blue'>
+            <rect height='44' key='frame' width='260' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='glg-6C-HKT' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='36'>
+                <rect height='43' key='frame' width='227' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='scaleToFill' id='50' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Categories' userInteractionEnabled='NO'>
+                        <rect height='22' key='frame' width='105' x='20' y='10'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                        <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' id='51' lineBreakMode='tailTruncation' opaque='NO' userInteractionEnabled='NO'>
+                        <rect height='38' key='frame' width='134' x='102' y='2'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='18'/>
+                        <state key='normal' title='Chinese'>
+                            <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                        </state>
+                        <state key='highlighted'>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        </state>
+                        <connections>
+                            <action destination='-1' eventType='touchUpInside' id='53' selector='cuisineButtonPressed:'/>
+                        </connections>
+                    </button>
+                </subviews>
+            </tableViewCellContentView>
+            <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image height='45' name='table_header_bg.png' width='1'/>
+    </resources>
+</document>

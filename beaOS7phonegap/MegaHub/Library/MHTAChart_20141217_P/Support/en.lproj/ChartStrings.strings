@@ -1,0 +1,90 @@
+//Chart UI Titles
+"chart_period" = "Period";
+"chart_type" = "Chart Type";
+"select_title" = "SELECT";
+"param_title" = "PARAMS";
+"ta_parameters" = "TA Parameters";
+"defaults" = "DEFAULT";
+"OK" = "OK";
+
+// TA Names
+"none" = "Not Selected";
+"sma" = "SMA";
+"wma" = "WMA";
+"ema" = "EMA";
+"psar" = "Parabolic SAR";
+"bollbands" = "Bollinger Bands";
+
+"volume_ta" = "Volume";
+"rsi" = "RSI";
+"macd" = "MACD";
+"mtm" = "MTM";
+"roc" = "ROC";
+"faststc" = "Fast STC";
+"slowstc" = "Slow STC";
+"williamr" = "William %R";
+"obv" = "OBV";
+"pvt" = "PVT";
+"dmi" = "DMI";
+"volumep" = "Volume+";
+"turnover_ta" = "Turnover";
+"turnoverp" = "Turnover+";
+"volatility" = "Volatility";
+
+//Periods and Intervals
+"1_day" = "1 Day";
+"3_day" = "3 Days";
+"5_day" = "5 Days";
+"10_day" = "10 Days";
+"20_day" = "20 Days";
+"1_month" = "1 Month";
+"3_month" = "3 Months";
+"6_month" = "6 Months";
+"1_year" = "1 Year";
+"3_year" = "3 Years";
+"8_year" = "8 Years";
+
+"1_day_abbr" = "1D";
+"3_day_abbr" = "3D";
+"5_day_abbr" = "5D";
+"10_day_abbr" = "10D";
+"20_day_abbr" = "20D";
+"1_month_abbr" = "1M";
+"3_month_abbr" = "3M";
+"6_month_abbr" = "6M";
+"1_year_abbr" = "1Y";
+"3_year_abbr" = "3Y";
+"8_year_abbr" = "8Y";
+
+"1_min" = "1 Min";
+"3_min" = "3 Min";
+"5_min" = "5 Min";
+"10_min" = "10 Min";
+"15_min" = "15 Min";
+"30_min" = "30 Min";
+"1_hour" = "1 Hour";
+"1_day_p" = "1 Day";
+"1_week" = "1 Week";
+"1_month_p" = "1 Month";
+
+"param_1_title" = "Parameter 1";
+"param_2_title" = "Parameter 2";
+"param_3_title" = "Parameter 3";
+"param_4_title" = "Parameter 4";
+"param_5_title" = "Parameter 5";
+
+"HSI" = "HSI";
+"HSCEI" = "HSCEI";
+"HSCCI" = "HSCCI";
+"HSIF" = "HSIF";
+"HSF" = "HSF";
+"HSU" = "HSU";
+"HSP" = "HSP";
+"HSC" = "HSC";
+
+"HSI_short" = "HSI";
+"HSCEI_short" = "HSCEI";
+"HSCCI_short" = "HSCCI";
+"HSIF_short" = "HSIF";
+
+"Disclaimer" = "Disclaimer";

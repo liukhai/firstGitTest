@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13C64' targetRuntime='iOS.CocoaTouch' toolsVersion='5053' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1072' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='AccProDefaultPageViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='92' id='94' property='callwebView'/>
+                <outlet destination='45' id='56' property='contentView'/>
+                <outlet destination='48' id='59' property='lbReward'/>
+                <outlet destination='54' id='70' property='lbSimulator'/>
+                <outlet destination='7' id='16' property='lbTitle'/>
+                <outlet destination='34' id='43' property='scroll_view'/>
+                <outlet destination='50' id='58' property='sl_salary'/>
+                <outlet destination='51' id='60' property='tfSalary'/>
+                <outlet destination='88' id='90' property='topwebView'/>
+                <outlet destination='1' id='42' property='view'/>
+                <outlet destination='55' id='57' property='webView'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='TopLeft' id='1' multipleTouchEnabled='YES'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='6' image='table_header_bg.png' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                </imageView>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='scaleToFill' id='7' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='310' x='5' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <string base64-UTF8='YES' key='text'>
+QXV0byBQYXlyb2xsIFByb21vdGlvbg1XZWxjb21lIE9mZmVycwM
+</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='17'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                    <color alpha='1' blue='0.45490199329999997' colorSpace='deviceRGB' green='0.4156863093' key='shadowColor' red='0.36470589040000001'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='34' multipleTouchEnabled='YES'>
+                    <rect height='281' key='frame' width='320' x='0.0' y='43'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </scrollView>
+                <webView contentMode='scaleToFill' id='92'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='322'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                </webView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+            <simulatedTabBarMetrics key='simulatedBottomBarMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' id='45' userLabel='View'>
+            <rect height='835' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <webView contentMode='scaleToFill' id='55' multipleTouchEnabled='YES' userLabel='Web View'>
+                    <rect height='385' key='frame' width='320' x='0.0' y='450'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                    <connections>
+                        <outlet destination='-1' id='78' property='delegate'/>
+                    </connections>
+                </webView>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='84' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='163' key='frame' width='320' x='0.0' y='283'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='85' selector='screenPressed'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='54' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='0' opaque='NO' text='Reward Calculator (for reference only)' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='297' x='13' y='293'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='15'/>
+                    <color alpha='1' blue='0.1110253814' colorSpace='calibratedRGB' green='0.1228150154' key='textColor' red='1'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='52' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='0' opaque='NO' text='Monthly basic salary:' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='133' x='13' y='345'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='69' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='HK$' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='28' x='157' y='346'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <textField adjustsFontSizeToFit='NO' borderStyle='roundedRect' clearButtonMode='whileEditing' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='51' minimumFontSize='17' opaque='NO' text='25000'>
+                    <rect height='31' key='frame' width='119' x='193' y='339'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <textInputTraits key='textInputTraits' keyboardType='numberPad' returnKeyType='done'/>
+                    <connections>
+                        <outlet destination='-1' id='63' property='delegate'/>
+                    </connections>
+                </textField>
+                <slider contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='50' maxValue='130000' minValue='10000' opaque='NO' value='25000'>
+                    <rect height='29' key='frame' width='303' x='9' y='382'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <connections>
+                        <action destination='-1' eventType='valueChanged' id='61' selector='changeSliders:'/>
+                    </connections>
+                </slider>
+                <label clipsSubviews='YES' contentMode='left' id='49' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Your reward:' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='81' x='13' y='415'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='48' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='HK$750' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='139' x='157' y='416'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='17'/>
+                    <color alpha='1' blue='0.1110253814' colorSpace='calibratedRGB' green='0.1228150154' key='textColor' red='1'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <webView contentMode='scaleToFill' id='88'>
+                    <rect height='278' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                    <connections>
+                        <outlet destination='-1' id='89' property='delegate'/>
+                    </connections>
+                </webView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='45' name='table_header_bg.png' width='1'/>
+    </resources>
+</document>

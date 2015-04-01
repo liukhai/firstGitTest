@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6250' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6244'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='CalloutMapContentViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='24' id='34' property='address'/>
+                <outlet destination='q92-DE-am5' id='uOL-zJ-JSW' property='btnClose'/>
+                <outlet destination='19' id='GQ2-z4-VGh' property='btnClose2'/>
+                <outlet destination='43' id='47' property='btnTel'/>
+                <outlet destination='13' id='33' property='calloutTitle'/>
+                <outlet destination='le0-vC-KUk' id='bab-J2-08P' property='closeImage'/>
+                <outlet destination='SMF-bR-8iY' id='uOH-dP-lTu' property='fax_Label'/>
+                <outlet destination='39' id='44' property='imgAddress'/>
+                <outlet destination='31' id='48' property='imgBG'/>
+                <outlet destination='IAY-Du-zdS' id='mcL-hr-Bxc' property='imgFax'/>
+                <outlet destination='41' id='45' property='imgHour'/>
+                <outlet destination='42' id='46' property='imgTel'/>
+                <outlet destination='25' id='32' property='service'/>
+                <outlet destination='1' id='3' property='view'/>
+                <outlet destination='51' id='52' property='viewContent'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view alpha='0.5' contentMode='scaleToFill' id='1'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view contentMode='scaleToFill' id='51'>
+                    <rect height='560' key='frame' width='280' x='20' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='31' image='imgCMScallout2.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='164' key='frame' width='280' x='0.0' y='0.0'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                        </imageView>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='19' lineBreakMode='middleTruncation' opaque='NO' tag='100'>
+                            <rect height='20' key='frame' width='20' x='248' y='26'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='balloon_overlay_close.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='35' selector='closeButtonPressed:'/>
+                            </connections>
+                        </button>
+                        <label baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='13' lineBreakMode='wordWrap' minimumScaleFactor='0.5' numberOfLines='0' opaque='NO' text='' userInteractionEnabled='NO'>
+                            <rect height='21' key='frame' width='238' x='10' y='26'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='boldSystem'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' hidden='YES' id='39' image='icon_address.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='15' key='frame' width='15' x='10' y='50'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='24' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='' userInteractionEnabled='NO'>
+                            <rect height='30' key='frame' width='238' x='30' y='50'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' hidden='YES' id='41' image='icon_openinghours.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='15' key='frame' width='15' x='10' y='85'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='25' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='' userInteractionEnabled='NO'>
+                            <rect height='30' key='frame' width='230' x='30' y='85'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='42' image='icon_telephone.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='15' key='frame' width='15' x='10' y='120'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <button contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='43' lineBreakMode='middleTruncation' opaque='NO' tag='200'>
+                            <rect height='16' key='frame' width='83' x='30' y='120'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='1' colorSpace='calibratedRGB' green='0.0' key='titleColor' red='0.0'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' blue='1' colorSpace='calibratedRGB' green='0.0' key='titleColor' red='0.0'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='50' selector='doCall:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='q92-DE-am5' lineBreakMode='middleTruncation' opaque='NO' tag='300'>
+                            <rect height='33' key='frame' width='57' x='218' y='17'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                        </button>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' hidden='YES' id='IAY-Du-zdS' image='icon_telephone_15.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='15' key='frame' width='15' x='10' y='142'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' hidden='YES' id='SMF-bR-8iY' lineBreakMode='wordWrap' numberOfLines='0' opaque='NO' text='' userInteractionEnabled='NO'>
+                            <rect height='15' key='frame' width='83' x='30' y='142'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='le0-vC-KUk' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='33' key='frame' width='57' x='218' y='17'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits button='YES' key='traits' none='YES'/>
+                                <bool key='isElement' value='YES'/>
+                            </accessibility>
+                        </imageView>
+                        <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='kaZ-r7-t9M' image='balloon_overlay_close.png' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='20' key='frame' width='20' x='248' y='26'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='0.66666666666666663'/>
+            <point key='canvasLocation' x='278' y='275'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='36' name='balloon_overlay_close.png' width='36'/>
+        <image height='30' name='icon_address.png' width='30'/>
+        <image height='30' name='icon_openinghours.png' width='30'/>
+        <image height='30' name='icon_telephone.png' width='30'/>
+        <image height='30' name='icon_telephone_15.png' width='30'/>
+        <image height='152' name='imgCMScallout2.png' width='280'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

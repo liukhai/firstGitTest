@@ -1,0 +1,1118 @@
+/* 
+ Localizable.strings
+ BEA Surprise
+ 
+ Created by Algebra Lo on 10年3月12日.
+ Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+"pagestr1" = "Page";
+"pagestr2" = "";
+"lang" = "e";
+"BEA" = "BEA";
+"Back" = "Back";
+"Back_accessibility" = "back button";
+"Edit" = "Edit";
+"Edit_done" = "Done";
+"Home" = "Home (Card)";
+"Back to Home" = "Back to Main Menu";
+"Prev" = "Prev";
+"Next" = "Next";
+"Delete" = "Delete";
+"Address" = "Address";
+"Tel" = "Tel";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Error downloading data" = "Connection error. Please try again later.";
+//"Error downloading data" = "Error downloading data from server, please try again";
+"Title" = "Year-round Offers,Cash in Hand,Latest Promotions,Spending & Rewards,Concert & Movie Offers,GlobePass Offers,CyberFund Search";
+"Title_accessibility" = "Year-round Offers button,Cash in Hand button,Latest Promotions button,Spending & Rewards button,Concert & Movie Offers button,GlobePass Offers button,CyberFund Search button";
+"Tab" = "Nearby,Search,Bookmark,Share App";
+"BEA Credit Card" = "BEA Credit Card";
+"TNC Dining" = "1. The offers are applicable from 1st January to 31st December 2010, unless otherwise specified.\n\n2. To enjoy the offers, cardholders must present their BEA Credit Card or co-branded/affinity card (“BEA Credit Card”) before ordering/payment, and should settle payment in full with BEA Credit Card, unless otherwise specified.\n\n3. To enjoy the Platinum Card Offers, cardholders must present their BEA PLATINUM Card or co-branded/affinity PLATINUM card or BEA World MasterCard (“BEA PLATINUM Card”) before ordering/payment, and should settle payment in full with BEA PLATINUM Card, unless otherwise specified.\n\n4. The offers are not applicable to BEA JCB PLATINUM Card, BEA CUP Dual Currency PLATINUM Credit Card, BEA Traveller’s Card, BEA Prepaid Card, and BEA Renminbi Credit Card, unless otherwise specified.\n\n5. The offers are only applicable to outlets of respective participating merchants (the “Merchants”) in Hong Kong, unless otherwise specified.\n\n6. The relevant offers shall be terminated immediately if the relevant Merchant(s) has/have ceased or closed down business.  \n\n7. The dining offers are applicable for dine-in order only, unless otherwise specified. Cardholders should state their intention to enjoy the offer(s) at the time of reservation and/or before ordering. Advance booking may be required.\n\n8. The dining offers are not applicable on public holidays, festive eves, festive days, and specific blackout dates. Private parties, banquets, room services, tea & condiments, and the 10% service charge are excluded, unless otherwise specified.\n\n9. The offers cannot be enjoyed in conjunction with other promotional offers/discounts and/or membership programmes offered by the Merchants.  \n\n10. The offers apply to regular-priced products and services only, unless otherwise specified. Discounted items and fixed-priced products and services are excluded.\n\n11. Entitlement to the offer is non-transferable and cardholders cannot redeem offers for cash, products and/or services.\n\n12. The Bank of East Asia, Limited (“BEA”) makes no representation or guarantee as to the quality and the availability of the food/products, services, and/or information provided by the Merchants. The Merchants will be responsible for any matters arising from or in connection with the food/products, services, and/or information they provide in relation to which BEA will have no liability whatsoever. Any enquiry or complaint regarding the food/products, services, and/or information should be directed to the relevant Merchants.\n\n13. The offers are bound by the terms and conditions of the respective Merchants.\n\n14. BEA and the Merchants reserve the sole right to vary or cancel the relevant offers and/or amend or alter these Terms and Conditions at any time without prior notice. In the event of any dispute, the decision of BEA and the relevant Merchants shall be final and conclusive.\n\n15. Should there be any discrepancy between the English and the Chinese versions of these Terms and Conditions, the English version shall apply and prevail.";
+"TNC Shopping" = "1. The offers are valid from 1st January to 31st December 2010, unless otherwise specified.\n\n2. To enjoy the offers, cardholders must present their BEA Credit Card or co-branded/affinity card (“BEA Credit Card”) before ordering/payment, and should settle payment in full with BEA Credit Card, unless otherwise specified.\n\n3. To enjoy the Platinum Card Offers, cardholders must present their BEA PLATINUM Card or co-branded/affinity PLATINUM card or BEA World MasterCard (“BEA PLATINUM Card”) before ordering/payment, and should settle payment in full with BEA PLATINUM Card, unless otherwise specified.\n\n4. The offers are not applicable to BEA JCB PLATINUM Card, BEA CUP Dual Currency PLATINUM Credit Card, BEA Traveller’s Card, BEA Prepaid Card, and BEA Renminbi Credit Card, unless otherwise specified.\n\n5. The offers are only valid at outlets of respective participating merchants (the “Merchants”) in Hong Kong, unless otherwise specified.\n\n6. The relevant offers shall be terminated immediately if the relevant Merchant(s) has/have ceased or closed down business.  \n\n7. The offers cannot be enjoyed in conjunction with other promotional offers/discounts and/or membership programmes offered by the Merchants.  \n\n8. The offers apply to regular-priced products and services only, unless otherwise specified. Discounted items and fixed-priced products and services are excluded.\n\n9. Entitlement to the offer is non-transferable and cardholders cannot redeem offers for cash or other products and/or services.\n\n10. The Bank of East Asia, Limited (“BEA”) makes no representation or guarantee as to the quality and the availability of the products, services, and/or information provided by the Merchants. The Merchants will be responsible for any matters arising from or in connection with the products, services, and/or information they provide in relation to which BEA will have no liability whatsoever. Any enquiry or complaint regarding the products, services, and/or information should be directed to the relevant Merchants.\n\n11. The offers are bound by the terms and conditions of the respective Merchants.  \n\n12. BEA and the Merchants reserve the sole right to vary or cancel the relevant offers and/or amend or alter these Terms and Conditions at any time without prior notice. In the event of any dispute, the decision of BEA and the relevant Merchants shall be final and conclusive.\n\n13. Should there be any discrepancy between the English and the Chinese versions of these Terms and Conditions, the English version shall apply and prevail.";
+"TNC Quarterly" = "1. The Quarterly Surprise Promotion (the “Promotion”) will run from 1st May to 30th June, 2010 (both days inclusive).\n\n2. These coupons must be presented at the time of purchase and payment must be settled in full with BEA Credit Card or co-branded/affinity card (including principal and supplementary cards). These coupons are not applicable to BEA JCB PLATINUM Card, BEA CUP Dual Currency PLATINUM Credit Card, BEA Prepaid Card, BEA Traveller’s Card, and BEA Renminbi Credit Card.\n\n3. The coupons are only available at the Tsim Sha Tsui outlets of the participating merchants (the “Merchants”).\n\n4. An offer shall be terminated immediately if the relevant Merchant(s) has/have ceased or closed down business.\n\n5. The Bank of East Asia, Limited (“BEA”) makes no representation or guarantee as to the quality and availability of the products, services, and/or information provided by the Merchants. BEA shall not be liable for any matters arising from or in connection with the products, services, and/or information related to the coupons. Customers should direct relevant queries and/or complaints to the relevant Merchant.\n\n6. BEA and the Merchants reserve the sole right to vary or cancel the offers and/or amend or alter these Terms and Conditions at any time without prior notice. In the event of any dispute, the decision of BEA and the relevant Merchant(s) shall be final and conclusive.\n\n7. Should there be any discrepancy between the English and the Chinese versions of these Terms and Conditions, the English version shall apply and prevail.";
+
+"General Terms and Conditions" = "General Terms and Conditions";
+"General Terms and Conditions button" = "General Terms and Conditions button";
+"Terms and Conditions" = "Terms and Conditions";
+"T&C" = "T&C";
+"Share Offer" = "Share Offer";
+"Share Offer2" = "Share Offer";
+"Share App_Privileges" = "Share App";
+"Add to Bookmark" = "   Add to Bookmark";
+"Added to Bookmark" = "Added to Bookmark";
+"e-Coupon" = "e-Coupon";
+"Offers" = "Offers";
+"Offers-fav" = "Privileges";
+"Contact Info" = "Contact Info";
+//jeff-apply form
+"cih_title_cih" = "\"Cash In Hand\"\nApplication";
+"cih_title_btp" = "\"Cash In Hand\"\nBalance Transfer Application";
+"cih_title_sip" = "\"Cash In Hand\"\nStatement Instalment Application";
+//jeff
+"Concert and Movie Offers" = "Concert and Movie Offers";
+//
+"chi_salutation" = "";
+"chi_apply_express" = "Express Application";
+"chi_call_now" = "Call now";
+"chi_office_time" = "Service hours (Except public holidays): \nMonday to Friday: 9a.m. - 6p.m.; Saturday: 9a.m. - 2p.m.";
+"chi_please" = "Please provide the following information. A BEA\ncustomer service representative will contact you shortly.";
+"chi_name" = "Name:";
+"chi_mobile" = "Contact No.:";
+"chi_email" = "Email address:";
+//"chi_loan_value" = "\"Cash in Hand\" Amount (HK$):";
+"chi_repay" = "Repayment Period:";
+"chi_terms" = "I confirm that I have read and understood BEA's";
+"chi_announce" = "Personal Data (Privacy) Ordinance - Personal Information Collection  (Customers) Statement(\"Statement\").";
+"chi_announce2" = "";
+"chi_Mr" = "Mr.";
+"chi_Miss" = "Miss.";
+"chi_Ms" = "Ms.";
+"chi_Mrs" = "Mrs.";
+"chi_submit" = "Submit";
+"chi_clear" = "Clear";
+//jeff handle error message
+"fill_valid_name" = "Please enter valid Name";
+"fill_valid_mobile" = "Please enter a valid Contact No.";
+"fill_valid_email" = "Please enter valid E-mail Address";
+"fill_valid_loan" = "Please enter valid Loan Amount";
+"fill_valid_loan_value_cash_3000" = "The minimum \"Cash in Hand\" amount is HK$3,000.";
+"fill_valid_loan_value_transfer_3000" = "The minimum Balance Transfer amount is HK$3,000.";
+"fill_valid_loan_value_instalment_1000" = "The minimum Statement Instalment amount is \nHK$1,000.";
+"acceptance_valid" = "Please acknowledge that you have read and understood the contents of Data Policy Notice and agree to be bound by it.";
+"Not_correct_loan_value" = "The amount applied for \nshould be a multiple of \nHK$1,000.";
+"Not_correct_loan_value_100" = "The amount applied for \nshould be a multiple of \nHK$100.";
+"No_repaymentPeriod"="Please select a repayment period";
+
+//jeff - NO Details
+"NO Details" = "NO Details";
+//
+//jeff
+"Apply Now" = "Apply Now";
+"call" = "Call";
+"cancel" = "Cancel";
+"applyOnline" = "Apply Online";
+"applyFail" = "Apply Fail";
+"application_sent" = "Application Sent";
+"application_fail" = "Application Rejected";
+//jeff-email-sent
+"contact_today" = "Our customer service representative will contact you by end of the day.";
+"contact_nextday" = "Our customer service representative will contact you on the next working day.";
+//
+"Details" = "Details";
+"Details_accessibility" = "Details button";
+"More Details_accessibility" = "More details button";
+"Go to GlobePass website" = "Go to GlobePass website";
+"Share to Friends" = "Share with Friends";
+"Share Offers with Friends by Email" = "Share offer with Friends by Email";
+"Share App with Friends by Email" = "Share App with friends by email?";
+"Add to Bookmark?" = "Add to Bookmark?";
+"Added to Favourite" = "Added to Favourite";
+"Delete from Favourite" = "Delete from Favourite";
+"Delete from Bookmark" = "Delete from Bookmark";
+"Done" = "Done";
+"Dial to" = "Dial to";
+"Call" = "Call";
+"OK" = "OK";
+"Cancel" = "Cancel";
+
+//Year-round offers
+"Offer types" = "Year-round	Dining,Year-round Shopping";
+"Offer types_accessibility" = "Year-round	Dining button,Year-round Shopping button";
+"Year round menu" = "Top Restaurant Highlights,Hotel Dining,Chain Restaurants,Select by District,Apparel,Beauty,Jewellery & Watches,Lifestyle"; 
+"category_list" = "topMerchants,hotel,chainRestaurant,district,apparel,beauty,jewellery,lifestyle";
+"location_list" = "Causeway Bay,Central,Mong Kok,Tsim Sha Tsui,Wan Chai,Others - HK Island,Others - Kln";
+"location_id_list" = "Causeway%20Bay,Central,Mong%20Kok,Tsim%20Sha%20Tsui,Wan%20Chai,Others%20in%20HK,Others%20in%20Kowloon";
+
+//Year round offers
+"Year-round Offers" = "Year-round Offers";
+
+//Quarterly Surprise
+"Quarterly Surprise" = "\"Cash in Hand\"";
+
+//Latest Promotions
+"Latest Promotions" = "Latest Promotions";
+"Latest Promotions-fav" = "Latest Promotions";
+//jeff-Cash In Hand
+"Cash In Hand" = "\"Cash In Hand\"Programmes";
+//
+"tag_cash_application_cih" = "\"Cash in Hand\" Application";
+"tag_cash_application_btp" = "\"Cash in Hand\" Balance Transfer Application";
+"tag_cash_application_sip" = "\"Cash in Hand\" Statement Instalment Application";
+"tag_bea_contact" = "(BEA will contact you to process this application.)";
+
+"cih_loan_value" = "\"Cash in Hand\" Amount (HK$):";
+"btp_loan_value" = "Balance Transfer Amount (HK$):";
+"sip_loan_value" = "Statement Instalment Amount (HK$):";
+
+//Spending & Rewards
+"Spending & Rewards" = "Spending & Rewards";
+//Rewards
+"Rewards" = "Rewards";
+//PB Concerts
+"Priority Booking for Concerts" = "Priority Booking for Concerts";
+"Priority Booking for Concerts-fav" = "Concert and Movie Offers";
+"Concert dates and time" = "Concert dates and time";
+"Venue" = "Venue";
+"Ticket price" = "Ticket price";
+"Priority booking period" = "Priority booking dates";
+"Priority booking hotline" = "Priority booking hotline";
+//jeff
+"Priority booking link" = "Priority booking website";
+//
+"Book fail1" = "Please call during ";
+"Book fail2" = " - ";
+"Book fail3" = "";
+//jeff
+"Book fail4" = "Please Visit from ";
+"9am" = " 9am ";
+"Book fail5" = "onwards";
+//
+
+"Organisers" = "Organisers";
+"Co-organisers" = "Co-organisers";
+"Title Sponsor" = "Title Sponsor";
+"Priority Booking" = "Priority Booking";
+"Management" = "Management";
+"Production" = "Production";
+"9am-9pm" = "9am-9pm";
+
+//GlobePass
+"GlobePass Offers" = "GlobePass Offers";
+"Visit GlobePass website" = "Enter GlobePass website";
+//Consumer Loans
+"Consumer Loans-fav" = "Offers";
+"Loans-fav" = "Consumer Loans";
+//Supreme Gold
+"Supreme Gold-fav" = "Offers";
+"Gold-fav" = "SupremeGold";
+
+//Nearby
+"Setting" = "Setting";
+"Offers show in Map" = "Offers shown on map";
+"Distance show in Map" = "Distance shown on map";
+"km" = "km";
+"m" = "m";
+"Nearby" = "Nearby";
+"Search1" = "No. of offer(s):";
+"Search2" = "";
+"No offer in nearby" = "No offer in nearby";
+"No result in nearby" = "No result in nearby";
+"No result found nearby" = "No result found nearby";
+"userLocation_title" = "Current Location";
+
+//Search
+"Advance Search" = "Search Year-round Offers";
+"Search" = "Search";
+"Enter your keywords" = "Enter keywords";
+"District" = "Districts";
+"Cuisine" = "Cuisines";
+"Categories" = "Categories";
+"Please enter at least one search critiria" = "Please enter at least one search criterion";
+"location_search_list" = ",Causeway Bay,Central,Mong Kok,Tsim Sha Tsui,Wan Chai,Others - HK Island,Others - Kln";//"Others in HK Island,Others in Kowloon";
+"location_search_id_list" = ",Causeway%20Bay,Central,Mong%20Kok,Tsim%20Sha%20Tsui,Wan%20Chai,Others%20in%20HK,Others%20in%20Kowloon";
+"cuisine_list" = ",Chinese,Japanese,Korean,South East Asian,Vietnamese,Western";
+"cuisine_index_list" = ",Chinese,Japanese,Korean,South%20East%20Asian,Vietnam,Western";
+"search_category_list" = ",Apparel,Beauty,Jewellery & Watches,Lifestyle";
+"search_category_index_list" = ",Apparel,Beauty,Jewellery%20%26%20Watches,Lifestyle";
+"Cannot find offer for the search" = "No match found";
+
+//Bookmark"
+"Bookmark" = "Bookmark";
+"Bookmark1" = "No. of offer(s) stored:";
+"No bookmark stored" = "No bookmark stored";
+
+//Share App
+"Check out" = "Check out the free new BEA iPhone App!";
+//"Main share app" = "Hello!\n\nNow you can stay on top of BEA’s latest news and promotions with the new BEA iPhone App – visit the iTunes App Store and search for \"BEA\" or click the link below to download it for FREE now! \n\nhttp://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=381215704&amp;amp;amp;amp;mt=8";
+"Main share app" = "Hello!\n\nNow you can stay on top of BEA’s latest news and promotions with the new BEA iPhone App – visit the iTunes App Store and search for \"BEA\" to download it for FREE now!";
+"Offer details" = "";//"● Offer details\n\n";
+//"Share App" = "To discover more fabulous offers from BEA Credit Card, visit the iTunes App Store and search for \"BEA\" or click the link below to download the new BEA iPhone App for FREE now!\n\nhttp://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=381215704&amp;amp;amp;amp;mt=8";
+"Share App" = "To discover more fabulous offers from BEA Credit Card, visit the iTunes App Store and search for \"BEA\" to download the new BEA iPhone App for FREE now!";
+"Share QS" = "To get the e-Coupon, visit the iTunes App Store and search for \"BEA\" to download the new BEA iPhone App for FREE, then click Credit Card -> Quarterly Surprise. You can also use the App to discover more fabulous offers from BEA Credit Card!";
+"Please visit" = "Please visit www.hkbea.com to download the e-coupon now!";
+
+//Notification
+"NEW_OFFER_ADD" = "Credit Card Offer Update";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/* 
+Below message tags are maintained by BEA
+Last update: 5 May 2011
+*/
+
+//Share App
+"Special_Check out" = "Check out the free BEA iPhone App and play the new uDirect Mission Game now!";
+"Special_Main share app" = "You can enjoy comprehensive banking services and stay up to date with BEA’s latest news and promotions anytime, anywhere using the BEA iPhone App. Visit the App Store and search for \"BEA\" for your free download.\n\nWhat’s more, from now until 31st January, 2011, simply select \“uDirect Mission Game\” from the main menu of the BEA iPhone App and you can participate in the game. Besides, you can enter a lucky draw to win an Apple iPad, an Apple MacBook Air, or a total HK$6,000 in free spending credit! \n\nAccess the BEA iPhone App and start playing uDirect Mission Game now!";
+
+//Mother App
+
+"Main Menu" = "Menu";
+"Credit Card" = "Credit Card";
+"Credit Card_accessibility" = "Credit Card button";
+"Cyberbanking" = "Mobile Banking\n   ";
+"Cyberbanking_accessibility" = "Mobile Banking Button\n   ";
+"Cybertrading" = "Stock Trading\n   ";
+"eas_cybertrading"="EAS\n  ";
+"News" = "News";
+"Settings" = "Settings\n　";
+"SettingsPage" = "Settings";
+"Mobile no." = "Mobile no.";
+"ConsumerLoanMenu" = "Consumer Loans\n   ";
+"ConsumerLoanMenu_accessibility" = "Consumer Loans Button\n   ";
+"HotlineMenu" = "Hotlines\n   ";
+"HotlineMenu_accessibility" = "Hotlines Button\n   ";
+"megahub.stockwatch.title" = "Stock Watch\n& Fast Trade";
+"Setting Title 1" = "Mobile Banking/Stock Trading Services";
+"Setting Title 2" = "EAS Cybertrading – Mobile Service\n(For EAS customers only)";
+"Setting Text 1" = "Please input your mobile phone number below and press \"Save\":";
+"Setting Text 2" = "To enjoy Cybertrading – Mobile Service, please";
+"Setting Text 3" = "log in to your Cyberbanking account online and activate the mobile channel (select Settings/Mobile Banking) OR visit any EAS outlet to register and";
+"Setting Text 4" = "input your mobile phone number below and press \"Save\":";
+"setting_default_stock_account" = "Default stock account (For Stock Watch & Fast Trade)";
+"setting_cyberbanking_input" = "Enter your mobile No.";
+"Save" = "Save";
+"Setting saved" = "Setting saved";
+"Setting_no_length_invalid" = "Please enter a mobile no. with 8 digits.";
+"news_link" = "http://www.hkbea.com/hk/ci/news_release/index.htm";
+
+"setting_language" = "Language";
+"setting_default_page" = "Default Main Page";
+"setting_page_theme" = "Page Theme";
+"setting_language_en" = "English";
+"setting_language_cht" = "繁體";
+"setting_default_banking" = "Banking";
+"setting_default_wealth" = "Wealth";
+"setting_default_lifestyle" = "Lifestyle";
+"setting_page_Orange" = "Red/Orange";
+"setting_page_Red" = "All Red";
+
+"1" = "1";
+"privileges_tag_more" = "More privileges button";
+"tag_bar_creditcard_more" = "More Promotions button";
+"tag_bar_offer_more" = "More Offers button";
+
+
+"tag_year_round_dining" = "Year-round\nDining";
+"tag_year_round_dining_accessibility" = "Year-round Dining button";
+"tag_year_round_shopping" = "Year-round\nShopping";
+"tag_year_round_shopping_accessibility" = "Year-round Shopping button";
+"tag_fav_cc_cash_in_hand" = "\"Cash in Hand\"";
+"tag_fav_cc_cash_in_hand_accessibility" = "Cash in Hand button";
+"tag_rewards" = "Rewards";
+"tag_bar_creditcard" = "Credit Card Latest Promotions";
+"tag_bar_offer" = "Concert & Movie Offers";
+"tag_more" = "More ";
+
+"tag_stocks" = "Stocks\n ";
+"tag_stocks_accessibility" = "Stocks Button\n ";
+"tag_fav_insurance" = "Insurance";
+"tag_fav_mpf" = "MPF";
+"tag_fav_privileges" = "Privileges";
+
+"tag_p2p" = "P2P";
+
+"Offers" = "Offers";
+"tag_rates_notes" = "Notes\nExchange Rates";
+"tag_rates_notes_accessibility" = "Notes Exchange Rates button";
+"tag_rates_tt" = "T/T\nExchange Rates";
+"tag_rates_tt_accessibility" = "T/T Exchange Rates button";
+"tag_rates_prime" = "BEA\'s\nPrime Rates";
+"tag_gold" = "Gold";
+"tag_gold_accessibility" = "Gold button";
+
+"tag_enquiries"="Enquiries";
+"tag_offers"="Offers";
+"tag_applications"="Applications";
+
+"tag_send_us_email" = "      Send us an email";
+
+"select_location" = "Select a location";
+"no_of_locations" = "No. of locations:";
+
+"tag_moremenu_mainmenu" = "Main Page";
+"tag_moremenu_sitemap" = "Site Map";
+"tag_moremenu_favourites" = "My Favourites";
+"tag_moremenu_mybookmark" = "My Bookmark";
+"tag_moremenu_importantnotice" = "Important Notice";
+"tag_moremenu_settings" = "Settings";
+"tag_moremenu_exit" = "Exit";
+"tag_moremenu_nearby" = "Nearby";
+"tag_moremenu_search" = "Search";
+"tag_moremenu_shareapp" = "Share App";
+"tag_moremenu_close" = "Close";
+
+"tag_list" = "List";
+"warningmsg_exit" = "Do you want to quit app?";
+"500m" = "500m";
+"3km" = "3km";
+"tag_m" = "m";
+"tag_km" = "km";
+"creditcardtitle" = "Credit Card";
+"tag_creditCardTitle" = "Latest Promotions,Concert & Movie Offers,\"Cash in Hand\",Year-round Offers,Spending & Rewards,GlobePass Offers";
+"tag_game" = "Game";
+"Facebook" = "Facebook Pages";
+"Facebook_accessibility" = "BEA Facebook Pages";
+"Funlabel_text" = "BEA Fun Facebook page for you to provide first-hand entertainment information, let you and friends together 「eat, drink, and be merry」!";
+"Joylabel_text" = "BEA JOY Facebook page will inject life fashion breath, inspired by the「smart enjoyment」lifestyle!";
+
+//email
+"tag_email_appstring" = "(via BEA iPhone App)";
+"Privileges Enquiry" = "Privileges Enquiry";  //new
+
+//"mobilebanking" = "https://mobile.hkbea-cyberbanking.com/servlet/MBLogonShow?Lang=Eng&MobileNo=";
+//"mobiletrading" = "https://mobile.hkbea-cyberbanking.com/servlet/MELogonShow?Lang=Eng&MobileNo=";
+"mobilebanking" = "/servlet/MBLogonShow?Lang=Eng&act=IPA&MobileNo=";
+"mobiletrading" = "/servlet/MELogonShow?Lang=Eng&MobileNo=";
+"mobiletrading_noMobile" = "/servlet/MELogonShow";
+//"mobilebanking4mobiletrading" = "https://mobile.hkbea-cyberbanking.com/servlet/MBAIOLogonShow?req=ME&Lang=Eng&MobileNo=";
+
+
+//Important Notice
+"Important Notice"="Important Notice";
+"Frequently Asked Questions"="Frequently Asked Questions";
+"Security Tips"="Security Tips";
+
+//"Frequently Asked Questions - link"="https://mobile.hkbea-cyberbanking.com/App_Important_Notice_eng.html";
+//"Security Tips - link"="https://mobile.hkbea-cyberbanking.com/App_Important_Notice_eng.html#tips";
+"Frequently Asked Questions - link"="https://210.176.64.24/App_Important_Notice_eng.html";
+"Security Tips - link"="https://210.176.64.24/App_Important_Notice_eng.html#tips";
+"accessibility" = "Accessibility Statement";
+"accessibility enquiry" = "Contact us for enquiry";
+"accessibility desc" = "The BEA App adopts web accessibility design and meets the Gold Award Criteria of Web Accessibility Recognition Scheme. Should you have any enquiries or comments on its accessibility, please contact us by phone.";
+"accessibility tel" = "Telephone number:";
+"accessibility telNumber" = "(852) 2211 1333";
+
+
+//Mobile banking
+"mobilebankingReg" = "/servlet/MBCYBLogonShow?Lang=Eng&MobileNo=";
+"Continue" = "Continue";
+"Pop Up Notice for Register" = "Press \"Continue\" to visit the Cyberbanking website and create a mobile password.";
+
+// Fav
+"Are you sure to delete" = "Are you sure to delete";
+//ATM Location
+"ATM Location" = "Branch/ATM\n   ";
+"ATM Location_accessibility" = "Branch/ATM Button\n   ";
+"SupremeGold" = "SupremeGold";
+"SupremeGoldOffers" = "SupremeGold Offers";
+"ConsumerLoansOffers" = "Consumer Loans Offers";
+"SupremeGold_accessibitliy" = "SupremeGold Button";
+"SupremeGold Centre" = "SupremeGold Centre";
+"i-Financial Centre" = "i-Financial Center";
+"i-Financial center" = "i-Financial Centre";    // new
+"ATM" = "ATM";
+"Branch" = "Branch";
+"place_type_list" = "Branch,SupremeGold,ATM";
+"place_type_id_list" = "Branch,SupremeGold,ATM";
+"All"="All";
+"division_list" = "All,Central and Western,Eastern,Southern,Wanchai,Kowloon City,Kwun Tong,Sham Shui Po,Wong Tai Sin,Yau Tsim Mong,Kwai Tsing,North,Outlying Island,Sai Kung,Shatin,Tai Po,Tsuen Wan,Tuen Mun,Yuen Long";
+"division_index_list" = ",Central and Western,Eastern,Southern,Wanchai,Kowloon City,Kwun Tong,Sham Shui Po,Wong Tai Sin,Yau Tsim Mong,Kwai Tsing,North,Outlying Island,Sai Kung,Shatin,Tai Po,Tsuen Wan,Tuen Mun,Yuen Long";
+"search_type" = "Search Type";
+"ATMSearch1" = "No. of locations:";
+"ATMSearch2" = "";
+"Branch & ATM Search" = "Branch & ATM Search";
+"Branch, SupremeGold Centre & ATM" = "Branch, SupremeGold Centre & ATM";
+"Places show in Map" = "No. of locations shown on map";
+"ATM - Add to Bookmark"="Bookmark";
+"ATM_Nearby" = "Nearby";
+"ATMBookmark1" = "No. of items stored:";
+
+//Tax Loan
+"ConsumerLoanIconTitle" = "Offers,Application,Call Now,BEA Nearby";
+"TaxLoanTab" = "Offers,Applications,Nearby,Enquiries";
+"PICStatement_link"="http://www.hkbea.com/pdf/en/hkbea-privacy-policy-declaration.pdf";
+"Tax Loan"="Consumer Loans";
+"Home (Tax)"="Home (Loan)";
+"Application"="Application";
+"Loan Offers"="Offers";
+"Repayment Table"="Repayment\n     Table";
+"Calculator"="Calculator";
+"TaxLoanEnquiryTitle"="Enquiries";
+"TaxLoanCalcTag00"="Calculation details (for reference only).";
+"TaxLoanCalcTag08"="Arrangement fee:";
+"TaxLoanCalcTag04"="Monthly flat rate:";
+"APR:"="APR:";
+"TaxLoanCalcTag06"="Monthly repayment:\n(HK$)";
+"TaxLoanCalcTag07"="Total repayment:\n(HK$)";
+"Reset"="Reset";
+"Apply"="Apply";
+"TaxLoanApplicationTag00"="Express Application";
+"TaxLoanApplicationTag01"="Please provide the following information. A BEA customer service representative will contact you shortly.";
+"Mr.,Miss,Ms.,Mrs."="Mr.,Miss,Ms.,Mrs."; 
+"Name:"="Name:";
+"Mobile no.:"="Mobile no.:";
+"Email address:"="Email address:";
+"Loan amount (HK$):"="Loan amount (HK$):";
+"Loan plan:"="Loan plan:";
+"Repayment Period:"="Repayment Period:\n(Months)";
+"General Customers"="General Customers";
+"Privileged Customers"="Privileged Customers";
+"12 Months"="12";
+"24 Months"="24";
+"36 Months"="36";
+"48 Months"="48";
+"60 Months"="60";
+"TaxLoanCallApply"="Press “Call” to apply now";
+"TaxLoanCallEnquiry"="2211 1211";
+"TaxLoanApplyHotline"="tel:22111811";
+"ConsumerFinanceServicesHotline"="tel:22111211";
+"Call now"="Call now";
+"Clear"="Clear";
+"Submit"="Submit";
+"TaxLoanApplicationAlertMsg01"="Please tick the checkbox to confirm that you have read and understand BEA's Personal Data (Privacy) Ordinance – Personal Information Collection (Customers) Statement.";
+"TaxLoanApplicationAlertMsg04"="Please enter your name.";
+"TaxLoanApplicationAlertMsg05"="Please enter your mobile no.";
+"TaxLoanApplicationAlertMsg06"="Sorry, please enter a valid mobile no.";
+"TaxLoanApplicationAlertMsg07"="Please enter your email address.";
+"TaxLoanApplicationAlertMsg08"="Sorry, please enter a valid email address.";
+"TaxLoanApplicationAlertMsg09"="Please enter the loan amount.";
+"TaxLoanApplicationAlertMsg03"="Sorry, the maximum loan amount is HK$1,000,000.";
+"TaxLoanApplicationAlertMsg02"="Sorry , the minimum loan amount is HK$5,000.";
+"TaxLoanApplicationResultMsg01"="Our customer service representative will contact you on the next working day.";
+"TaxLoanApplicationResultMsg02"="Our customer service representative will contact you by the end of the day.";
+"TaxLoanApplicationResultTag00"="Application sent";
+"TaxLoanApplicationResultTag02"="Thank you for your application.";
+"TaxLoanApplicationResultTag01"="Reference no.:";
+"HKG"="HKG";
+"year"="year";
+"month"="month";
+"day"="day";
+"Name:"="Name:";
+"Mobile no.:"="Mobile no.:";
+"Email address:"="Email address:";
+"Loan details :"="Loan details :";
+"Message :"="Message :";
+"Application rejected"="Application rejected";
+"TaxLoanEnquiryTag00"="Consumer Finance Services Hotline";
+"Service hours:"="Service hours:";
+"Service hours detail"="Monday to Friday        10:00am-8:00pm\nSaturday                    9:00am-1:00pm\n(except public holidays)";
+"TaxLoanEnquiryTag03"="(Press 3 after selecting language)";
+"TaxLoanEnquiryTag04"="Enquiry by email";
+"TaxLoanEnquiryTagEmail"="Send us an email";
+"TaxLoanEnquiryEmail" = "lebdcc@hkbea.com";
+"TaxLoanEnquiryEmailTitle"="Personalised Instalment Loan Enquiry (via BEA iPhone App)";
+"TaxLoanApplicationTag08"="I confirm that I have read and understand BEA's Personal Data (Privacy) Ordinance –";
+"TaxLoanApplicationPICStatement"="Personal Information Collection (Customers) Statement.";
+"HK$"="HK$";
+"TaxLoanDetail_part1_yuan"="";
+"TaxLoanDetail_part2"="";
+"TaxLoanDetail_part3"="months";
+
+//Hotline
+"HotlineTitle" = "Hotlines";
+"HotlineTabBarTag" = "Mobile Banking,Nearby,Share";
+"HotlinePickerTitle" = "Select a hotline";
+"HotlineBarItemsTag" = "------------------,General Banking Service,SupremeGold,SupremeGold-Stock,Supreme Account,Supreme Account-Stock,i-Account,i-Account-Stock,Credit Card,Credit Card-Application,Credit Card-Lost,ATM Card,ATM Card-Lost (Office Hr),ATM Card-Lost (Non-office Hr),Cyberbanking-Internet,Cyberbanking-Telephone,Cyberbanking-Lost PIN,China Service,Consumer Loans,Corporate Banking,Insurance,Mortgage Loan,MPF,SME Loan,Unit Trusts Services";
+"HotlineNumbers" = "NULL,2211 1333,2211 1122,2211 1555,2211 1333,2211 1988,2211 1333,2211 1998,3608 6628,2211 1898,3608 6628,2211 1818,2211 1818,   2211 1862,2211 1321,2211 1888,2211 1345,3608 3007,2211 1211,2211 1338,3608 2928,3608 8686,2211 1777,3608 0838,2211 1311";
+
+//Property Loan
+"PropertyLoanTab"="Nearby,Application,Calculator,Enquiries";
+"PropertyLoan"="Property Loan\n   ";
+"PropertyLoan_accessibility"="Property Loan Button\n   ";
+"PropertyLoanCalc"="Property Loan\nCalculator";
+"PropertyLoanCalcTitle"="Calculation details (for reference only)";
+"PropertyLoanPurchasePrice"="Purchase price (HK$):";
+"PropertyLoanPurchasePrice_accessibility"="enter the purchase amount";
+"PropertyLoanMortgageRatio"="Mortgage ratio (%):";
+"PropertyLoanMortgageRatio_accessibility"="enter the mortgage ratio";
+"PropertyLoanLoanAmount"="Loan amount (HK$):";
+"PropertyLoanLoanAmount_accessibility"="enter the loan amount";
+"PropertyLoanInterestRate"="Interest rate (%p.a.):";
+"PropertyLoanInterestRate_accessibility"="enter the interest rate";
+"PropertyLoanLoanTenor"="Loan tenor (years):";
+"PropertyLoanLoanTenor_accessibility"="enter the loan tenor";
+"PropertyLoanRepaymentLabel"="Monthly repayment (HK$):";
+"PropertyLoanMonthRepayment"="0.00";
+"PropertyLoanCallApply"="3608 8686";
+"PropertyLoanEnquiryTitle"="Property Loan \n Enquiries";
+"PropertyLoanCallEnquiry"="3608 8686";
+"PropertyLoanHotlineTitle"="Hotline";
+"PropertyLoanServiceHours"="Service hours:";
+//"PropertyLoanServiceDetails"="Monday to Friday        9:00am-5:45pm\n(except public holidays)";
+"PropertyLoanServiceDetails"="Monday to Friday";
+"PropertyLoanServiceTime"="9:00am-8:00pm";
+"PropertyLoanServiceDetails2"="Saturday";
+"PropertyLoanServiceTime2"="9:00am-1:00pm";
+"PropertyLoanServiceExcept"="(except public holidays)";
+"PropertyLoanEnquiryEmailTitle" = "Property Loan Enquiry (via BEA iPhone App)";
+// MPF 
+"mpf.label"="MPF\n ";
+"mpf.label_accessibility"="MPF Button\n ";
+"mpf.tabbar.title"="Promotions, News, Fund Price, Enquiries";
+"mpf.promotion.menu"="Promotions";
+"mpf.fundPrice.menu"="Fund Price";
+"mpf.Enquiries.menu"="Enquiries";
+"mpf.promotic.title"="MPF \n Latest Promotions";
+"mpf.promotic.tnc"="Terms and \n Conditions";
+"mpf.promotic.choices"="Investment\n Choices";
+"mpf.promotic.notes"="Important\n Notes";
+"mpf.promotic.details"="Promotion details";
+"start_scrollBtn" = "Auto scroll button";
+
+"mpf.fundprice.time"="As at";
+"mpf.fundprice.title"="MPF \n Latest Fund Price";
+"mpf.btnPageNext" = "Next scheme button";
+"mpf.btnPagePrev" = "Previous scheme button";
+
+"mpf.enquires.title"="MPF \n Enquires";
+"mpf.enquires.holine"="BEA(MPF) Hotline";
+"mpf.enquiries.service"="Service hours:";
+"mpf.enquiries.details"="Monday to Friday        9:00 am to 6:00 pm\n Saturday                    9:00 am to 1:00 pm";
+"mpf.enquiries.phone"="2211 1777";
+
+"mpf.news.title"="MPF\n Latest News";
+"mpf.news.network.error"="Connection error,Please try again later.";
+"mpf.promotiondetails"="Promotion details";
+"mpf.mastertrustscheme"="BEA (MPF) Master\nTrust Scheme";
+"mpf.contribitionaccount"="Special Voluntary\nContribition Account";
+
+"MPFEnquiryEmailTitle"="MPF Enquiry (via BEA iPhone App)";
+
+"MyMPF"="My MPF";
+"MyBalance"="Check your balance";
+"Logintomobilebanking"="Log in to\nmobile banking";
+"CallMPFhotline"="Call MPF hotline";
+
+"mpf.label.fundname"="Constituent Fund";
+"mpf.lable.NAV"="NAV per unit (HKD)";
+
+//AccPro
+"accpro.common.title"="Latest Promotions";
+"accpro.tag.title"="Latest Promotions";
+"accpro.common.tabName" = "Offers,Applications,Nearby,Enquiries";
+"accpro.button.callNow" = "Call to redeem offer";
+
+
+"accpro.enquires.title"="Enquiries";
+"accpro.enquires.holine"="Customer Services Hotline";
+"accpro.enquires.serviceHours"="Service hours:";
+"accpro.enquires.serviceHoursDetail"="Monday to Friday         9:00am-5:00pm\nSaturday                      9:00am-1:00pm\n(except public holidays)";
+"accpro.enquires.byEmail"="Enquiry by email";
+"accpro.enquires.sendEmail"="Send us an email";
+"accpro.enquires.selectLang"="(Press 3 after selecting language)";
+"accpro.enquires.tel"="2211 1333";
+"accpro.enquires.Email" = "lebdcc@hkbea.com";
+//"accpro.enquires.EmailTitle"="Latest Promotions Enquiry (via BEA iPhone App)";
+"accpro.enquires.EmailTitle"="Privileges Enquiry (via BEA iPhone App)";
+"accpro.offers.EmailTitle"="Privileges (via BEA iPhone App)";
+"accpro.application.sent"="Appointment sent";
+"accpro.application.Rejected"="Appointment Rejected";
+"accpro.application.ReNo"="Reference no.:";
+"accpro.application.thanks"="Thank you for your booking.";
+"accpro.application.msg"="Our customer service representative will contact you by the end of the day.";
+
+"accpro.application.call"=" 2211 1812 ";
+"accpro.application.callText"="Make an Appointment";
+"accpro.application.Text"="Please provide the following information. A BEA customer service representative will contact you shortly.";
+"accpro.application.acceptText"="I confirm that I have read and understand BEA's Personal Data (Privacy) Ordinance –";
+"accpro.application.statement"="Personal Information Collection (Customers) Statement.";
+"accpro.application.existing"="Existing customer:";
+"accpro.application.YES"="YES";
+"accpro.application.NO"="NO";
+"accpro.Application.AlertMsg01"="";
+"accpro.offers.welcomeOffers"="Welcome Offers";
+"accpro.network.error"="Connection error,Please try again later.";
+"basePromotion.close"="Close";
+"basePromotion.crazy_ad"="This is East Asia Securities Latest Promotion advertisement. For details, please contact East Asia Securities Company Limited";
+
+//Rate
+"Rate.name"="Rates\n  ";
+"Rate.common.tabName"="Notes,T/T,Lending Rates,Call Now";
+"Rate.Note.title"="Notes Exchange Rates";
+"Rate.TT.title"="T/T Exchange Rates";
+"Rate.Prime.title"="BEA's Prime Rates";
+"Rate.NoteTT.lbCurrency"="Currency";
+"Rate.NoteTT.lbBuy"="Bank Buy";
+"Rate.NoteTT.lbSell"="Bank Sell";
+"Rate.Prime.rates"="% p.a.";
+"Rate.Notice"="(The above information is for reference only.)";
+"Rate.time.of"="As of";
+
+//================================MegaHub================================================
+"MHStockDataView.m_oStockDataSegmentedControl.FundamentalData" = "Basic Data";
+"MHStockDataView.m_oStockDataSegmentedControl.TechnicalData" = "Technical";
+"MHStockDataView.m_oStockDataSegmentedControl.RelatedStockData" = "Rel Sec";
+"MHStockDataView.lastUpdateTitle" = "Last Update";
+"MHStockDataView.m_oFundamentalTitleDataArray.IEP" = "IEP";
+"MHStockDataView.m_oFundamentalTitleDataArray.IEV" = "IEV";
+"MHStockDataView.m_oFundamentalTitleDataArray.Volatility30" = "Volatility";
+"MHStockDataView.m_oFundamentalTitleDataArray.Currency" = "Currency";
+"MHStockDataView.m_oFundamentalTitleDataArray.AuthShares" = "Auth. Cap";
+"MHStockDataView.m_oFundamentalTitleDataArray.SharesIssued" = "Shares Issued";
+"MHStockDataView.m_oFundamentalTitleDataArray.MarketCap" = "Market Cap";
+"MHStockDataView.m_oFundamentalTitleDataArray.EPS" = "EPS";
+"MHStockDataView.m_oFundamentalTitleDataArray.DPS" = "DPS";
+"MHStockDataView.m_oFundamentalTitleDataArray.BidAskSpread" = "Spread";
+"MHStockDataView.m_oFundamentalTitleDataArray.MonthHigh1MMonthLow1M" = "1 mon Hi/Lo";
+"MHStockDataView.m_oFundamentalTitleDataArray.Issuer" = "Issuer";
+"MHStockDataView.m_oFundamentalTitleDataArray.EntitlementRatio" = "Entitlement Ratio";
+"MHStockDataView.m_oFundamentalTitleDataArray.Strike" = "Strike";
+"MHStockDataView.m_oFundamentalTitleDataArray.OutstandingPct" = "Outstanding(%)";
+"MHStockDataView.m_oFundamentalTitleDataArray.EffGearing" = "Eff Gearing";
+"MHStockDataView.m_oFundamentalTitleDataArray.ImpVol" = "Imp Vol";
+"MHStockDataView.m_oFundamentalTitleDataArray.ExpDate" = "Maturity";
+"MHStockDataView.m_oFundamentalTitleDataArray.Moneyness" = "Moneyness (%)";
+"MHStockDataView.m_oFundamentalTitleDataArray.CallLevel" = "Call Level";
+"MHStockDataView.m_oFundamentalTitleDataArray.SpotPrice" = "% to Call";
+"MHStockDataView.m_oFundamentalTitleDataArray.Delta" = "Delta";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA10" = "SMA(10)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA20" = "SMA(20)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA50" = "SMA(50)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA100" = "SMA(100)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA250" = "SMA(250)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.MACD817" = "MACD(8,17)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.MACD1225" = "MACD(12,25)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI9" = "RSI(9)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI10" = "RSI(10)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI14" = "RSI(14)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI20" = "RSI(20)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.STC10" = "STC(10)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.STC14" = "STC(14)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.STC20" = "STC(20)";
+"MHStockDataView.m_oLastUpdateLabel.text" = "Last Update:";
+"MHIndexBarView.m_oIndexDescriptionLabel.HSI.text" = "HSI";
+"MHIndexBarView.m_oIndexDescriptionLabel.ChinaEnterprise.text" = "HSCEI";
+"MHIndexBarView.m_oIndexDescriptionLabel.HSIFuture.text" = "HSIF";
+"MHStaticDataView.m_oOpenTitleLabel.text" = "Open";
+"MHStaticDataView.m_oPrevCloseTitleLabel.text" = "P. Clo.";
+"MHStaticDataView.m_oAvgPriceTitleLabel.text" = "Avg.";
+"MHStaticDataView.m_oVolumeTitleLabel.text" = "Vol.";
+"MHStaticDataView.m_oTurnoverTitleLabel.text" = "T/O";
+"MHStaticDataView.m_oLotSizeTitleLabel.text" = "Lot";
+"MHStaticDataView.m_oPETitleLabel.text" = "P/E";
+"MHStaticDataView.m_oYieldTitleLabel.text" = "%Yd";
+"MHStaticDataView.m_oPremiumTitleLabel.text" = "Pm";
+"MHStaticDataView.m_oGearingTitleLabel.text" = "Gear";
+"MHBidAskView.m_oBidTitleLabel.text" = "B";
+"MHBidAskView.m_oAskTitleLabel.text" = "A";
+"MHStockQuoteBarView_m_oQuoteButton" = "Quote";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDNEWS" = "Rel News";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDWARRANT" = "Rel Warrant";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDSECTOR" = "Rel Sector";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDFUNDAMENTAL" = "Fundamental";
+"MHSubmenu.SUBMENU_ITEM_STOCK_TRANSRECORD" = "Trans Log";
+"MHSubmenu.SUBMENU_ITEM_STOCK_MONEYFLOW" = "Money Flow";
+"MHSubmenu.SUBMENU_ITEM_CBBC_UNDERLTING" = "Underlying";
+"MHSubmenu.SUBMENU_ITEM_CBBC_BALWARRANT" = "Bal Warrant";
+"MHSubmenu.SUBMENU_ITEM_CBBC_RELATEDNEWS" = "Rel News";
+"MHSubmenu.SUBMENU_ITEM_CBBC_RELATEDSECTOR" = "Rel Sector";
+"MHSubmenu.SUBMENU_ITEM_CBBC_RELATEDFUNDAMENTAL" = "Fundamental";
+"MHSubmenu.SUBMENU_ITEM_CBBC_TRANSRECORD" = "Trans Log";
+"MHSubmenu.SUBMENU_ITEM_CBBC_MONEYFLOW" = "Money Flow";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_UNDERLTING" = "Underlying";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_BALWARRANT" = "Bal Warrant";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_RELATEDNEWS" = "Rel News";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_RELATEDSECTOR" = "Rel Sector";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_RELATEDFUNDAMENTAL" = "Fundamental";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_TRANSRECORD" = "Trans Log";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_MONEYFLOW" = "Money Flow";
+"MHSubmenu.SUBMENU_ITEM_STOCK_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_CBBC_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_INDICES" = "Indices";
+"MHSubmenu.SUBMENU_ITEM_SECTOR" = "Sector";
+"MHSubmenu.SUBMENU_ITEM_RANKING" = "Ranking";
+"MHSubmenu.SUBMENU_ITEM_MARKETINGCALENDAR" = "Mkt Calendar";
+"MHSubmenu.SUBMENU_ITEM_AH" = "A + H";
+"MHSubmenu.SUBMENU_ITEM_WATCHLIST_OPTION" = "Option";
+"MHSubmenu.SUBMENU_ITEM_INDEXFUTURE_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_INDEX_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_INDEXCOMPONENT_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_SECTOR_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_AH_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_FUNDAMENTAL_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_FX_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_STOCKSEARCH_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_WARRANTSEARCH_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_STOCK" = "Stock";
+"MHSubmenu.SUBMENU_ITEM_HSCEI" = "HSCEI";
+"MHSubmenu.SUBMENU_ITEM_REDCHIPS" = "Red Chips";
+"MHSubmenu.SUBMENU_ITEM_GEM" = "GEM";
+"MHSubmenu.SUBMENU_ITEM_WARRANT" = "Warrants";
+"MHSubmenu.SUBMENU_ITEM_CBBC" = "CBBC";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_GAIN" = "Net Gain";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_LOSS" = "Net Loss";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_PGAIN" = "%Gain";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_PLOSS" = "%Loss";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_VOLUME" = "Volume";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_TURNOVER" = "Turnover";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_52HIGH" = "52wk High";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_52LOW" = "52wk Low";
+"MHSubmenu.SUBMENU_ITEM_ALLNEWS" = "All";
+"MHSubmenu.SUBMENU_ITEM_CUSTOMNEWS" = "Custom";
+"MHSubmenu.SUBMENU_ITEM_DJNEWS" = "DJ News";
+"MHSubmenu.SUBMENU_ITEM_HKEXNEWS" = "HKEx News";
+"MHSubmenu.SUBMENU_ITEM_NEWS_OPTION" = "Reorder";
+"MHSubmenu.SUBMENU_ITEM_NONE" = "Nil Nil";
+"MHSubmenu.SUBMENU_ITEM_MARKETDATA" = "Mkt Data";
+"MHSubmenu.SUBMENU_ITEM_COMPPROFILE" = "Corp Profile";
+"MHSubmenu.SUBMENU_ITEM_CORPINFO" = "Corp Info";
+"MHSubmenu.SUBMENU_ITEM_BALSHEET" = "Bal Sheet";
+"MHSubmenu.SUBMENU_ITEM_PROFITLOSS" = "P & L";
+"MHSubmenu.SUBMENU_ITEM_FINRATIO" = "Fin Ratio";
+"MHSubmenu.SUBMENU_ITEM_DIVIDEND" = "Dividend";
+"MHTableCell.header.m_oSymbolLabel.text" = "Stock Code";
+"MHTableCell.header.m_oDescriptionLabel.text" = "Description";
+"MHTableCell.header.m_oPriceLabel.text" = "Price";
+"MHTableCell.header.m_oChangeLabel.text" = "Change (%)";
+"MHTableCell.header.m_oBidAskLabel.text" = "Bid / Ask";
+"MHTableCell.header.m_oVolumeLabel.text" = "Volume";
+"MHTableCell.header.m_oTurnoverLabel.text" = "Turnover";
+"PTNewsView.m_oSearchButton" = "Search";
+"PTWorldLocalIndexView.localIndex" = "Local Index";
+"PTWorldLocalIndexView.worldIndex" = "World Index";
+"PTWorldLocalIndexView.header.nameLabel.text" = "Name";
+"PTWorldLocalIndexView.header.nominalLabel.text" = "Last Price";
+"PTWorldLocalIndexVie.header.pChangeLabel.text" = "Change(%)";
+"LoadingView.m_oLoadingLabel" = "Loading...";
+"PTWorldIndexView.m_oDelayLabel" = "Data delayed at least 30 mins";
+"MHDisclaimerViewController_OKButton" = "OK";
+"MHStockDataView.m_oFundamentalTitleDataArray.NAV" = "NAV";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_OPTION" = "Reorder";
+"MHPickerTextField.doneBtn" = "Done";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_OPTION" = "Reorder";
+"MHSolutionProviderView.IsMiniMode.m_oDescriptionLabel"				= "Data provided by MegaHub";
+"MHStaticDataView.m_oYearHighTitleLabel.text"                       = "Yr. Hi";
+"MHStaticDataView.m_oDayHighTitleLabel.text"                        = "D. Hi";
+"MHStaticDataView.m_oRelatedStockTitleLabel.text"                   = "Rel Sec";
+"MHStaticDataView.m_oYearLowTitleLabel.text"                        = "Yr. Lo";
+"MHStaticDataView.m_oDayLowTitleLabel.text"                         = "D. Lo";
+"MHStaticDataView.m_oQuoteMeterTitleLabel.text"                     = "Quote remained:";
+"MHStaticDataView.m_oQuoteMeterTitleLabel.text.current_usage"       = "Used Quote";
+"MHSolutionProviderView.IsSnapshotMode.m_oDescriptionLabel"			= "Data provided by MegaHub";
+"MHSubmenu.SUBMENU_ITEM_FUNDAMENTAL_DETAIL_OPTION"					= "Reorder";
+"MHIndexBarView.m_oLastUpdateLabel.text"							= "Index Delay at least 15 mins";
+"MHStockView_m_oBidTitleLabel"								= "Bid";
+"MHStockView_m_oAskTitleLabel"								= "Ask";
+"PTPStreamer.no_permission_text" = "No Permission\n\nYou don't have access right\nto obtain service\n\nPlease contact\nCustomer Service Department for inquiry";
+//================================MegaHub================================================
+
+"TaxLoanMenu" = "Consumer Loans";
+
+//Tax_Loan
+"LTTaxLoanTitle" = "Application,Offers,Repayment Table,Calculator";
+"LTTaxLoanTab" = "Offers,Application,Calculator,Enquiries";
+"LTPICStatement_link"="http://www.hkbea.com/pdf/en/hkbea-privacy-policy-declaration.pdf";
+
+"LTTax Loan"="Tax Loan";
+"LTHome (Tax)"="Home (Loan)";
+"LTApplication"="Application";
+"LTLoan Offers"="Offers";
+"LTRepayment Table"="Repayment\n     Table";
+"LTCalculator"="Calculator";
+"LTTaxLoanEnquiryTitle"="Enquiries";
+"LTTaxLoanCalcTag00"="Calculation details (for reference only).";
+"LTTaxLoanCalcTag08"="Arrangement fee:";
+"LTTaxLoanCalcTag04"="Monthly flat rate:";
+"LTAPR:"="APR:";
+"LTTaxLoanCalcTag06"="Monthly repayment:\n(HK$)";
+"LTTaxLoanCalcTag07"="Total repayment:\n(HK$)";
+"LTReset"="Reset";
+"LTApply"="Apply";
+"LTTaxLoanApplicationTag00"="Express Application";
+"LTTaxLoanApplicationTag01"="Please provide the following information. A BEA customer service representative will contact you shortly.";
+"LTMr.,Miss,Ms.,Mrs."="Mr.,Miss,Ms.,Mrs."; 
+"LTName:"="Name:";
+"LTMobile no.:"="Mobile no.:";
+"LTEmail address:"="Email address:";
+"LTLoan amount (HK$):"="Loan amount (HK$):";
+"LTLoan plan:"="Loan plan:";
+"LTRepayment Period:"="Repayment Period:";
+"LTGeneral Customers"="General Customers";
+"LTPrivileged Customers"="Privileged Customers";
+"LT12 Months"="12 Months";
+"LT18 Months"="18 Months";
+"LT24 Months"="24 Months";
+"LT36 Months"="36 Months";
+"LT48 Months"="48 Months";
+"LTTaxLoanCallApply"="Press “Call” to apply now";
+"LTTaxLoanCallEnquiry"="2211 1168";
+"LTTaxLoanApplyHotline"="tel:22111811";
+"LTConsumerFinanceServicesHotline"="tel:22111168";
+"LTCall now"="Call now";
+"LTClear"="Clear";
+"LTSubmit"="Submit";
+"LTTaxLoanApplicationAlertMsg01"="Please tick the checkbox to confirm that you have read and understand BEA's Personal Data (Privacy) Ordinance – Personal Information Collection (Customers) Statement.";
+"LTTaxLoanApplicationAlertMsg04"="Please enter your name.";
+"LTTaxLoanApplicationAlertMsg05"="Please enter your mobile no.";
+"LTTaxLoanApplicationAlertMsg06"="Sorry, please enter a valid mobile no.";
+"LTTaxLoanApplicationAlertMsg07"="Please enter your email address.";
+"LTTaxLoanApplicationAlertMsg08"="Sorry, please enter a valid email address.";
+"LTTaxLoanApplicationAlertMsg09"="Please enter the loan amount.";
+"LTTaxLoanApplicationAlertMsg03"="Sorry, the maximum loan amount is HK$1,000,000.";
+"LTTaxLoanApplicationAlertMsg02"="Sorry , the minimum loan amount is HK$5,000.";
+"LTTaxLoanApplicationResultMsg01"="Our customer service representative will contact you on the next working day.";
+"LTTaxLoanApplicationResultMsg02"="Our customer service representative will contact you by the end of the day.";
+"LTTaxLoanApplicationResultTag00"="Application sent";
+"LTTaxLoanApplicationResultTag02"="Thank you for your application.";
+"LTTaxLoanApplicationResultTag01"="Reference no.:";
+"LTHKG"="HKG";
+"LTyear"="year";
+"LTmonth"="month";
+"LTday"="day";
+"LTName:"="Name:";
+"LTMobile no.:"="Mobile no.:";
+"LTEmail address:"="Email address:";
+"LTLoan details :"="Loan details :";
+"LTMessage :"="Message :";
+"LTApplication rejected"="Application rejected";
+"LTTaxLoanEnquiryTag00"="Tax Loan Hotline";
+"LTService hours:"="Service hours:";
+"LTService hours detail"="Monday to Friday        10:00am-9:00pm\nSaturday                     10:00am-5:00pm\n(except public holidays)";
+"LTTaxLoanEnquiryTag03"="(Press 3 after selecting language)";
+"LTTaxLoanEnquiryTag04"="Enquiry by email";
+"LTTaxLoanEnquiryTagEmail"="Send us an email";
+"LTTaxLoanEnquiryEmail" = "lebdcc@hkbea.com";
+"LTTaxLoanEnquiryEmailTitle"="Tax Loan Enquiry (via BEA iPhone App)";
+"LTTaxLoanApplicationTag08"="I confirm that I have read and understand BEA's Personal Data (Privacy) Ordinance –";
+"LTTaxLoanApplicationPICStatement"="Personal Information Collection (Customers) Statement.";
+"LTHK$"="HK$";
+"LTTaxLoanDetail_part1_yuan"="";
+"LTTaxLoanDetail_part2"="";
+"LTTaxLoanDetail_part3"="months";
+
+"LTremark" = "Remark \n\n* Privileged customers include BEA Private Banking/SupremeGold customers, BEA payroll customers, BEA mortgage loan customers, BEA consumer loan customers, BEA credit card customers, BEA deposit account customers, designated professionals, civil servants, and full time Hospital Authority/university employees. Professionals include accountants, architects, dentists, doctors, engineers, solicitors, and surveyors. BEA reserves the final right to interpret the definition of privileged customers.";
+
+
+//New Branch Banner
+"New Opening"="New Opening";
+"Open on"="Open on";
+
+//StockGameCentre
+"StockGameCentre.lable"="Drinking FUN\n   ";
+"StockGameCentre.title"="BEA Fun Facebook Page - \nDrinking FUN";
+
+//MKGeCard
+"MKGeCard.label"="Season's Greetings\n  ";
+"MKGeCard.title"="Season's Greetings";
+
+
+//Consumer Loans
+"consumerloan.offers.title"="Consumer Loans";
+"consumerloan.common.tabName" = "Offers,Application,Nearby,Enquiries";
+"consumerloan.enquires.EmailTitle"="Consumer Loans Enquiry (via BEA iPhone App)";
+"consumerloan.offers.EmailTitle"="Consumer Loans Offers (via BEA iPhone App)";
+
+//Supreme Gold
+"supremegold.enquires.EmailTitle"="SupremeGold Enquiry (via BEA iPhone App)";
+"supremegold.offers.EmailTitle"="SupremeGold Offers (via BEA iPhone App)";
+
+//Instalment Loan
+"instalmentLoan.title"="Instalment Loan";
+"instalmentLoan.tab" = "Offers,Application,Calculator,Enquiries";
+"instalmentLoan.CallApply"="Press “Call” to apply now";
+"instalmentLoan.ApplyHotline"="tel:22111811";
+
+//SGG
+"SGG.name"="Jetso Hunt\n   ";
+"SGG.header"="Jetso Hunt";
+"SGG.ShareAppSubject"="Let’s play the \"Jetso Hunt\" game";
+"SGG.ShareAppBody"="Hi!\n\nI thought you’d be interested in the new “Jetso Hunt” game in the BEA iPhone app. From now until 22nd April, 2012, check out the BEA latest promotions and answer a simple question for the chance to win fantastic prizes!\n\nTo download the app for FREE, simply visit the iTunes App Store and search for \"BEA\"";
+
+//Insurance
+"insurance.name"="Insurance\n  ";
+"insurance.name_accessibility"="Insurance Button\n  ";
+"insurance.common.tabName" = "Products,News,Applications,Enquiries";
+"insurance.title.products"="Insurance\nProducts";
+"insurance.title.news"="Insurance\nNews";
+"insurance.title.application"="Insurance\nApplications";
+"insurance.title.enquires"="Insurance\nEnquiries";
+"insurance.enquires.EmailTitle"="Insurance Enquiry (via BEA iPhone App)";
+"insurance.detail.url" = "https://210.176.64.17/acc_pro/insT_body_e.html?#goToDetails";
+"insurance.detail.caption" = "Quote and apply now";
+"insurance.detail.enquire" = "Enquire";
+"insurance.detail.apply" = "Apply";
+"insurance.products.title"="Insurance Products";
+"insurance.news.title"="Insurance News";
+"tag_insurance_products"="Products";
+"tag_insurance_news"="News";
+"tag_insurance_enquiries"="Enquiries";
+"tag_insurance_applications"="Applications";
+"insurance.enquires.EmailTitle"="Insurance Enquiry (via BEA iPhone App)";
+
+
+//CyberFundSearch
+"cyberfundsearch.tabbar.title"="Home,Fund Search,My Funds,Top 10,Fund News";
+"cyberfundsearch.title"="Fund Search\n   ";
+"cyberfundsearch.name"="Fund Search\n   ";
+"cyberfundsearch.btn.understood"="I have read and understood the above information";
+"cyberfundsearch.btn.Cancel"="Cancel";
+"cyberfundsearch.Disclaimer.title"="Important";
+"cyberfundsearch.Disclaimer.text.0"="Important Notice\n\n";
+"cyberfundsearch.Disclaimer.text.1"="Investment involves risks. The price of units may go down as well as up as the investments of a fund are subject to the market fluctuations and the risks inherent in investments. Past performance is not indicative of future performance. \n\nInvestment in emerging markets involves above-average investment risks, for instance, possible fluctuations in foreign exchange rates, political and economic uncertainties. Investment returns not denominated in HKD or USD are exposed to exchange rate fluctuations. Transactions in derivative instruments may be used to meet the investment objectives of some funds and may therefore lead to higher volatility in net asset value and may involve a greater degree of risk than is the case with conventional securities. It is possible that investors may lose some or the entire amount they have invested in the funds. \n\nBefore making any investment, investors should refer to all relevant investment fund offering documents, including the Explanatory Memorandum, for detailed information including the risk factors. Printed copies of the fund prospectuses are also available at any of our branches for reference. \n\nThe investment decision is yours but you should not invest in the investment funds unless the intermediary who sells it to you has explained to you that the investment funds are suitable for you having regard to your financial situation, investment experience and investment objectives. \n\nInvestors should not make an investment decision based solely on this web page.\n\n\n\n\n\n\n";
+"cyberfundsearch.Disclaimer.text.2"="Disclaimer by The Bank of East Asia, Limited\n\n";
+"cyberfundsearch.Disclaimer.text.3"="Information and materials provided under this service (the \"Information\") are solely for personal and non-commercial use and for reference only. Re-distribution of any part of the Information in any format by any means is strictly prohibited. While The Bank of East Asia, Limited (the \"Bank\") endeavours to ensure the accuracy and reliability of the Information, the Bank disclaims any warranty (whether express or implied) and does not guarantee the accuracy or reliability of the Information and accepts no liability (whether in tort or contract or otherwise) for any losses or damages that are incidental to, arising from, or in connection with any errors, inaccuracies or omissions in the Information. \n\nFor Information which is provided as indicated by third party information providers, it is being re-transmitted by the Bank in the ordinary course of its business on an \"as is\" basis for information and reference purposes only. Due to operational reasons, certain information regarding the funds may be different from that supplied by the fund house concerned. Save for the foregoing, the Bank, its officers, employees, and agents do not devise, select, add to, modify or otherwise exercise control over its contents and do not take responsibility for nor endorse the accuracy of such information. \n\nThe Information should not be regarded as an offer or solicitation to make investments in any jurisdiction to any person to whom it is unlawful to make such an invitation or solicitation in such jurisdiction.\n\nThe Information is not intended to provide professional advice and should not be relied upon in that regard. Persons accessing the Information are deemed to represent that they make investment and trading decisions (including decisions with regard to the suitability of the products) based on their own judgment and that they fully understand the risks involved and are capable of assuming and willing to assume such risks and will obtain appropriate independent professional advice whenever necessary. \n\nPlease note that unit price can be NAV or Bid and NAV or Bid is not equal to purchase price. The applicable subscription fees are not included. Unit price information of each fund is shown in its denominated currency or reporting currency. Please note that the unit price shown for each fund is based on its latest fund's NAV or its Bid price and customers should regard it as a reference only. For funds with multiple dealing sessions on a dealing day, only the latest unit price is displayed. The actual subscription price of any fund will be a function of its trade day price and the applicable subscription charge. \n\n\n\n\n\n\n";
+"cyberfundsearch.Disclaimer.text.4"="Disclaimer by ET Wealth Ltd\n\n";
+"cyberfundsearch.Disclaimer.text.5"="ET Wealth and third party information providers endeavour to ensure the accuracy and reliability of the information provided, but do not guarantee its accuracy and reliability and accept no liability (whether in tort or contract or otherwise) for any loss or damage arising from any inaccuracies or omissions. \n\n\n\n\n";
+
+"list.repaymentPoriod.number"="6,12,18,24,36,48";
+"list.repaymentPoriod.name"="6 months,12 months,18 months,24 months,36 months,48 months";
+
+"selected"="Selected";
+"page"="Page";
+"button" = "Button";
+"rotatemenu.accessibility.texts"="Page Lifestyle,Page Banking,Page Wealth";
+"rotatemenu.texts"="Lifestyle,Banking,Wealth";
+"rotatemenu.atmsearch.texts" = "ATM,SupremeGold,i-Financial\nCentre,Branch";
+
+"Rate.Note.menu"="Notes\nExchange Rates";
+"Rate.TT.menu"="T/T\nExchange Rates";
+"Rate.Prime.menu"="BEA's\nPrime Rates";
+
+"tag_p2p_setting"="Settings";
+"tag_p2p_main"="Main";
+"tag_p2p_records"="Records";
+
+"version" = "Version";
+"Copyright"="Copyright © 2014 The Bank of East Asia, Limited. All rights reserved.";
+
+"Please enable location services to find nearby outlets."="Please enable location services to find nearby outlets.";
+"Please enable location services to find nearby offers."="Please enable location services to find nearby offers.";
+"Location_setting_nearby_atm" = "To use the Nearby function,\nplease enable Location Services\nin Settings > Privacy.";
+
+"Notification" = "Notification";
+"Notification_on" = "On";
+"Notification_off" = "Off";
+
+"gold Lang" = "Eng";
+
+//iCoupon
+/* Code is generated by language generator */
+"iCoupon.title" = "i-Coupon";
+"iCoupon.title_accessibility" = "i-Coupon button";
+
+/* Code is generated by language generator */
+"iCoupon.menu.fullList" = "Full List";
+
+/* Code is generated by language generator */
+"iCoupon.menu.myWallet" = "My Wallet";
+
+/* Code is generated by language generator */
+"iCoupon.fullList.redeem" = "Redeem";
+
+/* Code is generated by language generator */
+"iCoupon.fullList.bonusPoints" = "Required Bonus Points";
+
+/* Code is generated by language generator */
+"iCoupon.fullList.outOfStock" = "All items are out of stock.";
+
+/* Code is generated by language generator */
+"iCoupon.fullList.itemNo" = "Item No.";
+
+/* Code is generated by language generator */
+"iCoupon.fullList.back" = "Back";
+
+/* Code is generated by language generator */
+"iCoupon.fullList.remark" = "Remarks";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.logout" = "Logout";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.displayFormat" = "dd MMM yyyy";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.useNow" = "Use Now";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.unit" = "piece(s)";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.expiryDate" = "Expiry Date";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.back" = "Back";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.cancelNBack" = "Cancel & Back";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.qrError.title" = "Error";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.qrError.msg" = "The QR code is invalid, please scan again.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.couponID" = "Coupon ID";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.transactionID" = "Transaction ID";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.doneNBack" = "Done. Back to ‘My Wallet’";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.qrExpired.msg" = "This i-Coupon is expired. Back to ‘My Wallet’";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.qrExpired.ok" = "OK";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps.title" = "Steps to use i-Coupon";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps.one" = "Click 'Use Now' to go to the 'Thank you' page which has a QR code or barcode.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps.two" = "The QR code/barcode shown on the 'Thank you' page is valid for use within 5 minutes.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps.three" = "Present the 'Thank you' page to the merchant.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps.four" = "Usage of i-Coupon completed.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.importantNotes" = "Important notes";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.importantNote.one" = "The i-Coupon will be treated as used and cannot be re-issued after it is successfully scanned.";
+"iCoupon.myWallet.importantNote.one_1" = "The i-Coupon will become invaild and cannot be re-issused once you have clicked 'Use Now'.";
+
+/* Code is generated by language generator */
+//"iCoupon.myWallet.importantNote.two" = "The i-Coupon will become invalid and cannot be re-issued once you have cliced 'Use Now'.";
+"iCoupon.myWallet.importantNote.two" = "If you do not want to use it now, please press 'Back'.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.importantNote.close" = "Close";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps2.one" = "Click 'Use Now' to go to the scanner page.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps2.two" = "Scan the QR code which is provided by the merchant.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps2.three" = "After verification by system. 'Thank you' page will be displayed.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps2.four" = "Present the 'Thank you' page to the merchant.";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.steps2.five" = "Usage of i-Coupon completed. ";
+
+/* Code is generated by language generator */
+"iCoupon.myWalle.qrFocus" = "Tap on code to focus";
+
+/* Code is generated by language generator */
+"iCoupon.myWalle.thanksGIF" = "thank_you_720";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.confirmBack" = "\nConfirm to close this page ?";
+
+/* Code is generated by language generator */
+"iCoupon.myWalle.present" = "Please present this page to merchant";
+
+/* Code is generated by language generator */
+"iCoupon.myWallet.warning" = "Warning";
+
+
+
+//accessibility
+"Menu" = "Site map";
+"MoreFunctions" = "More Functions";
+"ATM_Map" = "Map";
+"SelectBranchATM" = "Select branch/ATM";

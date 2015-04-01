@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='12F45' targetRuntime='iOS.CocoaTouch' toolsVersion='4514' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1072' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3747'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ImportantNoticeViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='17' id='25' property='bt_question'/>
+                <outlet destination='18' id='26' property='bt_securityTip'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view alpha='0.69999998807907104' contentMode='scaleToFill' id='35'>
+                    <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='10'>
+                    <rect height='107' key='frame' width='320' x='0.0' y='90'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='bottom' id='17' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='18' key='frame' width='225' x='47' y='39'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='14'/>
+                            <state key='normal' title='Frequently Asked Questions'>
+                                <color cocoaTouchSystemColor='darkTextColor' key='titleColor'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='28' selector='gotoWebside:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='bottom' id='18' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='18' key='frame' width='225' x='47' y='69'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='14'/>
+                            <state key='normal' title='Security Tips'>
+                                <color cocoaTouchSystemColor='darkTextColor' key='titleColor'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='29' selector='gotoWebside:'/>
+                            </connections>
+                        </button>
+                        <view contentMode='scaleToFill' customClass='UIControl' id='32'>
+                            <rect height='22' key='frame' width='100' x='110' y='2'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <subviews>
+                                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='20' lineBreakMode='middleTruncation' opaque='NO'>
+                                    <rect height='15' key='frame' width='100' x='0.0' y='4'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                                    <state image='up_arrow.png' key='normal'>
+                                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                                    </state>
+                                    <state key='highlighted'>
+                                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                    </state>
+                                    <connections>
+                                        <action destination='-1' eventType='touchUpInside' id='34' selector='hiddenMe'/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='33' selector='hiddenMe'/>
+                            </connections>
+                        </view>
+                        <imageView clipsSubviews='YES' contentMode='center' id='36' image='img_arrow2.PNG' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='18' key='frame' width='10' x='26' y='39'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clipsSubviews='YES' contentMode='center' id='37' image='img_arrow2.PNG' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='18' key='frame' width='10' x='26' y='69'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                    </subviews>
+                    <color cocoaTouchSystemColor='lightTextColor' key='backgroundColor'/>
+                </view>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='8' name='img_arrow2.PNG' width='4'/>
+        <image height='15' name='up_arrow.png' width='100'/>
+    </resources>
+</document>

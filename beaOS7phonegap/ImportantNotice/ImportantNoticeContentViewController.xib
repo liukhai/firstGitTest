@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13C64' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS' version='0.0'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ImportantNoticeContentViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='4' id='9' property='content_view'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <textView bouncesZoom='NO' clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='4' multipleTouchEnabled='YES'>
+                    <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                </textView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+        </view>
+    </objects>
+</document>

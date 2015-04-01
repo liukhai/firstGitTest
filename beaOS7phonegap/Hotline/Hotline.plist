@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SN</key>
+	<string>20110801</string>
+	<key>hotlinelist</key>
+	<array>
+	<dict>
+	<key>id</key>
+	<string>1</string>
+	<key>service_en</key>
+	<string>------------------</string>
+	<key>service_zh</key>
+	<string>------------------</string>
+	<key>hotline</key>
+	<string>NULL</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>2</string>
+	<key>service_en</key>
+	<string>General Banking Service</string>
+	<key>service_zh</key>
+	<string>一般銀行服務</string>
+	<key>hotline</key>
+	<string>2211 1333</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>3</string>
+	<key>service_en</key>
+	<string>SupremeGold Phone Service Hotline</string>
+	<key>service_zh</key>
+	<string>顯卓理財電話服務專線</string>
+	<key>hotline</key>
+	<string>2211 1122</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>4</string>
+	<key>service_en</key>
+	<string>SupremeGold Stock Investment Hotline</string>
+	<key>service_zh</key>
+	<string>顯卓理財股票投資專線</string>
+	<key>hotline</key>
+	<string>2211 1555</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>5</string>
+	<key>service_en</key>
+	<string>SupremeGold Stock Trading Express</string>
+	<key>service_zh</key>
+	<string>顯卓理財股票買賣快線</string>
+	<key>hotline</key>
+	<string>2211 1515</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>6</string>
+	<key>service_en</key>
+	<string>Supreme Account</string>
+	<key>service_zh</key>
+	<string>至尊理財戶口</string>
+	<key>hotline</key>
+	<string>2211 1333</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>7</string>
+	<key>service_en</key>
+	<string>Supreme Account Stock Investment Hotline</string>
+	<key>service_zh</key>
+	<string>至尊理財戶口股票投資專線</string>
+	<key>hotline</key>
+	<string>2211 1988</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>8</string>
+	<key>service_en</key>
+	<string>i-Account</string>
+	<key>service_zh</key>
+	<string>i-Account</string>
+	<key>hotline</key>
+	<string>2211 1333</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>9</string>
+	<key>service_en</key>
+	<string>i-Account Stock Investment Hotline</string>
+	<key>service_zh</key>
+	<string>i-Account股票投資專線</string>
+	<key>hotline</key>
+	<string>2211 1998</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>10</string>
+	<key>service_en</key>
+	<string>Credit Card-Customer Enquiries</string>
+	<key>service_zh</key>
+	<string>信用卡-客戶查詢</string>
+	<key>hotline</key>
+	<string>3608 6628</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>11</string>
+	<key>service_en</key>
+	<string>Credit Card-Application</string>
+	<key>service_zh</key>
+	<string>信用卡-申請專線</string>
+	<key>hotline</key>
+	<string>2211 1898</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>12</string>
+	<key>service_en</key>
+	<string>Credit Card-Lost</string>
+	<key>service_zh</key>
+	<string>信用卡-報失</string>
+	<key>hotline</key>
+	<string>3608 6628</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>13</string>
+	<key>service_en</key>
+	<string>ATM Card</string>
+	<key>service_zh</key>
+	<string>櫃員機卡</string>
+	<key>hotline</key>
+	<string>2211 1818</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>14</string>
+	<key>service_en</key>
+	<string>ATM Card-Lost (Office Hr)</string>
+	<key>service_zh</key>
+	<string>櫃員機卡-報失(辦工時間)</string>
+	<key>hotline</key>
+	<string>2211 1818</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>15</string>
+	<key>service_en</key>
+	<string>ATM Card-Lost (Non-office Hr)</string>
+	<key>service_zh</key>
+	<string>櫃員機卡-報失(非辦工時間)</string>
+	<key>hotline</key>
+	<string>2211 1862</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>16</string>
+	<key>service_en</key>
+	<string>Cyberbanking-Internet</string>
+	<key>service_zh</key>
+	<string>電子網絡銀行-網上理財</string>
+	<key>hotline</key>
+	<string>2211 1321</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>17</string>
+	<key>service_en</key>
+	<string>Cyberbanking-Telephone</string>
+	<key>service_zh</key>
+	<string>電子網絡銀行-電話理財</string>
+	<key>hotline</key>
+	<string>2211 1888</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>18</string>
+	<key>service_en</key>
+	<string>Cyberbanking-Lost PIN</string>
+	<key>service_zh</key>
+	<string>電子網絡銀行-報失密碼</string>
+	<key>hotline</key>
+	<string>2211 1345</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>19</string>
+	<key>service_en</key>
+	<string>China Service</string>
+	<key>service_zh</key>
+	<string>中國業務</string>
+	<key>hotline</key>
+	<string>3608 3007</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>20</string>
+	<key>service_en</key>
+	<string>Consumer Loans</string>
+	<key>service_zh</key>
+	<string>個人貸款</string>
+	<key>hotline</key>
+	<string>2211 1211</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>21</string>
+	<key>service_en</key>
+	<string>Corporate Banking</string>
+	<key>service_zh</key>
+	<string>企業銀行服務</string>
+	<key>hotline</key>
+	<string>2211 1338</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>22</string>
+	<key>service_en</key>
+	<string>Insurance</string>
+	<key>service_zh</key>
+	<string>保險服務</string>
+	<key>hotline</key>
+	<string>3608 2928</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>23</string>
+	<key>service_en</key>
+	<string>Mortgage Loan</string>
+	<key>service_zh</key>
+	<string>樓宇按揭貸款</string>
+	<key>hotline</key>
+	<string>3608 8686</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>24</string>
+	<key>service_en</key>
+	<string>MPF</string>
+	<key>service_zh</key>
+	<string>強積金服務</string>
+	<key>hotline</key>
+	<string>2211 1777</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>25</string>
+	<key>service_en</key>
+	<string>SME Loan</string>
+	<key>service_zh</key>
+	<string>中小型企業貸款</string>
+	<key>hotline</key>
+	<string>3608 0838</string>
+	</dict>
+	<dict>
+	<key>id</key>
+	<string>26</string>
+	<key>service_en</key>
+	<string>Unit Trusts Services</string>
+	<key>service_zh</key>
+	<string>基金投資服務</string>
+	<key>hotline</key>
+	<string>2211 1311</string>
+	</dict>
+
+	</array>
+</dict>
+</plist>
+
+

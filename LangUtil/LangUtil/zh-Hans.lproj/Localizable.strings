@@ -1,0 +1,881 @@
+/*
+ Localizable.strings
+ BEA Surprise
+ 
+ Created by Algebra Lo on 10年3月12日.
+ Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+"pagestr1" = "第";
+"pagestr2" = "頁";
+"lang" = "zh_TW";
+"BEA" = "東亞銀行";
+"Back" = "返回";
+"Edit" = "編輯";
+"Edit_done" = "完成";
+"Home" = "信用咭主頁";
+"Back to Home" = "返回主目錄";
+"Prev" = "上頁";
+"Next" = "下頁";
+"Delete" = "刪除";
+"Address" = "地址";
+"Tel" = "電話";
+"OK" = "確定";
+"Cancel" = "取消";
+"Error downloading data" = "連線問題, 請稍後再試。";
+//"Error downloading data" = "下載失敗,請重試";
+"Title" = "全年優惠,「好用錢」,最新推廣,消費獎賞,演唱會及\n電影優惠,GlobePass\n優惠,基金";
+"Tab" = "附近,搜尋,書籤,分享App";
+"BEA Credit Card" = "東亞銀行信用卡";
+"TNC Dining" = "1. 除特別註明外，優惠有效期由2010 年1月1日至12月31日。\n\n2. 除特別註明外，客戶須於落單或付款前出示東亞銀行信用卡或聯營卡(「東亞銀行信用卡」)及必須以東亞銀行信用卡全數簽賬，方可享用有關優惠。\n\n3. 除特別註明外，客戶須於落單或付款前出示東亞銀行白金卡或聯營白金卡或東亞銀行World萬事達卡(「東亞銀行白金卡」)及必須以東亞銀行白金卡全數簽賬，方可享用有關白金卡優惠。\n\n4. 除特別註明外，優惠不適用於東亞銀行JCB白金卡、東亞銀行銀聯雙幣白金信用卡、東亞銀行旅遊卡、東亞銀行預繳卡及東亞銀行人民幣信用卡。\n\n5. 除特別註明外，優惠只適用於參與商戶(「商戶」)位於香港之商店。\n\n6. 若有關商戶停止運作或結業，有關之優惠將會即時終止。\n\n7. 除特別註明外，所有食肆優惠只適用於堂食； 同時，客戶需於訂座時及 / 或點菜前聲明享用東亞銀行信用卡優惠。客戶敬請預先訂座。\n\n8. 食肆優惠不適用於公眾假期、節日前夕、節日期間及特定日期；除特別註明外，優惠並不包括私人派對、宴會、房間服務、茶芥及加一服務費。\n\n9. 優惠不可與商戶提供的其他優惠 / 折扣及 / 或會員計劃優惠同時使用。\n\n10. 除特別註明外，所有商戶優惠只適用於正價貨品及服務。優惠並不適用於特價貨品、公價貨品及服務。\n\n11. 所有優惠均不可兌換現金、其他貨品及 / 或服務， 亦不得轉讓。\n\n12. 東亞銀行有限公司(「本行」)不會對商戶所提供之食品 / 產品、服務之質素及供應量及 / 或資料作出任何陳述或保證。商戶須對有關食品 / 產品、服務及 / 或資料之任何事宜負責，而本行不會負上任何責任。如對食品 / 產品、服務及 / 或資料有任何查詢或投訴，客戶應直接聯絡有關商戶。\n\n13. 優惠須受有關商戶之條款及細則約束。\n\n14. 本行及商戶保留隨時更改或取消有關優惠及 / 或修訂或修改此條款及細則之權利而毋須事先通知；如有任何爭議，本行及有關商戶保留最終決定權。\n\n15. 此條款及細則之中英文版本如有任何歧異，概以英文版本為準。";
+"TNC Shopping" = "1. 除特別註明外，優惠有效期由2010 年1月1日至12月31日。\n\n2. 除特別註明外，客戶須於落單或付款前出示東亞銀行信用卡或聯營卡(「東亞銀行信用卡」)及必須以東亞銀行信用卡全數簽賬，方可享用有關優惠。\n\n3. 除特別註明外，客戶須於落單或付款前出示東亞銀行白金卡或聯營白金卡或東亞銀行World萬事達卡(「東亞銀行白金卡」)及必須以東亞銀行白金卡全數簽賬，方可享用有關白金卡優惠。\n\n4. 除特別註明外，優惠不適用於東亞銀行JCB白金卡、東亞銀行銀聯雙幣白金信用卡、東亞銀行旅遊卡、東亞銀行預繳卡及東亞銀行人民幣信用卡。\n\n5. 除特別註明外，優惠只適用於參與商戶(「商戶」)位於香港之商店。\n\n6. 若有關商戶停止運作或結業，有關之優惠將會即時終止。\n\n7. 優惠不可與商戶提供的其他優惠 / 折扣及 / 或會員計劃優惠同時使用。\n\n8. 除特別註明外，所有商戶優惠只適用於正價貨品及服務。優惠並不適用於特價貨品、公價貨品及服務。\n\n9. 所有優惠均不可兌換現金或其他貨品及 / 或服務， 亦不得轉讓。\n\n10. 東亞銀行有限公司(「本行」)不會對商戶所提供之產品、服務之質素及供應量及 / 或資料作出任何陳述或保證。商戶須對有關產品、服務及 / 或資料之任何事宜負責，而本行不會負上任何責任。如對產品、服務及 / 或資料有任何查詢或投訴，客戶應直接聯絡有關商戶。\n\n11. 優惠須受有關商戶之條款及細則約束。\n\n12. 本行及商戶保留隨時更改或取消有關優惠及 / 或修訂或修改此條款及細則之權利而毋須事先通知；如有任何爭議，本行及有關商戶保留最終決定權。\n\n13. 此條款及細則之中英文版本如有任何歧異，概以英文版本為準。";
+"TNC Quarterly" = "1. 「每季驚喜」推廣優惠（「此優惠」）有效期由2010年5月1日至6月30日（包括首尾2天）。\n\n2. 請於惠顧前出示此券，並以東亞銀行信用卡或聯營卡（包括主卡及附屬卡）全數簽賬，方可享用此優惠。此優惠不適用於東亞銀行JCB白金卡、東亞銀行銀聯雙幣白金信用卡、東亞銀行預繳卡、東亞銀行旅遊卡及東亞銀行人民幣信用卡。\n\n3. 此優惠只適用於參與商戶（「商戶」）位於尖沙咀之分店。\n\n4. 若有關商戶停止運作或結業，有關之優惠將會即時終止。\n\n5. 東亞銀行有限公司（「東亞銀行」）不會對參與商戶提供的產品和服務之質素和供應量，及/或其提供的資料作出任何陳述或保證。東亞銀行在任何情況下無須就有關產品、服務及/或資料引起或與其有關的事宜負上任何責任。如有查詢或投訴，客戶應直接聯絡有關參與商戶。\n\n6. 本行及參與商戶保留隨時更改或取消此優惠及/或修改或修訂此等條款及細則之權利而無須事前通知。如有任何爭議，本行及參與商戶所作的決定為最終及不可推翻。\n\n7. 此條款及細則之中英文版本如有任何歧異，概以英文版本為準。";
+
+"General Terms and Conditions" = "一般條款及細則";
+"Terms and Conditions" = "條款及細則";
+"T&C" = "條款及細則";
+"Share Offer" = "分享App";
+"Share Offer2" = "優惠分享";
+"Share App_Privileges" = "分享App";
+"Add to Bookmark" = "加至書籤";
+"Added to Bookmark" = "已加至書簽";
+"e-Coupon" = "電子優惠券";
+"Offers" = "優惠";
+"Offers-fav" = "優惠";
+"Contact Info" = "聯絡資料";
+//jeff-apply form
+"cih_title_cih" = "「好用錢」\n現金兌現申請";
+"cih_title_btp" = "「好用錢」\n結餘轉戶申請";
+"cih_title_sip" = "「好用錢」\n月結單分期申請";
+//jeff
+"Concert and Movie Offers" = "演唱會及電影優惠";
+//
+"chi_salutation" = "";
+"chi_apply_express" = "特快申請";
+"chi_call_now" = "立即致電";
+"chi_office_time" = "服務時間 (公眾假期除外)：\n星期一至五：9a.m. - 6p.m.；星期六：9a.m. - 2p.m。";
+"chi_please" = "請填妥以下貸款資料 。 我們的客戶服務員將會與你聯絡 。";
+"chi_name" = "姓名:";
+"chi_mobile" = "聯絡電話:";
+"chi_email" = "電郵地址:";
+"chi_loan_value" = "貸款金額(港幣):";
+"chi_repay" = "還款期數:";
+"chi_terms" = "本人證實本人已參閱及明白東亞銀行的";
+"chi_announce" = "（私隱）條例 ﹣個人資料收集(客戶)聲明（『該聲明』）。";
+"chi_announce2" = "個人資料";
+"chi_Mr" = "先生";
+"chi_Miss" = "小姐";
+"chi_Ms" = "女士";
+"chi_Mrs" = "太太";
+"chi_submit" = "提交";
+"chi_clear" = "清除";
+//jeff handle error message
+"fill_valid_name" = "請輸入正確姓名";
+"fill_valid_mobile" = "請輸入正確聯絡電話";
+"fill_valid_email" = "請輸入正確電郵地址";
+"fill_valid_loan" = "請輸入正確貸款金額";
+"fill_valid_loan_value_cash_3000" = "現金兌現金額最低為港幣3,000元";
+"fill_valid_loan_value_transfer_3000" = "轉賬金額最低為港幣3,000元";
+"fill_valid_loan_value_instalment_1000" = "結單分期金額最低為港幣1,000元";
+"acceptance_valid" = "請按空格確定你已細心閱讀並清楚明白有關資料政策通告，並同意受其約束。";
+"Not_correct_loan_value" = "申請金額必須為港幣1,000元之倍數。";
+"Not_correct_loan_value_100" = "申請金額必須為港幣100元之倍數。";
+"No_repaymentPeriod"="請選擇還款期數";
+
+//jeff - NO Details
+"NO Details" = "沒有詳情";
+//
+//jeff
+"Apply Now" = "立即申請";
+"call" = "通話";
+"cancel" = "取消";
+"applyOnline" = "網上申請";
+"applyFail" = "申請失敗";
+"application_sent" = "申請已傳送";
+"application_fail" = "申請已被拒絕";
+//jeff-email-sent
+"contact_today" = "我們的客戶服務主任將於今天內聯絡你。";
+"contact_nextday" = "我們的客戶服務主任將於下一個工作天內聯絡你。";
+//
+"Details" = "詳情";
+"Go to GlobePass website" = "登入GlobePass網頁";
+"Share to Friends" = "與朋友分享";
+"Share Offers with Friends by Email" = "以電郵與朋友分享優惠";
+"Share App with Friends by Email" = "以電郵與朋友分享手機程式？";
+"Add to Bookmark?" = "加至書籤?";
+"Added to Favourite" = "已加至我的最愛";
+"Delete from Favourite" = "已從我的最愛移除";
+"Delete from Bookmark" = "已從書簽移除";
+"Done" = "完成";
+"Dial to" = "致電到";
+"Call" = "通話";
+"OK" = "確認";
+"Cancel" = "取消";
+
+//Year-round offers
+"Offer types" = "全年餐飲優惠,全年購物優惠";
+"Year round menu" = "人氣餐廳推介,酒店美饌,連鎖式食肆,地區選擇,時尚薈萃,美容健康,珠寶鐘錶,休閒生活";
+"category_list" = "topMerchants,hotel,chainRestaurant,district,apparel,beauty,jewellery,lifestyle";
+"location_list" = "銅鑼灣,中環,旺角,尖沙咀,灣仔,其他香港島地區,其他九龍地區";
+"location_id_list" = "Causeway%20Bay,Central,Mong%20Kok,Tsim%20Sha%20Tsui,Wan%20Chai,Others%20in%20HK,Others%20in%20Kowloon";
+
+//Quarterly Surprise
+"Quarterly Surprise" = "「好用錢」";
+
+//Year round offers
+"Year-round Offers" = "全年優惠";
+
+//Latest Promotions
+"Latest Promotions" = "最新推廣";
+"Latest Promotions-fav" = "最新優惠";
+//jeff-Cash In Hand
+"Cash In Hand" = "「好用錢」計劃";
+//
+"tag_cash_application_cih" = "「好用錢」現金兌現申請";
+"tag_cash_application_btp" = "「好用錢」結餘轉戶申請";
+"tag_cash_application_sip" = "「好用錢」結單分期申請";
+"cih_loan_value" = "現金兌現金額(港幣):";
+"btp_loan_value" = "轉賬金額(港幣):";
+"sip_loan_value" = "結單分期金額(港幣):";
+
+
+"tag_bea_contact" = "(本行將聯絡你處理此申請。)";
+
+//Spending & Rewards
+"Spending & Rewards" = "消費獎賞";
+//Rewards
+"Rewards" = "獎賞";
+//PB Concerts
+"Priority Booking for Concerts" = "演唱會及電影優惠";
+"Priority Booking for Concerts-fav" = "演唱會及電影優惠";
+"Concert dates and time" = "演唱會日期及時間";
+"Venue" = "地點";
+"Ticket price" = "門票售價";
+"Priority booking period" = "優先訂票日期";
+"Priority booking hotline" = "優先訂票熱線";
+//jeff
+"Priority booking link" = "優先網上訂票";
+//
+"Book fail1" = "請於";
+"Book fail2" = "至";
+"Book fail3" = "期間致電";
+//jeff
+"Book fail4" = "請於";
+"9am" = "上午9時起";
+"Book fail5" = "登入";
+//
+"Organisers" = "主辦機構";
+"Co-organisers" = "協辦機構";
+"Title Sponsor" = "冠名贊助";
+"Priority Booking" = "優先訂票";
+"Management" = "經紀";
+"Production" = "製作單位";
+"9am-9pm" = "上午9時至晚上9時";
+
+//GlobePass
+"GlobePass Offers" = "GlobePass優惠";
+
+//Consumer Loans
+"Consumer Loans-fav" = "優惠";
+"Loans-fav" = "個人貸款";
+
+//Nearby
+"Setting" = "設定";
+"Offers show in Map" = "地圖標示優惠數目";
+"Distance show in Map" = "地圖標示距離";
+"km" = "公里";
+"m" = "米";
+"Nearby" = "附近";
+"Search1" = "優惠數目:";
+"Search2" = "";
+"No offer in nearby" = "附近找不到優惠";
+"No result in nearby" = "沒有附近搜尋結果";
+"No result found nearby" = "沒有附近搜尋結果";
+"userLocation_title" = "目前位置";
+
+//Search
+"Advance Search" = "搜尋全年優惠";
+"Search" = "搜尋";
+"Enter your keywords" = "輸入關鍵字";
+"District" = "地區";
+"Cuisine" = "菜式";
+"Categories" = "類別";
+"Please enter at least one search critiria" = "請輸入最少一項搜尋條件";
+"location_search_list" = ",銅鑼灣,中環,旺角,尖沙咀,灣仔,其他香港島地區,其他九龍地區";
+"location_search_id_list" = ",Causeway%20Bay,Central,Mong%20Kok,Tsim%20Sha%20Tsui,Wan%20Chai,Others%20in%20HK,Others%20in%20Kowloon";
+"cuisine_list" = ",中國菜,日本菜,韓國菜,東南亞菜,越南菜,西式菜";
+"cuisine_index_list" = ",Chinese,Japanese,Korean,South%20East%20Asian,Vietnam,Western";
+"search_category_list" = ",時尚薈萃,美容健康,珠寶鐘錶,休閒生活";
+"search_category_index_list" = ",Apparel,Beauty,Jewellery%20%26%20Watches,Lifestyle";
+"Cannot find offer for the search" = "沒有符合的優惠";
+
+//Bookmark"
+"Bookmark" = "書簽";
+"Bookmark1" = "儲存數目:";
+"No bookmark stored" = "沒有書簽";
+
+//Share App
+"Check out" = "體驗東亞銀行全新iPhone程式！";
+//"Main share app" = "你好！\n\n東亞銀行全新iPhone程式，讓你隨時獲知東亞銀行的最新動態及推廣。立即登入iTunes App Store搜尋「BEA」或「東亞銀行」，亦可按以下連結免費下載！\n\nhttp://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=381215704&amp;amp;amp;amp;mt=8";
+"Main share app" = "你好！\n\n東亞銀行全新iPhone程式，讓你隨時獲知東亞銀行的最新動態及推廣。立即登入iTunes App Store搜尋「BEA」或「東亞銀行」，免費下載！";
+"Offer details" = "";//"● 優惠詳情 details\n\n";
+//"Share App" = "想獲知更多東亞銀行信用卡的精彩優惠，立即登入iTunes App Store搜尋「BEA」或「東亞銀行」，亦可按以下連結免費下載東亞銀行全新iPhone程式！\n\nhttp://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=381215704&amp;amp;amp;amp;mt=8";
+"Share App" = "想獲知更多東亞銀行信用卡的精彩優惠，立即登入iTunes App Store搜尋「BEA」或「東亞銀行」免費下載東亞銀行全新iPhone程式！";
+"Share QS" = "要獲享電子優惠券，立即登入iTunes App Store搜尋「BEA」或「東亞銀行」免費下載東亞銀行全新iPhone程式，然後選擇「信用卡」->「每季驚喜」；你亦可透過此程式獲知更多東亞銀行信用卡的精彩優惠！";
+"Please visit" = "立即登入www.hkbea.com下載電子優惠券！";
+
+//Notification
+"NEW_OFFER_ADD" = "信用卡優惠更新";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+ Below message tags are maintained by BEA
+ Last update: 5 May 2011
+ */
+
+//Share App phrases for special period
+"Special_Check out" = "免費下載東亞銀行iPhone程式及參加uDirect互動遊戲！";
+//"Main share app" = "你好！\n\n東亞銀行全新iPhone程式，讓你隨時獲知東亞銀行的最新動態及推廣。立即登入iTunes App Store搜尋「BEA」或「東亞銀行」，亦可按以下連結免費下載！\n\nhttp://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=381215704&amp;amp;amp;amp;mt=8";
+"Special_Main share app" = "東亞銀行全新iPhone程式，讓你隨時隨地享用全面銀行服務之餘，同時緊貼該行最新動態及推廣資訊。立即登入iTunes App Store搜尋「BEA」或「東亞銀行」，免費下載！\n\n此外，由即日起至2011年1月31日，只需於東亞銀行iPhone應用程式主目錄選擇uDirect互動遊戲即可參與。你並可參加大抽獎，有機會贏取Apple MacBook Air, Apple iPad或總值超過港幣6,000元信用卡免找數簽賬額!\n\n立即使用東亞銀行iPhone應用程式參加投票！";
+
+
+//Mother App
+"Main Menu" = "目錄";
+"Credit Card" = "信用卡\n　　";
+"Cyberbanking" = "流動理財\n   ";
+"Cybertrading" = "股票買賣\n　　";
+"eas_cybertrading"="東亞證券\n　　";
+"News" = "新聞";
+"ConsumerLoanMenu" = "個人貸款\n   ";
+"HotlineMenu" = "服務熱線\n   ";
+"Settings" = "設定\n　　";
+"SettingsPage" = "設定";
+"Mobile no." = "流動電話號碼";
+"megahub.stockwatch.title" = "股票追蹤及\n特快落盤";
+"Setting Title 1" = "流動理財/股票買賣服務";
+"Setting Title 2" = "東亞證券電子網絡股票買賣－流動服務\n（只限東亞證券客戶）";
+"Setting Text 1" = "請輸入你的流動電話號碼並按「儲存」:";
+"Setting Text 2" = "如欲享用電子網絡股票買賣 – 流動服務，請";
+"Setting Text 3" = "登入電子網絡銀行服務賬戶並啟動流動電話渠道(選擇設定/流動理財) 或親臨東亞證券分行登記及";
+"Setting Text 4" = "輸入你的流動電話號碼並按「儲存」:";
+"setting_default_stock_account" = "預設股票賬戶 (適用於股票追蹤及特快落盤)";
+"Save" = "儲存";
+"Setting saved" = "設定已儲存";
+"Setting_no_length_invalid" = "請輸入8位數字流動電話號碼。";
+"news_link" = "http://www.hkbea.com/hk/ci/news_release/index_tc.htm";
+
+"setting_language" = "語言";
+"setting_default_page" = "預設主頁";
+"setting_language_en" = "English";
+"setting_language_cht" = "繁體";
+"setting_default_banking" = "銀行服務";
+"setting_default_wealth" = "財富";
+"setting_default_lifestyle" = "生活";
+
+"tag_year_round_dining" = "全年餐飲優惠";
+"tag_year_round_shopping" = "全年購物優惠";
+"tag_fav_cc_cash_in_hand" = "「好用錢」";
+"tag_rewards" = "獎賞";
+"tag_bar_creditcard" = "信用卡最新推廣";
+"tag_bar_offer" = "演唱會及電影優惠";
+"tag_more" = "更多  ";
+
+"tag_stocks" = "股票\n ";
+"tag_fav_insurance" = "保險";
+"tag_fav_mpf" = "強積金";
+"tag_fav_privileges" = "優惠";
+
+"tag_p2p" = "夾錢";
+
+"tag_rates_notes" = "現鈔兌換率";
+"tag_rates_tt" = "電匯兌換率";
+"tag_rates_prime" = "東亞銀行\n最優惠利率";
+
+"tag_enquiries"="查詢";
+"tag_offers"="優惠";
+"tag_applications"="申請";
+
+"tag_send_us_email" = "      電郵我們";
+
+"select_location" = "請選擇地區";
+"no_of_locations" = "地點數目:";
+
+"tag_moremenu_mainmenu" = "主頁";
+"tag_moremenu_sitemap" = "選單";
+"tag_moremenu_favourites" = "我的最愛";
+"tag_moremenu_mybookmark" = "我的書簽";
+"tag_moremenu_importantnotice" = "重要提示";
+"tag_moremenu_settings" = "設定";
+"tag_moremenu_exit" = "離開";
+"tag_moremenu_nearby" = "附近";
+"tag_moremenu_search" = "搜尋";
+"tag_moremenu_shareapp" = "分享App";
+
+"warningmsg_exit" = "離開程式?";
+"500m" = "500米";
+"3km" = "3公里";
+"tag_m" = "米";
+"tag_km" = "公里";
+"tag_creditCardTitle" = "最新推廣,演唱會及電影優惠,「好用錢」,全年優惠,消費獎賞,GlobePass優惠";
+"tag_game" = "遊戲";
+
+//email
+"tag_email_appstring" = "(透過東亞銀行iPhone手機程式發出)";
+"Privileges Enquiry" = "優惠查詢";  // new
+
+//"mobilebanking" = "https://mobile.hkbea-cyberbanking.com/servlet/MBLogonShow?Lang=Big5&MobileNo=";
+// "mobiletrading" = "https://mobile.hkbea-cyberbanking.com/servlet/MELogonShow?Lang=Big5&MobileNo=";
+"mobilebanking" = "/servlet/MBLogonShow?Lang=Big5&MobileNo=";
+"mobiletrading" = "/servlet/MELogonShow?Lang=Big5&MobileNo=";
+"mobiletrading_noMobile" = "/servlet/MELogonShow";
+//"mobilebanking4mobiletrading" = "https://mobile.hkbea-cyberbanking.com/servlet/MBAIOLogonShow?req=ME&Lang=Big5&MobileNo=";
+
+
+//Important Notice
+"Important Notice"="重要提示";
+"Frequently Asked Questions"="常見問題";
+"Security Tips"="保安提示";
+//"Frequently Asked Questions - link"="https://mobile.hkbea-cyberbanking.com/App_Important_Notice_chi.html";
+//"Security Tips - link"="https://mobile.hkbea-cyberbanking.com/App_Important_Notice_chi.html#tips";
+"Frequently Asked Questions - link"="https://210.176.64.24/App_Important_Notice_chi.html";
+"Security Tips - link"="https://210.176.64.24/App_Important_Notice_chi.html#tips";
+
+//Mobile banking
+"mobilebankingReg" = "/servlet/MBCYBLogonShow?Lang=Big5&MobileNo=";
+"Continue" = "繼續";
+"Pop Up Notice for Register" = "按「繼續」瀏覽電子網絡銀行服務網頁並建立流動密碼。";
+
+// Fav delete
+"Are you sure to delete" = "你確定要刪除";
+//ATM Location
+"ATM Location" = "分行/櫃員機\n   ";
+"SupremeGold" = "顯卓理財中心";
+"SupremeGold Centre" = "顯卓理財中心";  // Fav
+"i-Financial Centre" = "i-理財中心";
+"i-Financial center" = "i-理財中心";    // new
+"ATM" = "自動櫃員機";
+"Branch" = "分行";
+"place_type_list" = "分行,顯卓理財中心,自動櫃員機";
+"place_type_id_list" = "Branch,SupremeGold,ATM";
+"All"="所有";
+"division_list" = "所有,中西區,東區,南區,灣仔區,九龍城區,觀塘區,深水埗區,黃大仙區,油尖旺區,葵青區,北區,離島,西貢區,沙田區,大埔區,荃灣區,屯門區,元朗區";
+"division_index_list" = ",Central and Western,Eastern,Southern,Wanchai,Kowloon City,Kwun Tong,Sham Shui Po,Wong Tai Sin,Yau Tsim Mong,Kwai Tsing,North,Outlying Island,Sai Kung,Shatin,Tai Po,Tsuen Wan,Tuen Mun,Yuen Long";
+"search_type" = "搜索類型";
+"ATMSearch1" = "地點數目:";
+"ATMSearch2" = "";
+"Branch & ATM Search" = "分行及自動櫃員機搜尋";
+"Branch, SupremeGold Centre & ATM" = "分行、顯卓理財中心及自動櫃員機";
+"Places show in Map" = "地圖標示地點數目";
+"ATM - Add to Bookmark"="加入書籤";
+"ATM_Nearby" = "附近";
+"ATMBookmark1" = "儲存數目:";
+
+//Tax Loan
+"ConsumerLoanIconTitle" = "優惠,申請,立即致電,就近東亞銀行";
+"TaxLoanTab" = "優惠,申請,附近,查詢";
+"PICStatement_link"="http://www.hkbea.com/pdf/tc/hkbea-privacy-policy-declaration.pdf";
+"Tax Loan"="個人貸款";
+"Home (Tax)"="貸款主頁";
+"Application"="申請";
+"Loan Offers"="優惠";
+"Repayment Table"="還款表";
+"Calculator"="計算機";
+"TaxLoanEnquiryTitle"="查詢";
+"TaxLoanCalcTag00"="計算結果(只作參考)。";
+"TaxLoanCalcTag08"="安排費：";
+"TaxLoanCalcTag04"="每月平息:";
+"APR:"="實際年利率:";
+"TaxLoanCalcTag06"="每月還款:\n(港幣)";
+"TaxLoanCalcTag07"="總還款:\n(港幣)";
+"Reset"="重設";
+"Apply"="申請";
+"TaxLoanApplicationTag00"="特快申請";
+"TaxLoanApplicationTag01"="請填妥以下貸款資料。我們的客戶服務員將會與你聯絡。";
+"Mr.,Miss,Ms.,Mrs."="先生,小姐,女士,太太";
+"Name:"="姓名:";
+"Mobile no.:"="流動電話號碼:";
+"Email address:"="電郵地址:";
+"Loan amount (HK$):"="貸款金額(港幣):";
+"Loan plan:"="貸款計劃:";
+"Repayment Period:"="還款期(月):";
+"General Customers"="一般客戶";
+"Privileged Customers"="特選客戶";
+"12 Months"="12";
+"24 Months"="24";
+"36 Months"="36";
+"48 Months"="48";
+"60 Months"="60";
+"TaxLoanCallApply"="按「通話」立即申請";
+"TaxLoanCallEnquiry"="2211 1211";
+"TaxLoanApplyHotline"="tel:22111811";
+"ConsumerFinanceServicesHotline"="tel:22111211";
+"Call now"="立即致電";
+"Clear"="清除";
+"Submit"="提交";
+"TaxLoanApplicationAlertMsg01"="請按空格確定你已參閱及明白東亞銀行的個人資料(私隱)條例 - 個人資料收集(客戶)聲明。";
+"TaxLoanApplicationAlertMsg04"="請輸入你的姓名。";
+"TaxLoanApplicationAlertMsg05"="請輸入你的流動電話號碼。";
+"TaxLoanApplicationAlertMsg06"="對不起，請輸入有效的流動電話號碼。";
+"TaxLoanApplicationAlertMsg07"="請輸入你的電郵地址。";
+"TaxLoanApplicationAlertMsg08"="對不起，請輸入正確的電郵地址。";
+"TaxLoanApplicationAlertMsg09"="請輸入貸款金額。";
+"TaxLoanApplicationAlertMsg03"="對不起，最高貸款金額為港幣 1,000,000元。";
+"TaxLoanApplicationAlertMsg02"="對不起，最低貸款金額為港幣 5,000元。";
+"TaxLoanApplicationResultMsg01"="我們的客戶服務員將於下一個工作天聯絡你。";
+"TaxLoanApplicationResultMsg02"="我們的客戶服務主任將於今天內聯絡你。";
+"TaxLoanApplicationResultTag00"="申請已被送出";
+"TaxLoanApplicationResultTag02"="感謝你的申請。";
+"TaxLoanApplicationResultTag01"="參考編號 :";
+"HKG"="香港時間";
+"year"="年";
+"month"="月";
+"day"="日";
+"Name:"="姓名:";
+"Mobile no.:"="流動電話號碼:";
+"Email address:"="電郵地址:";
+"Loan details :"="貸款詳情:";
+"Message :"="訊息:";
+"Application rejected"="申請已被拒絕";
+"TaxLoanEnquiryTag00"="私人財務熱線";
+"Service hours:"="服務時間 :";
+"Service hours detail"="星期一至五        上午10時至下午8時\n星期六              上午9時至下午1時\n(公眾假期除外)";
+"TaxLoanEnquiryTag03"="(選擇語言後按3字)";
+"TaxLoanEnquiryTag04"="電郵查詢";
+"TaxLoanEnquiryTagEmail"="電郵我們";
+"TaxLoanEnquiryEmail" = "lebdcc@hkbea.com";
+"TaxLoanEnquiryEmailTitle"="個人化「息慳錢」分期貸款查詢(透過東亞銀行iPhone應用程式發出)";
+"TaxLoanApplicationTag08"="本人證實本人已參閱及明白東亞銀行的個人資料(私隱)條例 - ";
+"TaxLoanApplicationPICStatement"="個人資料收集(客戶)聲明。";
+"HK$"="港幣";
+"TaxLoanDetail_part1_yuan"="元";
+"TaxLoanDetail_part2"="還款期";
+"TaxLoanDetail_part3"="個月";
+
+//Hotline
+"HotlineTitle" = "服務熱線";
+"HotlineTabBarTag" = "流動理財,附近,分享";
+"HotlinePickerTitle" = "選擇服務熱線";
+"HotlineBarItemsTag" = "------------------,一般銀行服務,顯卓理財,顯卓理財-股票,至尊理財,至尊理財-股票,i-Account,i-Account-股票,信用卡,信用卡-申請專線,信用卡-報失,櫃員機卡,櫃員機卡-報失(辦工時間),櫃員機卡-報失(非辦工時間),電子網絡銀行-網上理財,電子網絡銀行-電話理財,電子網絡銀行-報失密碼,中國業務,個人貸款,企業銀行服務,保險服務,樓宇按揭貸款,強積金服務,中小型企業貸款,基金投資服務";
+"HotlineNumbers" = "NULL,2211 1333,2211 1122,2211 1555,2211 1333,2211 1988,2211 1333,2211 1998,3608 6628,2211 1898,3608 6628,2211 1818,2211 1818,  2211 1862,2211 1321,2211 1888,2211 1345,3608 3007,2211 1211,2211 1338,3608 2928,3608 8686,2211 1777,3608 0838,2211 1311";
+
+
+//Property Loan
+"PropertyLoanTab"="附近,申請,計算機,查詢";
+"PropertyLoan"="物業貸款\n   ";
+"PropertyLoanCalc"="物業貸款\n計算機";
+"PropertyLoanCalcTitle"="計算結果(只作參考)。";
+"PropertyLoanPurchasePrice"="物業成交價(港幣):";
+"PropertyLoanMortgageRatio"="按揭成數(%):";
+"PropertyLoanLoanAmount"="貸款金額(港幣):";
+"PropertyLoanInterestRate"="年利率(%):";
+"PropertyLoanLoanTenor"="還款年期(年):";
+"PropertyLoanRepaymentLabel"="每月還款(港幣):";
+"PropertyLoanMonthRepayment"="0.00";
+"PropertyLoanCallApply"="3608 8686";
+"PropertyLoanCallEnquiry"="3608 8686";
+"PropertyLoanEnquiryTitle"="物業貸款\n查詢";
+"PropertyLoanHotlineTitle"="查詢熱線";
+"PropertyLoanServiceHours"="服務時間 :";
+//"PropertyLoanServiceDetails"="星期一至五        上午9時至下午5時45分\n(公眾假期除外)";
+"PropertyLoanServiceDetails"="星期一至五";
+"PropertyLoanServiceTime"="上午9時至下午8時";
+"PropertyLoanServiceDetails2"="星期六";
+"PropertyLoanServiceTime2"="上午9時至下午1時";
+"PropertyLoanServiceExcept"="(公眾假期除外)";
+
+// MPF
+"mpf.label"="強積金\n ";
+"mpf.tabbar.title"="推廣優惠, 最新消息, 基金價格, 我的強積金, 查詢";
+"mpf.promotic.title"="強積金 \n 最新推廣優惠";
+"mpf.promotic.tnc"="條款及細則";
+"mpf.promotic.choices"="投資選擇";
+"mpf.promotic.notes"="重要事項";
+"mpf.promotic.details"="優惠詳情";
+
+"mpf.fundprice.time"="截至";
+"mpf.fundprice.title"="強積金 \n 最新成分基金價格";
+
+"mpf.enquires.title"="強積金 \n 查詢";
+"mpf.enquires.holine"="東亞銀行(強積金)查詢熱線";
+"mpf.enquiries.service"="服務時間:";
+"mpf.enquiries.details"="星期一至五        上午9時至下午6時\n星期六               上午9時至下午1時";
+"mpf.enquiries.phone"="2211 1777";
+
+"mpf.news.title"="強積金\n最新消息";
+"mpf.news.network.error"="連線問題，請稍後再試。";
+"mpf.promotiondetails"="推廣詳情";
+"mpf.mastertrustscheme"="東亞(強積金)\n集成信託計劃";
+"mpf.contribitionaccount"="特別自願性供款賬戶";
+
+"MPFEnquiryEmailTitle"="強積金查詢 (透過東亞銀行iPhone應用程式發出)";
+
+"MyMPF"="我的強積金";
+"MyBalance"="查閱結餘";
+"Logintomobilebanking"="登入流動理財";
+"CallMPFhotline"="致電強積金熱線";
+
+"mpf.label.fundname"="成分基金";
+"mpf.lable.NAV"="每單位資產淨值(港元$)";
+
+//Account Promotion
+"accpro.common.title"="最新推廣";
+"accpro.tag.title"="最新推廣\n ";
+"accpro.common.tabName" = "優惠,申請,附近,查詢";
+"accpro.button.callNow" = "立即獲享優惠";
+"accpro.enquires.title"="查詢";
+"accpro.enquires.holine"="客戶服務查詢熱線";
+"accpro.enquires.serviceHours"="服務時間 :";
+"accpro.enquires.serviceHoursDetail"="星期一至五        上午9時至下午5時\n星期六              上午9時至下午1時\n(公眾假期除外)";
+"accpro.enquires.selectLang"="(選擇語言後按3字)";
+"accpro.enquires.tel"="2211 1333";
+"accpro.enquires.byEmail"="電郵查詢";
+"accpro.enquires.sendEmail"="電郵我們";
+"accpro.enquires.Email" = "一般銀行服務, EAS Call Centre<lebdcc@hkbea.com>";
+//"accpro.enquires.EmailTitle"="最新推廣查詢（透過東亞銀行iPhone應用程式發出）";
+"accpro.enquires.EmailTitle"="優惠查詢（透過東亞銀行iPhone手機程式發出）";
+"accpro.application.call"=" 2211 1812 ";
+"accpro.application.sent"="預約已被送出";
+"accpro.application.Rejected"="預約已被拒絕";
+"accpro.application.ReNo"="參考編號 :";
+"accpro.application.thanks"="感謝你的預約。";
+"accpro.application.msg"="我們的客戶服務主任將於今天內聯絡你。";
+"accpro.application.callText"="預約申請優惠";
+"accpro.application.Text"="請填妥以下資料。我們的客戶服務員將會與你聯絡。";
+"accpro.application.acceptText"="本人證實本人已參閱及明白東亞銀行的個人資料(私隱)條例 - ";
+"accpro.application.statement"="個人資料收集(客戶)聲明。";
+"accpro.application.existing"="現有客戶:";
+"accpro.application.YES"="是";
+"accpro.application.NO"="否";
+"accpro.offers.welcomeOffers"="迎新禮遇";
+"accpro.network.error"="連線問題，請稍後再試。";
+
+//Rate
+"Rate.name"="利率匯率\n  ";
+"Rate.common.tabName"="現鈔,電匯,貸款利率,立即致電";
+"Rate.Note.title"="現鈔兌換率";
+"Rate.TT.title"="電匯兌換率";
+"Rate.Prime.title"="東亞銀行最優惠利率";
+"Rate.NoteTT.lbCurrency"="貨幣";
+"Rate.NoteTT.lbBuy"="買入";
+"Rate.NoteTT.lbSell"="賣出";
+"Rate.Prime.rates"="年利率";
+"Rate.Notice"="(以上資料僅作參考用途。)";
+"mpf.fundprice.time.end"="為止";
+"Rate.time"="更新：香港時間";
+
+//================================MegaHub================================================
+"MHStockDataView.m_oStockDataSegmentedControl.FundamentalData" = "基本數據";
+"MHStockDataView.m_oStockDataSegmentedControl.TechnicalData" = "技術指標";
+"MHStockDataView.m_oStockDataSegmentedControl.RelatedStockData" = "相關證券";
+"MHStockDataView.lastUpdateTitle" = "最後更新";
+"MHStockDataView.m_oFundamentalTitleDataArray.IEP" = "IEP";
+"MHStockDataView.m_oFundamentalTitleDataArray.IEV" = "IEV";
+"MHStockDataView.m_oFundamentalTitleDataArray.Volatility30" = "波幅";
+"MHStockDataView.m_oFundamentalTitleDataArray.Currency" = "貨幣";
+"MHStockDataView.m_oFundamentalTitleDataArray.AuthShares" = "法定股數";
+"MHStockDataView.m_oFundamentalTitleDataArray.SharesIssued" = "發行股數";
+"MHStockDataView.m_oFundamentalTitleDataArray.MarketCap" = "市值";
+"MHStockDataView.m_oFundamentalTitleDataArray.EPS" = "每股盈利";
+"MHStockDataView.m_oFundamentalTitleDataArray.DPS" = "每股派息";
+"MHStockDataView.m_oFundamentalTitleDataArray.BidAskSpread" = "買賣差價";
+"MHStockDataView.m_oFundamentalTitleDataArray.MonthHigh1MMonthLow1M" = "1個月波幅";
+"MHStockDataView.m_oFundamentalTitleDataArray.Issuer" = "發行商";
+"MHStockDataView.m_oFundamentalTitleDataArray.EntitlementRatio" = "換股比率";
+"MHStockDataView.m_oFundamentalTitleDataArray.Strike" = "行使價";
+"MHStockDataView.m_oFundamentalTitleDataArray.OutstandingPct" = "街貨量(%)";
+"MHStockDataView.m_oFundamentalTitleDataArray.EffGearing" = "實際槓桿";
+"MHStockDataView.m_oFundamentalTitleDataArray.ImpVol" = "引伸波幅";
+"MHStockDataView.m_oFundamentalTitleDataArray.ExpDate" = "到期日";
+"MHStockDataView.m_oFundamentalTitleDataArray.Moneyness" = "價內/價外 (%)";
+"MHStockDataView.m_oFundamentalTitleDataArray.CallLevel" = "收回價";
+"MHStockDataView.m_oFundamentalTitleDataArray.SpotPrice" = "正股價距收回價 (%)";
+"MHStockDataView.m_oFundamentalTitleDataArray.Delta" = "對沖值";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA10" = "10天平均價";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA20" = "20天平均價";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA50" = "50天平均價";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA100" = "100天平均價";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.SMA250" = "250天平均價";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.MACD817" = "8/17天MACD";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.MACD1225" = "12/25天MACD";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI9" = "RSI(9)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI10" = "RSI(10)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI14" = "RSI(14)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.RSI20" = "RSI(20)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.STC10" = "STC(10)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.STC14" = "STC(14)";
+"MHStockDataView.m_oStockTechnicalTitleDataArray.STC20" = "STC(20)";
+"MHStockDataView.m_oLastUpdateLabel.text" = "最後更新";
+"MHIndexBarView.m_oIndexDescriptionLabel.HSI.text" = "恒指";
+"MHIndexBarView.m_oIndexDescriptionLabel.ChinaEnterprise.text" = "國指";
+"MHIndexBarView.m_oIndexDescriptionLabel.HSIFuture.text" = "期指";
+"MHStaticDataView.m_oOpenTitleLabel.text" = "開市";
+"MHStaticDataView.m_oPrevCloseTitleLabel.text" = "前";
+"MHStaticDataView.m_oAvgPriceTitleLabel.text" = "均";
+"MHStaticDataView.m_oVolumeTitleLabel.text" = "成交量";
+"MHStaticDataView.m_oTurnoverTitleLabel.text" = "成交額";
+"MHStaticDataView.m_oLotSizeTitleLabel.text" = "每手";
+"MHStaticDataView.m_oPETitleLabel.text" = "市盈率";
+"MHStaticDataView.m_oYieldTitleLabel.text" = "息率";
+"MHStaticDataView.m_oPremiumTitleLabel.text" = "溢";
+"MHStaticDataView.m_oGearingTitleLabel.text" = "槓桿";
+"MHBidAskView.m_oBidTitleLabel.text" = "買";
+"MHBidAskView.m_oAskTitleLabel.text" = "賣";
+"MHStockQuoteBarView_m_oQuoteButton" = "報價";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDNEWS" = "相關新聞";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDWARRANT" = "相關輪證";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDSECTOR" = "相關板塊";
+"MHSubmenu.SUBMENU_ITEM_STOCK_RELATEDFUNDAMENTAL" = "公司資料";
+"MHSubmenu.SUBMENU_ITEM_STOCK_TRANSRECORD" = "成交紀錄";
+"MHSubmenu.SUBMENU_ITEM_STOCK_MONEYFLOW" = "資金流向";
+"MHSubmenu.SUBMENU_ITEM_CBBC_UNDERLTING" = "正股價格";
+"MHSubmenu.SUBMENU_ITEM_CBBC_BALWARRANT" = "其餘輪證";
+"MHSubmenu.SUBMENU_ITEM_CBBC_RELATEDNEWS" = "相關新聞";
+"MHSubmenu.SUBMENU_ITEM_CBBC_RELATEDSECTOR" = "相關板塊";
+"MHSubmenu.SUBMENU_ITEM_CBBC_RELATEDFUNDAMENTAL" = "公司資料";
+"MHSubmenu.SUBMENU_ITEM_CBBC_TRANSRECORD" = "成交紀錄";
+"MHSubmenu.SUBMENU_ITEM_CBBC_MONEYFLOW" = "資金流向";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_UNDERLTING" = "相關證券";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_BALWARRANT" = "其餘輪證";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_RELATEDNEWS" = "相關新聞";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_RELATEDSECTOR" = "相關板塊";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_RELATEDFUNDAMENTAL" = "公司資料";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_TRANSRECORD" = "成交紀錄";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_MONEYFLOW" = "資金流向";
+"MHSubmenu.SUBMENU_ITEM_STOCK_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_CBBC_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_WARRANT_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_INDICES" = "市場指數";
+"MHSubmenu.SUBMENU_ITEM_SECTOR" = "板塊行情";
+"MHSubmenu.SUBMENU_ITEM_RANKING" = "市場排行";
+"MHSubmenu.SUBMENU_ITEM_MARKETINGCALENDAR" = "市場日誌";
+"MHSubmenu.SUBMENU_ITEM_AH" = "AH比價";
+"MHSubmenu.SUBMENU_ITEM_WATCHLIST_OPTION" = "設置";
+"MHSubmenu.SUBMENU_ITEM_INDEXFUTURE_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_INDEX_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_INDEXCOMPONENT_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_SECTOR_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_AH_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_FUNDAMENTAL_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_FX_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_STOCKSEARCH_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_WARRANTSEARCH_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_STOCK" = "普通股";
+"MHSubmenu.SUBMENU_ITEM_HSCEI" = "國企股";
+"MHSubmenu.SUBMENU_ITEM_REDCHIPS" = "紅籌股";
+"MHSubmenu.SUBMENU_ITEM_GEM" = "創業板";
+"MHSubmenu.SUBMENU_ITEM_WARRANT" = "認股證";
+"MHSubmenu.SUBMENU_ITEM_CBBC" = "牛熊證";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_GAIN" = "最大升額";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_LOSS" = "最大跌額";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_PGAIN" = "最大升幅";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_PLOSS" = "最大跌幅";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_VOLUME" = "最大成交量";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_TURNOVER" = "最大成交額";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_52HIGH" = "五十二周高";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_52LOW" = "五十二周低";
+"MHSubmenu.SUBMENU_ITEM_ALLNEWS" = "全部新聞";
+"MHSubmenu.SUBMENU_ITEM_CUSTOMNEWS" = "自訂篩選";
+"MHSubmenu.SUBMENU_ITEM_DJNEWS" = "道瓊斯";
+"MHSubmenu.SUBMENU_ITEM_HKEXNEWS" = "聯交所新聞";
+"MHSubmenu.SUBMENU_ITEM_NEWS_OPTION" = "菜單設置";
+"MHSubmenu.SUBMENU_ITEM_NONE" = "Nil";
+"MHSubmenu.SUBMENU_ITEM_MARKETDATA" = "基本數據";
+"MHSubmenu.SUBMENU_ITEM_COMPPROFILE" = "公司概括";
+"MHSubmenu.SUBMENU_ITEM_CORPINFO" = "公司資料";
+"MHSubmenu.SUBMENU_ITEM_BALSHEET" = "資產負債表";
+"MHSubmenu.SUBMENU_ITEM_PROFITLOSS" = "損益表";
+"MHSubmenu.SUBMENU_ITEM_FINRATIO" = "財務比率";
+"MHSubmenu.SUBMENU_ITEM_DIVIDEND" = "派息紀錄";
+"MHTableCell.header.m_oSymbolLabel.text" = "股票編號";
+"MHTableCell.header.m_oDescriptionLabel.text" = "名稱";
+"MHTableCell.header.m_oPriceLabel.text" = "股價";
+"MHTableCell.header.m_oChangeLabel.text" = "變動(%)";
+"MHTableCell.header.m_oBidAskLabel.text" = "買入 / 賣出";
+"MHTableCell.header.m_oVolumeLabel.text" = "成交量";
+"MHTableCell.header.m_oTurnoverLabel.text" = "成交額";
+"PTNewsView.m_oSearchButton" = "搜索";
+"PTWorldLocalIndexView.localIndex" = "香港指數";
+"PTWorldLocalIndexView.worldIndex" = "環球指數";
+"PTWorldLocalIndexView.header.nameLabel.text" = "名稱";
+"PTWorldLocalIndexView.header.nominalLabel.text" = "現價";
+"PTWorldLocalIndexVie.header.pChangeLabel.text" = "變動(%)";
+"LoadingView.m_oLoadingLabel" = "載入中...";
+"PTWorldIndexView.m_oDelayLabel" = "數據最少延遲30分鐘";
+"MHDisclaimerViewController_OKButton" = "確定";
+"MHStockDataView.m_oFundamentalTitleDataArray.NAV" = "資產淨值";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_OPTION" = "菜單設置";
+"MHPickerTextField.doneBtn" = "完成";
+"MHSubmenu.SUBMENU_ITEM_TOPRANK_CATEGORY_OPTION" = "菜單設置";
+"MHSolutionProviderView.IsMiniMode.m_oDescriptionLabel"				= "解決方案及資訊由天滙財經提供";
+"MHStaticDataView.m_oYearHighTitleLabel.text"                       = "年高";
+"MHStaticDataView.m_oDayHighTitleLabel.text"                        = "日高";
+"MHStaticDataView.m_oRelatedStockTitleLabel.text"                   = "相關證券";
+"MHStaticDataView.m_oYearLowTitleLabel.text"                        = "年低";
+"MHStaticDataView.m_oDayLowTitleLabel.text"                         = "日低";
+"MHStaticDataView.m_oQuoteMeterTitleLabel.text"                     = "餘下報價:";
+"MHStaticDataView.m_oQuoteMeterTitleLabel.text.current_usage"       = "已用報價";
+"MHSolutionProviderView.IsSnapshotMode.m_oDescriptionLabel"			= "資料由天滙財經有限公司提供";
+"MHSubmenu.SUBMENU_ITEM_FUNDAMENTAL_DETAIL_OPTION"					= "菜單設置";
+"MHIndexBarView.m_oLastUpdateLabel.text"							= "指數最少延遲15分鐘";
+"MHStockView_m_oBidTitleLabel"								= "買";
+"MHStockView_m_oAskTitleLabel"								= "賣";
+"PTPStreamer.no_permission_text" = "沒有權限\n\n閣下沒有權限享用此服務\n\n如有查詢，\n敬請聯絡客戶服務部";
+//================================MegaHub================================================
+
+"TaxLoanMenu" = "個人貸款";
+
+//Tax_Loan
+"LTTaxLoanTitle" = "申請,優惠,還款表,計算機";
+"LTTaxLoanTab" = "優惠,申請,計算機,查詢";
+"LTPICStatement_link"="http://www.hkbea.com/pdf/tc/hkbea-privacy-policy-declaration.pdf";
+
+"LTTax Loan"="「優悠稅悅」稅務貸款";
+"LTHome (Tax)"="貸款主頁";
+"LTApplication"="申請";
+"LTLoan Offers"="優惠";
+"LTRepayment Table"="還款表";
+"LTCalculator"="計算機";
+"LTTaxLoanEnquiryTitle"="查詢";
+"LTTaxLoanCalcTag00"="計算結果(只作參考)。";
+"LTTaxLoanCalcTag08"="安排費：";
+"LTTaxLoanCalcTag04"="每月平息:";
+"LTAPR:"="實際年利率:";
+"LTTaxLoanCalcTag06"="每月還款:\n(港幣)";
+"LTTaxLoanCalcTag07"="總還款:\n(港幣)";
+"LTReset"="重設";
+"LTApply"="申請";
+"LTTaxLoanApplicationTag00"="特快申請";
+"LTTaxLoanApplicationTag01"="請填妥以下貸款資料。我們的客戶服務員將會與你聯絡。";
+"LTMr.,Miss,Ms.,Mrs."="先生,小姐,女士,太太";
+"LTName:"="姓名:";
+"LTMobile no.:"="流動電話號碼:";
+"LTEmail address:"="電郵地址:";
+"LTLoan amount (HK$):"="貸款金額(港幣):";
+"LTLoan plan:"="貸款計劃:";
+"LTRepayment Period:"="還款期:";
+"LTGeneral Customers"="一般客戶";
+"LTPrivileged Customers"="特選客戶";
+"LT12 Months"="12 個月";
+"LT18 Months"="18 個月";
+"LT24 Months"="24 個月";
+"LT36 Months"="36 個月";
+"LT48 Months"="48 個月";
+"LTTaxLoanCallApply"="按「通話」立即申請";
+"LTTaxLoanCallEnquiry"="2211 1168";
+"LTTaxLoanApplyHotline"="tel:22111811";
+"LTConsumerFinanceServicesHotline"="tel:22111168";
+"LTCall now"="立即致電";
+"LTClear"="清除";
+"LTSubmit"="提交";
+"LTTaxLoanApplicationAlertMsg01"="請按空格確定你已參閱及明白東亞銀行的個人資料(私隱)條例 - 個人資料收集(客戶)聲明。";
+"LTTaxLoanApplicationAlertMsg04"="請輸入你的姓名。";
+"LTTaxLoanApplicationAlertMsg05"="請輸入你的流動電話號碼。";
+"LTTaxLoanApplicationAlertMsg06"="對不起，請輸入有效的流動電話號碼。";
+"LTTaxLoanApplicationAlertMsg07"="請輸入你的電郵地址。";
+"LTTaxLoanApplicationAlertMsg08"="對不起，請輸入正確的電郵地址。";
+"LTTaxLoanApplicationAlertMsg09"="請輸入貸款金額。";
+"LTTaxLoanApplicationAlertMsg03"="對不起，最高貸款金額為港幣 1,000,000元。";
+"LTTaxLoanApplicationAlertMsg02"="對不起，最低貸款金額為港幣 5,000元。";
+"LTTaxLoanApplicationResultMsg01"="我們的客戶服務員將於下一個工作天聯絡你。";
+"LTTaxLoanApplicationResultMsg02"="我們的客戶服務主任將於今天內聯絡你。";
+"LTTaxLoanApplicationResultTag00"="申請已被送出";
+"LTTaxLoanApplicationResultTag02"="感謝你的申請。";
+"LTTaxLoanApplicationResultTag01"="參考編號 :";
+"LTHKG"="香港時間";
+"LTyear"="年";
+"LTmonth"="月";
+"LTday"="日";
+"LTName:"="姓名:";
+"LTMobile no.:"="流動電話號碼:";
+"LTEmail address:"="電郵地址:";
+"LTLoan details :"="貸款詳情:";
+"LTMessage :"="訊息:";
+"LTApplication rejected"="申請已被拒絕";
+"LTTaxLoanEnquiryTag00"="稅務貸款熱線";
+"LTService hours:"="服務時間 :";
+"LTService hours detail"="星期一至五        上午10時至下午9時\n星期六               上午10時至下午5時\n(公眾假期除外)";
+"LTTaxLoanEnquiryTag03"="(選擇語言後按3字)";
+"LTTaxLoanEnquiryTag04"="電郵查詢";
+"LTTaxLoanEnquiryTagEmail"="電郵我們";
+"LTTaxLoanEnquiryEmail" = "lebdcc@hkbea.com";
+"LTTaxLoanEnquiryEmailTitle"="「優悠稅悅」稅務貸款查詢(透過東亞銀行iPhone應用程式發出)";
+"LTTaxLoanApplicationTag08"="本人證實本人已參閱及明白東亞銀行的個人資料(私隱)條例 - ";
+"LTTaxLoanApplicationPICStatement"="個人資料收集(客戶)聲明。";
+"LTHK$"="港幣";
+"LTTaxLoanDetail_part1_yuan"="元";
+"LTTaxLoanDetail_part2"="還款期";
+"LTTaxLoanDetail_part3"="個月";
+"LTremark" = "備註 \n\n* 特選客戶包括東亞銀行私人銀行/顯卓理財客戶、東亞銀行自動轉賬支薪客戶、東亞銀行樓宇按揭貸款客戶、東亞銀行個人貸款客戶、東亞銀行信用卡客戶、東亞銀行存款賬戶客戶、指定之專業人士、公務員、醫院管理局及大學全職職員。專業人士包括會計師、建築師、牙醫、醫生、工程師、律師及測量師。本行保留對「特選客戶」定義的最終詮釋權。";
+//New Branch Banner
+"New Opening"="New Opening";
+"Open on"="Open on";
+
+//StockGameCentre
+"StockGameCentre.lable"="喝得FUN\n二重賞";
+"StockGameCentre.title"="BEA Fun Facebook 專頁﹣\n喝得FUN二重賞";
+
+//Consumer Loan
+"consumerloan.offers.title"="個人貸款";
+"consumerloan.common.tabName" = "優惠,申請,附近,查詢";
+"consumerloan.enquires.EmailTitle"="個人貸款查詢（透過東亞銀行iPhone應用程式發出）";
+
+//MKGeCard
+"MKGeCard.label"="節日祝福\n   ";
+"MKGeCard.title"="節日祝福";
+
+//Instalment Loan
+"instalmentLoan.title"="「息慳錢」分期貸款";
+"instalmentLoan.tab" = "優惠,申請,計算機,查詢";
+"instalmentLoan.CallApply"="按「通話」立即申請";
+"instalmentLoan.ApplyHotline"="tel:22111811";
+
+//SGG
+"SGG.name"="「搵」著數\n 贏相機";
+"SGG.header"="「搵」著數，贏相機";
+"SGG.ShareAppSubject"="請即參加「搵」著數，贏相機遊戲";
+"SGG.ShareAppBody"="你好！\n\n想緊貼最新優惠兼贏巨獎，即上東亞銀行iPhone app參加「搵」著數，贏相機遊戲！\n\n由即日起至2012年4月22日，「搵」到現有優惠並答對1條簡單問題，即有機會贏取豐富禮品。\n\n立即登入iTunes App Store搜尋「BEA」或「東亞銀行」，免費下載!";
+
+//Insurance
+"insurance.name"="保險\n  ";
+"insurance.common.tabName" = "產品,最新消息,投保,查詢";
+"insurance.title.products"="保險\n產品";
+"insurance.title.news"="保險\n最新消息";
+"insurance.title.application"="保險\n投保";
+"insurance.title.enquires"="保險\n查詢";
+"insurance.enquires.EmailTitle"="保險查詢（透過東亞銀行iPhone應用程式發出）";
+"insurance.detail.caption" = "立即報價及投保";
+
+//CyberFundSearch
+"cyberfundsearch.tabbar.title"="主頁,基金搜尋,我的基金,十大表現基金,基金新聞";
+"cyberfundsearch.title"="基金搜尋\n   ";
+"cyberfundsearch.name"="基金搜尋\n   ";
+"cyberfundsearch.btn.understood"="本人已參閱並明白上述重要資料。";
+"cyberfundsearch.btn.Cancel"="取消";
+"cyberfundsearch.Disclaimer.title"="重要事項";
+"cyberfundsearch.Disclaimer.text"="重 要 聲 明 \n\n投 資 涉 及 風 險 。 基 金 的 單 位 價 格 可 升 可 跌 。 基 金 產 品 的 組 合 需 承 受 市 場 波 動 及 買 賣 投 資 有 其 內 在 風 險 。 基 金 產 品 的 過 往 表 現 不 可 作 為 其 未 來 表 現 之 指 標 。 \n\n投 資 於 新 興 市 場 需 承 受 高 於 一 般 的 投 資 風 險 ， 例 如 ， 可 能 出 現 的 外 匯 利 率 波 動 、 以 及 政 治 與 經 濟 之 不 明 朗 因 素 。 投 資 收 益 並 非 以 港 元 或 美 元 計 算 者 ， 需 承 受 匯 率 波 動 的 風 險 。 若 干 基 金 可 能 買 賣 衍 生 工 具 以 達 到 其 投 資 目 標 ， 因 而 或 會 導 致 其 資 產 淨 值 波 動 較 大 ， 而 且 所 涉 及 風 險 可 能 較 傳 統 證 券 為 高 。 投 資 者 有 可 能 會 損 失 其 已 投 資 於 有 關 基 金 的 部 分 或 全 部 款 項 。 \n\n投 資 者 在 作 出 任 何 投 資 決 定 前 ， 應 參 閱 所 有 有 關 基 金 之 銷 售 文 件 包 括 基 金 產 品 說 明 書 ， 以 取 得 包 括 風 險 因 素 在 內 的 詳 細 資 料 。 各 分 行 均 備 有 關 基 金 之 發 行 章 程 的 印 刷 文 本 供 投 資 者索 閱 。 \n\n投 資 決 定 是 由 閣 下 自 行 作 出 的 ， 但 閣 下 不 應 投 資 在 有 關 基 金 產 品 ， 除 非 中 介 人 於 銷 售 有 關 基 金 產 品 時 已 向 閣 下 解 釋 經 考 慮 閣 下 的 財 務 情 況 、 投 資 經 驗 及 目 標 後 ， 有 關 基 金 產 品 是 適 合 閣 下 的 。 \n\n投 資 者 不 應 只 單 憑 本 網 頁 而 作 出 投 資 決 定 。  \n\n免 責 聲 明（東 亞 銀 行 有 限 公 司） \n\n此 服 務 所 提 供 的 資 料 及 訊 息 （ 「 資 料 」 ） 只 供 個 人 作 非 商 業 用 途 及 僅 供 參 考 之 用 ， 客 戶 不 得 以 任 何 方 式 將 任 何 資 料 發 放 予 他 人 。 東 亞 銀 行 有 限 公 司 （ 「 本 行 」 ） 已 盡 力 確 保 所 提 供 的 資 料 乃 屬 準 確 及 可 靠 ， 但 對 其 準 確 性 及 可 靠 性 概 不 作 出 任 何 保 證 （ 不 論 明 示 或 暗 示 ） ， 亦 不 會 就 由 於 該 等 資 料 任 何 不 準 確 或 遺 漏 而 導 致 、 引 起 或 相 關 之 損 失 或 損 害 承 擔 任 何 責 任 （ 不 論 屬 侵 權 或 合 約 或 其 他 方 面 ） 。 \n\n凡 屬 第 三 者 資 料 供 應 商 所 提 供 之 資 料 ， 乃 由 本 行 在 日 常 運 作 過 程 中 以 「如 原 狀」 情 況 轉 載 並 祗 供 參 考 之 用 。 惟 基 於 操 作 理 由 ， 本 服 務 所 提 供 的 某 些 基 金 資 料 或 與 相 關 基 金 公 司 所 提 供 的 有 差 距 。 除 前 述 外 ， 本 行 及 其 僱 員 、 代 理 人 並 無 對 該 等 資 料 的 內 容 進 行 設 定 、 揀 選 、 增 補 、 修 改 或 作 其 他 方 式 的 控 制 ， 及 不 會 對 資 料 的 準 確 性 負 責 或 認 可 。 \n\n倘 在 任 何 地 區 向 任 何 人 士 進 行 投 資 的 要 約 或 遊 說 乃 屬 違 法 ， 則 資 料 不 應 視 為 向 該 等 地 區 進 行 該 等 要 約 或 遊 說 。 \n\n資 料 不 擬 提 供 作 為 專 業 意 見 ， 亦 不 應 賴 以 作 為 專 業 意 見 。 所 有 可 得 資 料 之 人 士 ， 均 被 視 為 基 於 個 人 的 判 斷 作 出 投 資 及 交 易 的 決 定 ( 包 括 產 品 合 適 與 否 )， 並 已 完 全 明 白 及 能 承 擔 及 願 意 承 擔 存 在 的 風 險 ， 在 其 認 為 需 要 時 會 尋 求 適 當 之 獨 立 專 業 意 見 。 \n\n單 位 價 格 可 以 是 資 產 淨 值 或 買 入 價 ， 而 資 產 淨 值 / 買 入 價 不 等 同 於 認 購 價 ， 並 且 不 包 括 認 購 費 。 有 關 基 金 單 位 價 格 均 以 該 基 金 單 位 貨 幣 或 其 指 定 交 易 貨 幣 計 算 。 請 注 意 單 位 價 格 可 以 是 其 資 產 淨 值 或 其 買 入 價 ， 客 戶 應 只 用 作 參 考 用 途 。 如 該 基 金 於 同 一 個 交 易 日 內 有 多 個 交 易 時 段 ， 只 會 顯 示 最 新 的 單 位 價 格 。 任 何 基 金 的 最 終 認 購 價 格 將 視 乎 其 交 易 日 基 金 單 位 價 格 及 其 認 購 費 用 。 \n\n免 責 聲 明（環 富 通 有 限 公 司）\n\n環 富 通 及 其 他 資 料 供 應 商 盡 力 確 保 所 提 供 資 料 準 確 及 可 靠 ， 惟 對 其 準 確 性 及 可 靠 性 概 不作 出 任 何 保 證 ， 亦 毋 須 就 由 於 任 何 不 準 確 或 遺 漏 而 導 致 之 損 失 或 損 害 負 責 （ 不 論 屬 侵 權 或 合 約 或 其 他 方 面 ）。\n\n\n\n\n\n\n\n\n\n\n\n";
+
+"list.repaymentPoriod.number"="6,12,18,24,36,48";
+"list.repaymentPoriod.name"="6個月,12個月,18個月,24個月,36個月,48個月";
+
+"rotatemenu.texts"="生活,銀行服務,財富";
+"rotatemenu.atmsearch.texts"="自動櫃員機,顯卓理財中心,i-理財中心,分行";
+
+"Rate.Note.menu"="現鈔\n兌換率";
+"Rate.TT.menu"="電匯\n兌換率";
+"Rate.Prime.menu"="東亞銀行\n最優惠利率";
+
+"tag_p2p_setting"="設定";
+"tag_p2p_main"="主頁";
+"tag_p2p_records"="記錄";
+
+"version" = "版本";
+"Copyright"="© 2014 版權由東亞銀行有限公司擁有。未經許可，不得轉載。";
+
+"Please enable location services to find nearby outlets."="請啟動定位服務搜尋附近分行/自動櫃員機";
+"Please enable location services to find nearby offers."="請啟動定位服務搜尋附近優惠";
+"Location_setting_nearby_atm" = "如欲使用「附近」功能，請於\n「設定>隱私」開啓定位服務。";
+
+"Notification" = "通知";
+"Notification_on" = "開";
+"Notification_off" = "關";

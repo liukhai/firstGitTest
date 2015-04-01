@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ATMNearBySearchDistCMSViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='73' id='74' property='btnNearby'/>
+                <outlet destination='7' id='10' property='table_view'/>
+                <outlet destination='77' id='82' property='title_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='77' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Select a location' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='280' x='20' y='127'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <tableView bounces='NO' bouncesZoom='NO' clearsContextBeforeDrawing='NO' clipsSubviews='YES' contentMode='scaleToFill' id='7' opaque='NO' rowHeight='44' sectionFooterHeight='22' sectionHeaderHeight='22' separatorStyle='none' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' style='plain'>
+                    <rect height='274' key='frame' width='298' x='11' y='157'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <connections>
+                        <outlet destination='-1' id='8' property='dataSource'/>
+                        <outlet destination='-1' id='9' property='delegate'/>
+                    </connections>
+                </tableView>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='73' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='20' key='frame' width='91' x='219' y='451'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state key='normal' title='nearby'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='75' selector='nearbyButtonPressed:'/>
+                    </connections>
+                </button>
+                <imageView clipsSubviews='YES' contentMode='center' id='78' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='2' key='frame' width='320' x='0.0' y='439'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='79' image='arrow_orange_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='14' key='frame' width='14' x='296' y='454'/>
+                    <autoresizingMask flexibleMinX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='center' id='81' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='1' key='frame' width='298' x='11' y='156'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='80' image='borderlistwithborder.9.png' userInteractionEnabled='NO'>
+                    <rect height='315' key='frame' width='300' x='10' y='116'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='26' name='arrow_orange_right.png' width='24'/>
+        <image height='3' name='borderlist_line.png' width='754'/>
+        <image height='848' name='borderlistwithborder.9.png' width='600'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

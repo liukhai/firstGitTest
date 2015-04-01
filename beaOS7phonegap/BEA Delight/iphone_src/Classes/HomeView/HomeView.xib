@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='HomeViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='49' id='50' property='badge0'/>
+                <outlet destination='51' id='56' property='badge1'/>
+                <outlet destination='52' id='57' property='badge2'/>
+                <outlet destination='53' id='60' property='badge3'/>
+                <outlet destination='54' id='61' property='badge4'/>
+                <outlet destination='55' id='62' property='badge5'/>
+                <outlet destination='65' id='66' property='bottombanner'/>
+                <outlet destination='5' id='20' property='button0'/>
+                <outlet destination='6' id='21' property='button1'/>
+                <outlet destination='7' id='22' property='button2'/>
+                <outlet destination='9' id='23' property='button3'/>
+                <outlet destination='10' id='24' property='button4'/>
+                <outlet destination='18' id='25' property='button5'/>
+                <outlet destination='b7l-yb-1to' id='Y3h-5k-Hm7' property='creditCardTitle'/>
+                <outlet destination='26' id='37' property='label0'/>
+                <outlet destination='31' id='38' property='label1'/>
+                <outlet destination='32' id='39' property='label2'/>
+                <outlet destination='33' id='40' property='label3'/>
+                <outlet destination='34' id='41' property='label4'/>
+                <outlet destination='35' id='42' property='label5'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask key='autoresizingMask'/>
+            <subviews>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='top' contentVerticalAlignment='center' id='5' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='110' key='frame' width='86' x='14' y='239'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='44' minX='0.0' minY='0.0'/>
+                    <state image='creditcard_icon_yearroundoffers.png' key='normal'>
+                        <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='11' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='6' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='93' key='frame' width='86' x='217' y='128'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='27' minX='0.0' minY='0.0'/>
+                    <state image='creditcard_icon_cashinhand.png' key='normal'>
+                        <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='12' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='7' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='99' key='frame' width='86' x='16' y='128'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='33' minX='0.0' minY='0.0'/>
+                    <state image='creditcard_icon_promotions.png' key='normal'>
+                        <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='13' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='9' lineBreakMode='middleTruncation' opaque='NO' tag='3'>
+                    <rect height='110' key='frame' width='86' x='114' y='239'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='44' minX='0.0' minY='0.0'/>
+                    <state image='creditcard_icon_rewards.png' key='normal'>
+                        <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='16' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='10' lineBreakMode='middleTruncation' opaque='NO' tag='4'>
+                    <rect height='103' key='frame' width='86' x='116' y='128'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='37' minX='0.0' minY='0.0'/>
+                    <state image='creditcard_icon_concert.png' key='normal'>
+                        <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='17' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='18' lineBreakMode='middleTruncation' opaque='NO' tag='5'>
+                    <rect height='110' key='frame' width='86' x='215' y='239'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <inset key='titleEdgeInsets' maxX='0.0' maxY='0.0' minX='18' minY='0.0'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='44' minX='0.0' minY='0.0'/>
+                    <state image='creditcard_icon_globepass.png' key='normal'>
+                        <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='19' selector='buttonPressed:'/>
+                    </connections>
+                </button>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='26' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='86' x='19' y='313'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <string key='text'>Year-round 
+Offers</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='31' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Card Loan' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='78' x='221' y='191'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='32' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Latest Promotions' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='22' y='191'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='33' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Spending &amp; Rewards' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='124' y='313'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='34' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='3' opaque='NO' text='Entertainment Offers &amp; Priority Booking' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='95' x='112' y='191'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='35' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='3' opaque='NO' text='GlobePass Offers' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='77' x='224' y='313'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='49' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='49' x='58' y='239'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='51' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='45' x='260' y='140'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='52' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='45' x='60' y='140'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='53' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='45' x='162' y='239'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='54' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='45' x='160' y='140'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='55' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='45' x='262' y='239'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='65' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='63' key='frame' width='320' x='0.0' y='397'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='CardFace_bottombanner.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' contentMode='left' horizontalHuggingPriority='251' id='b7l-yb-1to' lineBreakMode='tailTruncation' opaque='NO' text='Credit Card' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='26' key='frame' width='93' x='20' y='80'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='152' name='CardFace_bottombanner.png' width='768'/>
+        <image height='27' name='badge_1.png' width='45'/>
+        <image height='200' name='creditcard_icon_cashinhand.png' width='240'/>
+        <image height='200' name='creditcard_icon_concert.png' width='240'/>
+        <image height='200' name='creditcard_icon_globepass.png' width='240'/>
+        <image height='200' name='creditcard_icon_promotions.png' width='240'/>
+        <image height='200' name='creditcard_icon_rewards.png' width='240'/>
+        <image height='200' name='creditcard_icon_yearroundoffers.png' width='240'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

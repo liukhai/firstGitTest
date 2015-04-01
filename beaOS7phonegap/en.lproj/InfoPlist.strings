@@ -1,0 +1,11 @@
+/* 
+ InfoPlist.strings
+ BEA
+ 
+ Created by Algebra Lo on 10年6月30日.
+ Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+//"CFBundleDisplayName" = "UAT";
+//"CFBundleDisplayName" = "BEA";
+"CFBundleDisplayName" = "BEA(R)";

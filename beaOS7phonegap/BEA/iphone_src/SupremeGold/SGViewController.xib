@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13E28' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='SGViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='wa2-Fu-DTu' id='ddc-gz-aWG' property='tabBar'/>
+                <outlet destination='l49-IO-3AA' id='a9I-fd-5zl' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clipsSubviews='YES' contentMode='scaleToFill' id='l49-IO-3AA'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </view>
+        <tabBar clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='wa2-Fu-DTu'>
+            <rect height='49' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMinY='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <items>
+                <tabBarItem id='eT1-MQ-h8z' image='offers_200dpi.png' title='Loan Offers'/>
+                <tabBarItem id='0D5-Zq-d4i' image='application_200dpi.png' tag='1' title='Application'/>
+                <tabBarItem id='M7E-FJ-CBy' image='tabbar_nearby.png' tag='2' title='Nearby'/>
+                <tabBarItem id='733-BO-pH9' image='enquiry_200dpi.png' tag='3' title='Enquiry'/>
+            </items>
+        </tabBar>
+    </objects>
+    <resources>
+        <image height='27' name='application_200dpi.png' width='27'/>
+        <image height='27' name='enquiry_200dpi.png' width='27'/>
+        <image height='27' name='offers_200dpi.png' width='27'/>
+        <image height='27' name='tabbar_nearby.png' width='27'/>
+    </resources>
+</document>

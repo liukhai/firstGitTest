@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13F34' targetRuntime='iOS.CocoaTouch' toolsVersion='6250' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6244'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='CouponUseViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='5Mn-ef-Pe9' id='0Um-IK-d1L' property='btn_back'/>
+                <outlet destination='mKm-mD-x84' id='dCz-S0-hvI' property='btn_close'/>
+                <outlet destination='pwP-D9-Cnq' id='hJq-9V-PZw' property='btn_useNow'/>
+                <outlet destination='lvI-8P-l13' id='xaB-Lu-3UP' property='imv_icon'/>
+                <outlet destination='nh2-vN-bVs' id='5Vv-SN-8yp' property='imv_icon2'/>
+                <outlet destination='Dkb-Q6-rrp' id='t01-Hz-wpO' property='lbl_expiryDate'/>
+                <outlet destination='weS-7U-aJa' id='A1h-5N-qNx' property='lbl_remark'/>
+                <outlet destination='G3k-kZ-2zX' id='wHK-c0-tH4' property='lbl_subTitle'/>
+                <outlet destination='VSn-nG-Fk6' id='4JQ-WL-dy1' property='lbl_title'/>
+                <outlet destination='vYw-Ou-qi7' id='fng-de-rxF' property='scv_noteContent'/>
+                <outlet destination='Lrg-kA-bKy' id='QOJ-S2-8gB' property='sktbv_stepNotes'/>
+                <outlet destination='B4I-fb-4TH' id='fwY-8Z-woK' property='txv_remark'/>
+                <outlet destination='tyc-Tz-Z29' id='kiQ-24-6k5' property='view'/>
+                <outlet destination='ajO-R6-gDw' id='GvK-M0-lwr' property='view_notes'/>
+                <outlet destination='t4c-qe-od8' id='jXJ-bX-PTR' property='view_remark'/>
+                <outlet destination='ODv-mP-VRf' id='0yH-5l-NV5' property='viewrc_notes'/>
+                <outlet destination='Czb-kS-9CY' id='jhL-5Y-GsR' property='viewrc_steps'/>
+                <outlet destination='saJ-cV-LSM' id='qef-pf-12z' property='wv_backgroundLogin'/>
+                <outlet destination='KUL-uW-Eaa' id='ty1-3T-s6X' property='wv_notes'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='ajO-R6-gDw'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <view alpha='0.5' contentMode='scaleToFill' id='vvV-4a-CMn'>
+                    <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='0.33333333333333331'/>
+                </view>
+                <view contentMode='scaleToFill' id='AKg-Oq-PJ9'>
+                    <rect height='417' key='frame' width='280' x='20' y='49'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <subviews>
+                        <webView contentMode='scaleToFill' id='KUL-uW-Eaa'>
+                            <rect height='389' key='frame' width='269' x='6' y='28'/>
+                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+                        </webView>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='mKm-mD-x84' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='99' x='88' y='378'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_orange_big.png' key='normal' title='Close'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='WjF-lg-qZX' selector='close_onTouch:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange_big.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_big_new.png'/></userDefinedRuntimeAttributes></button>
+                    </subviews>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </view>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <nil key='simulatedStatusBarMetrics'/>
+        </view>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='tyc-Tz-Z29'>
+            <rect height='548' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='lvI-8P-l13' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='125' key='frame' width='280' x='20' y='80'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='nh2-vN-bVs' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='66' key='frame' width='66' x='20' y='213'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='VSn-nG-Fk6' lineBreakMode='tailTruncation' opaque='NO' text='Pacific Coffee Company Limited' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='21' key='frame' width='206' x='94' y='213'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='boldSystem'/>
+                    <color alpha='1' blue='0.43137258290000002' colorSpace='deviceRGB' green='0.41176474089999998' key='textColor' red='0.86666673419999996'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='G3k-kZ-2zX' lineBreakMode='tailTruncation' numberOfLines='2' opaque='NO' text='1 short Size e-Coffee voucher 8oz' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='36' key='frame' width='187' x='94' y='228'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='Dkb-Q6-rrp' lineBreakMode='tailTruncation' opaque='NO' text='Bonus Points required: 6,000' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='18' key='frame' width='187' x='94' y='261'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.66666666666666663'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <view contentMode='scaleToFill' hidden='YES' id='t4c-qe-od8'>
+                    <rect height='88' key='frame' width='280' x='20' y='252'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <view contentMode='scaleToFill' id='ODv-mP-VRf'>
+                            <rect height='30' key='frame' width='280' x='0.0' y='20'/>
+                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                        </view>
+                        <view contentMode='scaleToFill' id='Czb-kS-9CY'>
+                            <rect height='30' key='frame' width='280' x='0.0' y='58'/>
+                            <autoresizingMask key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                        </view>
+                    </subviews>
+                    <color alpha='0.11' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='backgroundColor' red='0.0'/>
+                </view>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='pwP-D9-Cnq' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='27' key='frame' width='100' x='200' y='501'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                    <state backgroundImage='btn_orange.png' key='normal' title='Use Now'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='U5A-pW-x1J' selector='useNow_onTouch:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_new.png'/></userDefinedRuntimeAttributes></button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='5Mn-ef-Pe9' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='27' key='frame' width='100' x='20' y='501'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                    <state backgroundImage='btn_back_grey.png' key='normal' title='Back'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='ekR-ZI-5Ll' selector='back_onTouch:'/>
+                    </connections>
+                </button>
+                <scrollView bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' id='vYw-Ou-qi7' multipleTouchEnabled='YES'>
+                    <rect height='206' key='frame' width='280' x='20' y='287'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <subviews>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='weS-7U-aJa' lineBreakMode='tailTruncation' opaque='NO' text='Remark:' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='22' key='frame' width='261' x='10' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='16' type='boldSystem'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='B4I-fb-4TH' multipleTouchEnabled='YES' scrollEnabled='NO' selectable='NO'>
+                            <rect height='23' key='frame' width='261' x='10' y='30.000000319540732'/>
+                            <autoresizingMask flexibleMinY='YES' heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.33333333333333331'/>
+                            <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <tableView alwaysBounceVertical='YES' bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' customClass='SKSTableView' id='Lrg-kA-bKy' rowHeight='40' sectionFooterHeight='22' sectionHeaderHeight='22' separatorStyle='none' showsSelectionImmediatelyOnTouchBegin='NO' style='plain'>
+                            <rect height='1024' key='frame' width='280' x='0.0' y='61'/>
+                            <autoresizingMask flexibleMinY='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='separatorColor' white='0.0'/>
+                        </tableView>
+                    </subviews>
+                    <color catalog='System' colorSpace='catalog' key='backgroundColor' name='controlHighlightColor'/>
+                </scrollView>
+                <webView contentMode='scaleToFill' hidden='YES' id='saJ-cV-LSM'>
+                    <rect height='469' key='frame' width='320' x='0.0' y='79'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='-1' id='61D-OA-1RW' property='delegate'/>
+                    </connections>
+                </webView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='62' name='btn_back_grey.png' width='194'/>
+        <image height='70' name='btn_orange.png' width='305'/>
+        <image height='44' name='btn_orange_big.png' width='180'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

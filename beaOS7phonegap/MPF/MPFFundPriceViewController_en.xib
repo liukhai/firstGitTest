@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='MPFFundPriceViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='36' id='57' property='NAV_label'/>
+                <outlet destination='9' id='bXh-i5-B70' property='backgroundImg1'/>
+                <outlet destination='45' id='snv-R6-P1s' property='backgroundImg2'/>
+                <outlet destination='39' id='40' property='bt_mybalance'/>
+                <outlet destination='43' id='54' property='btnPageNext'/>
+                <outlet destination='42' id='53' property='btnPagePrev'/>
+                <outlet destination='12' id='17' property='fund_table'/>
+                <outlet destination='10' id='56' property='fundname_label'/>
+                <outlet destination='5' id='58' property='labTitle'/>
+                <outlet destination='6' id='fZb-u2-oAa' property='labTitleBackImg'/>
+                <outlet destination='59' id='60' property='note_textview'/>
+                <outlet destination='51' id='55' property='pageControl'/>
+                <outlet destination='11' id='18' property='scroll_view'/>
+                <outlet destination='41' id='44' property='scroll_view_scheme_pad'/>
+                <outlet destination='32' id='33' property='text_view'/>
+                <outlet destination='23' id='24' property='time_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='367' key='frame' width='320' x='0.0' y='64'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView contentMode='scaleToFill' id='45' userInteractionEnabled='NO'>
+                    <rect height='113' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </imageView>
+                <imageView contentMode='scaleToFill' id='6' image='table_header_bg.png' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='left' id='5' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <string key='text'>MPF 
+Latest Fund Price</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='17'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='shadowColor' white='0.33333333333333331'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <imageView contentMode='scaleToFill' id='9' image='table_header_bg2.png' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='320' x='0.0' y='81'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='10' lineBreakMode='wordWrap' minimumFontSize='10' opaque='NO' text='Constituent Fund' userInteractionEnabled='NO'>
+                    <rect height='17' key='frame' width='117' x='13' y='88'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Arial' key='fontDescription' name='Arial-BoldMT' pointSize='14'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='36' lineBreakMode='wordWrap' minimumFontSize='10' opaque='NO' text='NAV per unit (HKD)' userInteractionEnabled='NO'>
+                    <rect height='17' key='frame' width='148' x='172' y='88'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Arial' key='fontDescription' name='Arial-BoldMT' pointSize='14'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='23' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='As at ' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='23' key='frame' width='320' x='0.0' y='309'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Arial' key='fontDescription' name='Arial-BoldMT' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='39' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='187' x='66' y='332'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='apply_online_button.png' key='normal' title='My Balance'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='42' lineBreakMode='middleTruncation' opaque='NO' tag='-1'>
+                    <rect height='34' key='frame' width='36' x='0.0' y='46'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='stick_left.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='49' selector='doPrev:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='43' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='34' key='frame' width='36' x='284' y='46'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='stick_right.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='50' selector='doNext:'/>
+                    </connections>
+                </button>
+                <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='41' multipleTouchEnabled='YES'>
+                    <rect height='34' key='frame' width='250' x='36' y='46'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <connections>
+                        <outlet destination='-1' id='48' property='delegate'/>
+                    </connections>
+                </scrollView>
+                <pageControl contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='51' numberOfPages='3' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='36' key='frame' width='37' x='141' y='58'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <connections>
+                        <action destination='-1' eventType='valueChanged' id='52' selector='changePage'/>
+                    </connections>
+                </pageControl>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+            <simulatedTabBarMetrics key='simulatedBottomBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='11' multipleTouchEnabled='YES'>
+            <rect height='198' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <tableView alwaysBounceVertical='YES' bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' id='12' rowHeight='44' sectionFooterHeight='22' sectionHeaderHeight='22' separatorStyle='default' style='plain' userLabel='Table View'>
+                    <rect height='198' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <inset key='separatorInset' maxX='0.0' maxY='0.0' minX='0.0' minY='0.0'/>
+                    <connections>
+                        <outlet destination='-1' id='22' property='dataSource'/>
+                        <outlet destination='-1' id='20' property='delegate'/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <simulatedOrientationMetrics key='simulatedOrientationMetrics' orientation='landscapeRight'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </scrollView>
+        <view contentMode='scaleToFill' id='32' userLabel='View'>
+            <rect height='2000' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <textView clipsSubviews='YES' contentMode='scaleToFill' id='59' userInteractionEnabled='NO'>
+                    <rect height='128' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                </textView>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='34' name='apply_online_button.png' width='286'/>
+        <image height='39' name='stick_left.png' width='39'/>
+        <image height='39' name='stick_right.png' width='39'/>
+        <image height='45' name='table_header_bg.png' width='1'/>
+        <image height='28' name='table_header_bg2.png' width='1'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

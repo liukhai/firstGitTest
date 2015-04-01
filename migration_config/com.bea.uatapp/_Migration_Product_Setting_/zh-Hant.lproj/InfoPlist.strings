@@ -1,0 +1,12 @@
+/* 
+ InfoPlist.strings
+ BEA
+ 
+ Created by Algebra Lo on 10年6月30日.
+ Copyright 2010 __MyCompanyName__. All rights reserved.
+ */
+
+//"CFBundleDisplayName" = "東亞銀行";
+//"CFBundleDisplayName" = "東亞銀行(PP)";
+"CFBundleDisplayName" = "東亞銀行(U24)";
+//"CFBundleDisplayName" = "東亞銀行(U23)";

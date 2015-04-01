@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mtelItemsListRSS version="1.0">
+	<itemsInfo>
+		<status>1</status>
+		<language>1</language>
+		<lastupdated>2012-09-05 11:34:50</lastupdated>
+	</itemsInfo>
+	<items>
+		<item>
+			<token>favourites</token>
+			<name>Favourites </name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>myfavourites</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103510_menu_icon_favourites.png</icon>
+					<name>My Favourites </name>
+					<desc>See a list of your bookmarks</desc>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<token>highlight</token>
+			<name>Highlight</name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>sft</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-12-05/20121205062352_menu_icon_sitemap_stock.png</icon>
+					<name>Stock Watch &amp; Fast Trade </name>
+					<desc>Monitor your top picks, and make trades directly</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>creditcard</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-12-06/20121206060524_menu_icon_sitemap_creditcard.png</icon>
+					<name>Credit Card</name>
+					<desc>Get details of the latest credit card offers</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>mobilebanking</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120102708_menu_icon_sitemap_mobilebanking.png</icon>
+					<name>Mobile Banking</name>
+					<desc>Conduct your banking on the go
+                    </desc>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<token>banking</token>
+			<name>Banking</name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>loans</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120102844_menu_icon_banking_loans.png</icon>
+					<name>Consumer Loans </name>
+					<desc>See the latest offers and apply for a loan
+                        
+                    </desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>property</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120102833_menu_icon_banking_property.png</icon>
+					<name>Property Loan</name>
+					<desc>Apply for a mortgage loan and calculate repayments</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>insurance</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120102824_menu_icon_banking_insurance.png</icon>
+					<name>Insurance </name>
+					<desc>Browse our comprehensive insurance products</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>hotlines</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120102905_menu_icon_banking_hotlines.png</icon>
+					<name>Hotlines</name>
+					<desc>Browse the phonebook and call to make enquiries</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>privileges</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103054_menu_icon_banking_privileges.png</icon>
+					<name>Privileges </name>
+					<desc>Get details of the latest BEA offers</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>branchatm</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103125_menu_icon_banking_branchatm.png</icon>
+					<name>Branch/ATM </name>
+					<desc>Locate nearby BEA branches/ATMs via GPS</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>stocks</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2013-01-08/20130108102936_menu_icon_eas.png</icon>
+					<name>Stocks</name>
+					<desc>Place buy/sell orders and check your order/portfolio status</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>mpf</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120102853_menu_icon_banking_mpf.png</icon>
+					<name>MPF</name>
+					<desc>Get the latest information and check your account</desc>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<token>wealth</token>
+			<name>Wealth</name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>note</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-12-05/20121205062318_menu_icon_wealth_note.png</icon>
+					<name>Notes Exchange Rates</name>
+					<desc>Check the foreign currency notes exchange rates</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>tt</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-12-05/20121205062329_menu_icon_wealth_tt.png</icon>
+					<name>T/T Exchange Rates</name>
+					<desc>Check the foreign currency T/T exchange rates</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>lending</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-12-05/20121205062341_menu_icon_wealth_lending.png</icon>
+					<name>Lending Rates</name>
+					<desc>Check BEA's Prime Rates</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>eas</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-12-19/20121219104823_menu_icon_eas.png</icon>
+					<name>EAS</name>
+					<desc>Make trades and check your order status
+                    </desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>funds</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103211_menu_icon_wealth_funds.png</icon>
+					<name>Funds </name>
+					<desc>Check the latest fund prices</desc>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<token>lifestyle</token>
+			<name>Lifestyle</name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>ccp</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103441_menu_icon_lifestyle_creditcardprivileges.png</icon>
+					<name>Credit Card Latest Promotions</name>
+					<desc>Get details of the latest offers in town</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>rewards</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103406_menu_icon_lifestyle_rewards.png</icon>
+					<name>Rewards </name>
+					<desc>Access information on exclusive discounts </desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>ticketings</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103456_menu_icon_lifestyle_ticket.png</icon>
+					<name>Concert &amp; Movie Offers</name>
+					<desc>Obtain priority booking information for concerts</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>easyfund</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103340_menu_icon_lifestyle_easyfund.png</icon>
+					<name>"Cash in Hand"</name>
+					<desc>Apply now to put cash in your hands!</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>dining</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103258_menu_icon_lifestyle_dining.png</icon>
+					<name>Year-round Dining</name>
+					<desc>Get information on BEA Credit Card dining offers</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>shopping</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103308_menu_icon_lifestyle_shopping.png</icon>
+					<name>Year-round Shopping</name>
+					<desc>Get information on BEA Credit Card shopping offers</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>travel</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103322_menu_icon_lifestyle_travel.png</icon>
+					<name>Travel </name>
+					<desc>Apply for a Travel Protection Insurance plan</desc>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<token>importantnotice</token>
+			<name>Important Notice</name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>faq</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103521_menu_icon_importantnotice_faq.png</icon>
+					<name>Frequently Asked Questions </name>
+					<desc>Read FAQs on the BEA App</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>securitytips</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103532_menu_icon_importantnotice_securitytips.png</icon>
+					<name>Security Tips </name>
+					<desc>Read security tips to safeguard your usage</desc>
+				</subitem>
+			</subitems>
+		</item>
+		<item>
+			<token>setting</token>
+			<name>Settings</name>
+			<desc></desc>
+			<subitems>
+				<subitem>
+					<token>mobileservices</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103543_menu_icon_setting_mobileservice.png</icon>
+					<name>Mobile Services </name>
+					<desc>Set your phone number to use our mobile services</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>language</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103553_menu_icon_setting_language.png</icon>
+					<name>Language </name>
+					<desc>Choose your preferred language</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>defaultmainpage</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103608_menu_icon_setting_defaultmainpage.png</icon>
+					<name>Default Mainpage </name>
+					<desc>Choose your preferred main page</desc>
+				</subitem>
+			</subitems>
+			<subitems>
+				<subitem>
+					<token>notification</token>
+					<icon>http://hkbea.mtel.ws/java/bea/upload/menuicon/image/2012-11-20/20121120103618_menu_icon_setting_notification.png</icon>
+					<name>Notification </name>
+					<desc>Choose whether to receive notifications</desc>
+				</subitem>
+			</subitems>
+		</item>
+	</items>
+</mtelItemsListRSS>

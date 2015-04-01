@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13E28' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='SupremeGoldViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='qp4-fy-sCe' id='UXT-ug-XiY' property='navigationController'/>
+                <outlet destination='zYB-Lo-LJv' id='TTj-Wa-JqN' property='tabBar'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <navigationController autoresizesArchivedViewToFullSize='NO' id='qp4-fy-sCe' navigationBarHidden='YES' userLabel='Navigation Controller'>
+            <extendedEdge key='edgesForExtendedLayout'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <nil key='simulatedTopBarMetrics'/>
+            <nil key='simulatedBottomBarMetrics'/>
+            <simulatedOrientationMetrics key='simulatedOrientationMetrics'/>
+            <nil key='simulatedDestinationMetrics'/>
+            <navigationBar clipsSubviews='YES' contentMode='scaleToFill' id='Zyf-tF-Nlm' key='navigationBar' multipleTouchEnabled='YES' opaque='NO'>
+                <autoresizingMask key='autoresizingMask'/>
+                <color alpha='1' blue='0.22352941179999999' colorSpace='calibratedRGB' green='0.0039215686269999999' key='tintColor' red='0.82745098039999998'/>
+            </navigationBar>
+            <viewControllers>
+                <viewController customClass='RootViewController' id='O8l-P9-ZSF' nibName='RootViewController'>
+                    <extendedEdge key='edgesForExtendedLayout'/>
+                    <navigationItem id='J32-eI-9sM' key='navigationItem'>
+                        <nil key='title'/>
+                    </navigationItem>
+                    <nil key='simulatedStatusBarMetrics'/>
+                    <nil key='simulatedTopBarMetrics'/>
+                    <nil key='simulatedBottomBarMetrics'/>
+                    <simulatedOrientationMetrics key='simulatedOrientationMetrics'/>
+                    <nil key='simulatedDestinationMetrics'/>
+                </viewController>
+            </viewControllers>
+        </navigationController>
+        <tabBar clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='zYB-Lo-LJv'>
+            <rect height='49' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMinY='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <items>
+                <tabBarItem id='Dx8-ga-KNu' image='offers_200dpi.png' title='Loan Offers'/>
+                <tabBarItem id='PcW-Jl-Yli' image='application_200dpi.png' tag='1' title='Application'/>
+                <tabBarItem id='rrk-yO-yFz' image='tabbar_nearby.png' tag='2' title='Nearby'/>
+                <tabBarItem id='PWZ-gk-pw7' image='enquiry_200dpi.png' tag='3' title='Enquiry'/>
+            </items>
+        </tabBar>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='j48-sF-XnK'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='27' name='application_200dpi.png' width='27'/>
+        <image height='27' name='enquiry_200dpi.png' width='27'/>
+        <image height='27' name='offers_200dpi.png' width='27'/>
+        <image height='27' name='tabbar_nearby.png' width='27'/>
+    </resources>
+</document>

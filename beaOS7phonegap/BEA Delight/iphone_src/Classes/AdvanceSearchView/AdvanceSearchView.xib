@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6250' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6244'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='AdvanceSearchViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='51' id='52' property='cuisine'/>
+                <outlet destination='36' id='54' property='cuisine_cell'/>
+                <outlet destination='50' id='69' property='cuisine_label'/>
+                <outlet destination='60' id='64' property='dining_offers'/>
+                <outlet destination='35' id='41' property='district_cell'/>
+                <outlet destination='GZm-Lz-ThS' id='xdi-ud-lhY' property='img0'/>
+                <outlet destination='14j-xB-jz6' id='gLz-HZ-XJ3' property='img1'/>
+                <outlet destination='72' id='AZG-Y0-AM6' property='img2'/>
+                <outlet destination='73' id='ioJ-GS-gJ0' property='img3'/>
+                <outlet destination='37' id='42' property='keywords'/>
+                <outlet destination='34' id='40' property='keywords_cell'/>
+                <outlet destination='45' id='46' property='location'/>
+                <outlet destination='43' id='47' property='location_label'/>
+                <outlet destination='9' id='57' property='search'/>
+                <outlet destination='61' id='65' property='shopping_offers'/>
+                <outlet destination='75' id='HLh-jS-m0v' property='tableBackImage'/>
+                <outlet destination='30' id='31' property='table_view'/>
+                <outlet destination='4' id='66' property='title_label'/>
+                <outlet destination='Uij-5q-hZZ' id='B5c-9C-jk2' property='underLineImage'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='70' image='borderlist_thin_white_top.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='7' key='frame' width='300' x='10' y='115'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='71' image='borderlist_white.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='30' key='frame' width='300' x='10' y='122'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='75' image='new_borderlist_gray@2x.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='156' key='frame' width='300' x='10' y='194'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='Uij-5q-hZZ' image='borderlist_white_bottom.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='7' key='frame' width='300' x='10' y='343'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='60' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='43' key='frame' width='150' x='10' y='152'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='26' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray_tap_02_left_off.png' key='normal' title='Year round Shopping'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='borderlist_thin_gray_tap_02_left_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.9984939759'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='67' selector='diningButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='61' lineBreakMode='wordWrap' opaque='NO' tag='1'>
+                    <rect height='43' key='frame' width='150' x='160' y='152'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='26' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray_tap_02_right_off.png' key='normal' title='Year round Shopping'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='borderlist_thin_gray_tap_02_right_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.9984939759'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='68' selector='shoppingButtonPressed:'/>
+                    </connections>
+                </button>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='4' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Advance Search' userInteractionEnabled='NO'>
+                    <rect height='30' key='frame' width='280' x='20' y='122'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <nil key='highlightedColor'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='9' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='100' x='110' y='375'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_blank_02.png' key='normal' title='Search'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_02.png'/>
+                        <userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_02_new.png'/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='19' selector='searchButtonPressed:'/>
+                    </connections>
+                </button>
+                <tableView bounces='NO' bouncesZoom='NO' clearsContextBeforeDrawing='NO' clipsSubviews='YES' contentMode='scaleToFill' id='30' opaque='NO' rowHeight='44' sectionFooterHeight='1' sectionHeaderHeight='1' separatorStyle='none' style='plain'>
+                    <rect height='156' key='frame' width='298' x='11' y='194'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='sectionIndexTrackingBackgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='-1' id='33' property='dataSource'/>
+                        <outlet destination='-1' id='32' property='delegate'/>
+                    </connections>
+                </tableView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='GZm-Lz-ThS' image='creditcard_yearroundoffers_icon_dining_off.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='33' key='frame' width='33' x='20' y='158'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='72' image='creditcard_yearroundoffers_icon_dining_on.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='33' key='frame' width='33' x='20' y='158'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='14j-xB-jz6' image='creditcard_yearroundoffers_icon_shopping_on.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='33' key='frame' width='33' x='168' y='158'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='73' image='creditcard_yearroundoffers_icon_shopping_off.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='33' key='frame' width='33' x='168' y='158'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <tableViewCell clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='34' indentationWidth='10' selectionStyle='blue'>
+            <rect height='44' key='frame' width='298' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='4cb-r0-Vy3' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='34'>
+                <rect height='43' key='frame' width='298' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <textField borderStyle='roundedRect' clearsContextBeforeDrawing='NO' clearsOnBeginEditing='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='37' minimumFontSize='17' opaque='NO' placeholder='Enter the keywords'>
+                        <rect height='30' key='frame' width='276' x='11' y='7'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                        <textInputTraits key='textInputTraits' returnKeyType='done'/>
+                        <connections>
+                            <outlet destination='-1' id='56' property='delegate'/>
+                        </connections>
+                    </textField>
+                </subviews>
+                <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            </tableViewCellContentView>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+        </tableViewCell>
+        <tableViewCell clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='35' indentationWidth='10' selectionStyle='blue'>
+            <rect height='44' key='frame' width='298' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='mnv-zp-Ped' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='35'>
+                <rect height='43' key='frame' width='298' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <label clipsSubviews='YES' contentMode='scaleToFill' id='43' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Districts' userInteractionEnabled='NO'>
+                        <rect height='22' key='frame' width='65' x='20' y='9'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                        <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' id='45' lineBreakMode='tailTruncation' opaque='NO' userInteractionEnabled='NO'>
+                        <rect height='38' key='frame' width='153' x='83' y='1'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='18'/>
+                        <state key='normal' title='Mong Kok'>
+                            <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                        </state>
+                        <state key='highlighted'>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        </state>
+                        <connections>
+                            <action destination='-1' eventType='touchUpInside' id='55' selector='cuisineButtonPressed:'/>
+                        </connections>
+                    </button>
+                    <imageView clipsSubviews='YES' contentMode='scaleToFill' id='Od5-Bj-lUr' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                        <rect height='20' key='frame' width='20' x='270' y='12'/>
+                        <autoresizingMask key='autoresizingMask'/>
+                    </imageView>
+                </subviews>
+                <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            </tableViewCellContentView>
+            <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='backgroundColor' red='1'/>
+        </tableViewCell>
+        <tableViewCell clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='36' indentationWidth='10' selectionStyle='blue'>
+            <rect height='44' key='frame' width='298' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='1XM-iz-AQK' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='36'>
+                <rect height='43' key='frame' width='298' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='scaleToFill' id='50' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Categories' userInteractionEnabled='NO'>
+                        <rect height='22' key='frame' width='105' x='20' y='10'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                        <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' id='51' lineBreakMode='tailTruncation' opaque='NO' userInteractionEnabled='NO'>
+                        <rect height='38' key='frame' width='134' x='102' y='2'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='18'/>
+                        <state key='normal' title='Chinese'>
+                            <color alpha='1' blue='0.52156866000000002' colorSpace='calibratedRGB' green='0.30980393000000001' key='titleColor' red='0.19607843'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                        </state>
+                        <state key='highlighted'>
+                            <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        </state>
+                        <connections>
+                            <action destination='-1' eventType='touchUpInside' id='53' selector='cuisineButtonPressed:'/>
+                        </connections>
+                    </button>
+                    <imageView clipsSubviews='YES' contentMode='scaleToFill' id='QIJ-3i-5Ay' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                        <rect height='20' key='frame' width='20' x='270' y='12'/>
+                        <autoresizingMask key='autoresizingMask'/>
+                    </imageView>
+                </subviews>
+                <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            </tableViewCellContentView>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image height='82' name='borderlist_thin_gray_tap_02_left_off.png' width='338'/>
+        <image height='82' name='borderlist_thin_gray_tap_02_left_on.png' width='338'/>
+        <image height='82' name='borderlist_thin_gray_tap_02_right_off.png' width='338'/>
+        <image height='82' name='borderlist_thin_gray_tap_02_right_on.png' width='338'/>
+        <image height='20' name='borderlist_thin_white_top.png' width='676'/>
+        <image height='20' name='borderlist_white.png' width='754'/>
+        <image height='20' name='borderlist_white_bottom.png' width='754'/>
+        <image height='24' name='btn_arrow_right.png' width='24'/>
+        <image height='70' name='btn_blank_02.png' width='200'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_dining_off.png' width='68'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_dining_on.png' width='68'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_shopping_off.png' width='68'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_shopping_on.png' width='68'/>
+        <image height='3' name='new_borderlist_gray@2x.png' width='754'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13B42' targetRuntime='iOS.CocoaTouch' toolsVersion='4514' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3747'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='LatestPromotionsSummaryViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='7' id='xyz-gD-f50' property='bookButton'/>
+                <outlet destination='7' id='15' property='bookmark'/>
+                <outlet destination='41' id='43' property='contact_info'/>
+                <outlet destination='8' id='11' property='description'/>
+                <outlet destination='34' id='42' property='detail'/>
+                <outlet destination='30' id='31' property='ecoupon'/>
+                <outlet destination='44' id='48' property='logo_arrow_l'/>
+                <outlet destination='45' id='49' property='logo_arrow_r'/>
+                <outlet destination='9' id='10' property='merchant'/>
+                <outlet destination='32' id='37' property='merchant_logo_scroll_view'/>
+                <outlet destination='35' id='36' property='preview'/>
+                <outlet destination='25' id='26' property='scroll_view'/>
+                <outlet destination='6' id='14' property='share'/>
+                <outlet destination='5' id='13' property='tnc'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='460' key='frame' width='320' x='0.0' y='20'/>
+            <autoresizingMask key='autoresizingMask'/>
+            <subviews>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='scaleToFill' id='9' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='3' opaque='NO' text='Label' userInteractionEnabled='NO'>
+                    <rect height='46' key='frame' width='266' x='10' y='93'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='boldSystem'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <scrollView autoresizesSubviews='NO' bouncesZoom='NO' clipsSubviews='YES' contentMode='scaleToFill' id='25' multipleTouchEnabled='YES'>
+                    <rect height='277' key='frame' width='320' x='0.0' y='138'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <textView bouncesZoom='NO' canCancelContentTouches='NO' clipsSubviews='YES' contentMode='scaleToFill' delaysContentTouches='NO' editable='NO' id='8' multipleTouchEnabled='YES' opaque='NO' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' text='offer description'>
+                            <rect height='90' key='frame' width='320' x='0.0' y='41'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <scrollView bouncesZoom='NO' clipsSubviews='YES' contentMode='scaleToFill' id='32' multipleTouchEnabled='YES' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO'>
+                            <rect height='55' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                        </scrollView>
+                        <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='30' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='37' key='frame' width='315' x='3' y='284'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='13'/>
+                            <inset key='contentEdgeInsets' maxX='0.0' maxY='6' minX='0.0' minY='0.0'/>
+                            <size height='-1' key='titleShadowOffset' width='-1'/>
+                            <state backgroundImage='ecoupon_button.png' key='normal' title='e-Coupon'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.2515060241'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='40' selector='ecouponButtonPressed:'/>
+                            </connections>
+                        </button>
+                        <imageView clearsContextBeforeDrawing='NO' contentMode='center' id='44' image='scroll_L.png' opaque='NO' userInteractionEnabled='NO'>
+                            <rect height='35' key='frame' width='18' x='0.0' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clearsContextBeforeDrawing='NO' contentMode='center' id='45' image='scroll_R.png' opaque='NO' userInteractionEnabled='NO'>
+                            <rect height='35' key='frame' width='18' x='302' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <imageView clearsContextBeforeDrawing='NO' contentMode='scaleAspectFit' customClass='CachedImageView' id='35' opaque='NO' userInteractionEnabled='NO'>
+                            <rect height='140' key='frame' width='320' x='0.0' y='65'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='0.5'/>
+                        </imageView>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.5015060241'/>
+                </scrollView>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='5' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='33' key='frame' width='78' x='161' y='420'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_02.png' key='normal' title='T&amp;C'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='18' selector='tncButtonPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_02.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_02_new.png'/></userDefinedRuntimeAttributes></button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='6' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='33' key='frame' width='78' x='242' y='420'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_02.png' key='normal' title='Share Offer'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='17' selector='shareButtonPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_02.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_02_new.png'/></userDefinedRuntimeAttributes></button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='34' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='33' key='frame' width='78' x='1' y='420'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_02.png' key='normal' title='Details'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='47' selector='detailsButtonPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_02.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_02_new.png'/></userDefinedRuntimeAttributes></button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='41' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='33' key='frame' width='78' x='81' y='420'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                    <state backgroundImage='btn_blank_02.png' key='normal' title='Contact Info'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='46' selector='contactButtonPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_02.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_02_new.png'/></userDefinedRuntimeAttributes></button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='7' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='27' key='frame' width='27' x='280' y='102'/>
+                    <autoresizingMask flexibleMaxY='YES' flexibleMinX='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <state backgroundImage='btn_bookmark.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.25451807230000001'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='16' selector='bookmarkButtonPressed:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_bookmark.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_bookmark_new.png'/></userDefinedRuntimeAttributes></button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='70' name='btn_blank_02.png' width='200'/>
+        <image height='68' name='btn_bookmark.png' width='68'/>
+        <image height='37' name='ecoupon_button.png' width='315'/>
+        <image height='35' name='scroll_L.png' width='18'/>
+        <image height='35' name='scroll_R.png' width='18'/>
+    </resources>
+</document>

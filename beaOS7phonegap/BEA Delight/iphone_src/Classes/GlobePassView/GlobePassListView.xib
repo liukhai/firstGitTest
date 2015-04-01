@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13E28' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='GlobePassListViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='45' id='iqv-Ib-gkH' property='borderImageView'/>
+                <outlet destination='aZd-cH-p5w' id='VDr-Vt-khw' property='table_view'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='460' key='frame' width='320' x='0.0' y='20'/>
+            <autoresizingMask key='autoresizingMask'/>
+            <subviews>
+                <tableView bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' id='aZd-cH-p5w' rowHeight='70' sectionFooterHeight='1' sectionHeaderHeight='1' separatorStyle='none' style='plain'>
+                    <rect height='340' key='frame' width='298' x='11' y='104'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <connections>
+                        <outlet destination='-1' id='efC-YX-35N' property='dataSource'/>
+                        <outlet destination='-1' id='xLJ-YB-Jmy' property='delegate'/>
+                    </connections>
+                </tableView>
+                <imageView autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='45' image='borderlistwithborder.9b.png' userInteractionEnabled='NO'>
+                    <rect height='342' key='frame' width='300' x='10' y='103'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='848' name='borderlistwithborder.9b.png' width='600'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SN</key>
+	<string>20090602180033</string>
+	<key>tt</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>CNY</string>
+			<key>display_name_en</key>
+			<string>Chinese Yuan</string>
+			<key>display_name_zh</key>
+			<string>人民幣</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>1.20370</string>
+			<key>banksell</key>
+			<string>1.21170</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Australia Dollar</string>
+			<key>display_name_zh</key>
+			<string>澳洲元</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>8.35200</string>
+			<key>banksell</key>
+			<string>8.37000</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>CAD</string>
+			<key>display_name_en</key>
+			<string>Canadian Dollar</string>
+			<key>display_name_zh</key>
+			<string>加拿大元</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>8.05500</string>
+			<key>banksell</key>
+			<string>8.07300</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Japanese Yen</string>
+			<key>display_name_zh</key>
+			<string>日圓</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>0.09583</string>
+			<key>banksell</key>
+			<string>0.09661</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Euro</string>
+			<key>display_name_zh</key>
+			<string>歐羅</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>11.11700</string>
+			<key>banksell</key>
+			<string>11.15500</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>New Zealand Dollar</string>
+			<key>display_name_zh</key>
+			<string>紐西蘭元</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>6.43300</string>
+			<key>banksell</key>
+			<string>6.45100</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Pound Sterling</string>
+			<key>display_name_zh</key>
+			<string>英鎊</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>12.41600</string>
+			<key>banksell</key>
+			<string>12.46600</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Singapore Dollar</string>
+			<key>display_name_zh</key>
+			<string>新加坡元</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>6.33600</string>
+			<key>banksell</key>
+			<string>6.36100</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Swiss Franc</string>
+			<key>display_name_zh</key>
+			<string>瑞士法郎</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>9.25700</string>
+			<key>banksell</key>
+			<string>9.27700</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>Thai Baht</string>
+			<key>display_name_zh</key>
+			<string>泰銖</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>0.25300</string>
+			<key>banksell</key>
+			<string>0.26100</string>
+		</dict>
+
+		<dict>
+			<key>id</key>
+			<string>AUD</string>
+			<key>display_name_en</key>
+			<string>U.S. Dollar</string>
+			<key>display_name_zh</key>
+			<string>美元</string>
+			<key>display</key>
+			<string>1</string>
+			<key>bankbuy</key>
+			<string>7.77600</string>
+			<key>banksell</key>
+			<string>7.79200</string>
+		</dict>
+	</array>
+</dict>
+</plist>

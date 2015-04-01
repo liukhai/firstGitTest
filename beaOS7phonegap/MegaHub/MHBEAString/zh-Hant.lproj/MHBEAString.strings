@@ -1,0 +1,99 @@
+/* 
+ WFLocalizable.strings
+ MegaHub
+ 
+ Created by Hong on 05/05/2011.
+ Copyright 2011 __MyCompanyName__. All rights reserved.
+ */
+
+"MHBEAIndexBarView.m_oDespLabel" = "恒指";
+
+"MHBEAWatchlistLv0ViewController.m_oBackButton" = "返回";
+"MHBEAWatchlistLv0ViewController.m_oEditButton.edit" = "修改";
+"MHBEAWatchlistLv0ViewController.m_oEditButton.done" = "儲存";
+"MHBEAWatchlistLv0ViewController.tableview.delete" = "刪除";
+
+"MHBEAWatchlistLv0View.m_oStockTotalValueTitle" = "總賺/蝕";
+
+// MHBEAWatchlistLv0ViewStockCell
+"MHBEAWatchlistLv0ViewStockCell.m_oInputPriceTextField.placeholder"		= "<價格>";
+"MHBEAWatchlistLv0ViewStockCell.m_oQtyTextField.placeholder"			= "<股數>";
+"MHBEAWatchlistLv0ViewStockCell.symbolLabel"							= "代號";
+"MHBEAWatchlistLv0ViewStockCell.despLabel"								= "名稱";
+"MHBEAWatchlistLv0ViewStockCell.lastLabel"								= "現價";
+"MHBEAWatchlistLv0ViewStockCell.changeLabel"							= "變動";
+"MHBEAWatchlistLv0ViewStockCell.pChangeLabel"							= "%";
+"MHBEAWatchlistLv0ViewStockCell.changeLabel.gainloss"					= "賺/蝕";
+"MHBEAWatchlistLv0ViewStockCell.pChangeLabel.pgainloss"					= "%";
+"MHBEAWatchlistLv0ViewStockCell.buy_Label"                              = "買入 @";
+"MHBEAWatchlistLv0ViewStockCell.cal_p_l_Label"                          = "計算 賺/蝕";
+
+"AlertView.showCannotAddStockToWatchlist.title"				= "股票已在股票追蹤";
+"AlertView.showCannotAddStockToWatchlist.ok"				= "確定";
+"AlertView.showAddedStockToWatchlist.title" = "成功";
+"AlertView.showAddedStockToWatchlist.message" = "已加入股票追蹤";
+"AlertView.showAddedStockToWatchlist.ok" = "確定";
+"AlertView.showAddWatchlistInvalidStock.title" = "不正確的股票編號";
+"AlertView.showAddWatchlistInvalidStock.message" = "未能加入到股票追蹤";
+"AlertView.showAddWatchlistInvalidStock.ok" = "確定";
+
+"MHDisclaimerBarView.m_oTextLabel"			= "以上資訊只供參考";
+
+
+"MHBEAFAQuoteViewController.title" = "報價";
+"MHBEAFAQuoteViewController.title.invalid_stock" = "不正確的股票編號";
+"MHBEAFAQuoteView.m_oBidTitleLabel" = "買";
+"MHBEAFAQuoteView.m_oAskTitleLabel" = "賣";
+"MHBEAFAQuoteViewController.ok" = "確定";
+
+
+"MHBEAPTSSIndexViewController.indices" = "市場指數";
+"MHBEAPTSSIndexViewController.sector" = "板塊行情";
+"MHBEAPTSSIndexViewController.ranking" = "市場排行";
+"MHBEAPTSSIndexViewController.ah" = "AH比價";
+"MHBEAPTSSIndexViewController.news" = "新聞";
+
+
+"MHBEAFAQuoteView.m_oLastUpdateTimeLabel"	= "以上資訊只供參考 最後更新:";
+"MHBEAWatchlistLv0View.m_oSearchBar.placeholder" = "輸入股票名稱/代號";
+"MHBEAWatchlistLv0View.m_oSearchBar.searchButton" = "搜索";
+
+
+"MHBEAQuoteGainLossView.m_oBuyPriceTitleLabel" = "買入價";
+"MHBEAQuoteGainLossView.m_oQtyTitleLabel" = "股數";
+"MHBEAQuoteGainLossView.m_oCostTitleLabel" = "成本";
+"MHBEAQuoteGainLossView.m_oGainLossTitleLabel" = "賺/蝕";
+"MHBEAQuoteGainLossView.m_oMarketValueTitleLabel" = "市值";
+"MHBEAQuoteGainLossView.m_oGainLossPctTitleLabel" = "賺/蝕 (%)";
+"MHBEAIndexBarView.m_oQuoteButton" = "報價";
+
+
+"MHDisclaimerBarView.m_oTextUPLabel" = "資料延遲最少15分鐘並由MegaHub提供";
+"MHDisclaimerBarView.m_oDelayTextLabel" = "(延遲最少十五分鐘)";
+"MHBEAWatchlistLv0ViewController.no_search_result" = "沒有相關搜索記錄";
+"MHBEABuySellStockView.m_oBuySellButton.buy" = "輸入指令";
+"MHBEABuySellStockView.m_oBuySellLabel.buy" = "按下述股票進行";
+
+"MHBEABasicDataView.m_oBottomLeftButton" = "◂       詳細報價";
+"MHBEABasicDataView.m_oBottomRightButton" = "基本數據       ▸";
+
+"MHBEABottomBarView.m_oBuyButton" = "買";
+"MHBEABottomBarView.m_oQuoteButton" = "報價";
+"MHBEABottomBarView.m_oNewsButton" = "市場資訊";
+"MHBEABottomBarView.m_oStockButton" = "股票追蹤";
+"MHBEABottomBarView.m_oSellButton" = "沽";
+
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.all" = "所有新聞";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.overview" = "股市動向";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.market" = "即時新聞";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.overseas" = "外圍動態";
+"MHBEAPTFANewsViewController.m_oMHFeedXObjNewsGroupArray.commentary" = "評級觀點";
+
+"AlertView.showNoMobileNoStockTrading.title" = "感謝使用本行股票買賣服務。
+如你已開立電子網絡銀行服務賬戶及證券附屬賬戶，請於手機程式主頁按「設定」及按照指示建立流動密碼，使用股票買賣服務。";
+"AlertView.showNoMobileNoStockTrading.cancelButton" = "確定";
+
+"AlertView.showNoMobileNoEAS.title" = "如欲享用電子網絡股票買賣 - 流動服務，請
+1. 登入電子網絡銀行服務賬戶並啟動流動電話渠道 (選擇主頁/流動理財) 或親臨東亞證券分行登記及
+2. 於東亞銀行應用程式主頁選擇「設定」並輸入你的流動電話號碼。";
+"AlertView.showNoMobileNoEAS.cancelButton" = "確定";

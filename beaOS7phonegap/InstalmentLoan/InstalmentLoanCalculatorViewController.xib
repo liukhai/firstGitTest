@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13C64' targetRuntime='iOS.CocoaTouch' toolsVersion='5053' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1072' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='InstalmentLoanCalculatorViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='11' id='74' property='btCall'/>
+                <outlet destination='45' id='53' property='btRepaymentPeriod12'/>
+                <outlet destination='46' id='105' property='btRepaymentPeriod24'/>
+                <outlet destination='100' id='106' property='btRepaymentPeriod36'/>
+                <outlet destination='102' id='107' property='btRepaymentPeriod48'/>
+                <outlet destination='9' id='69' property='btReset'/>
+                <outlet destination='39' id='57' property='lbAPR'/>
+                <outlet destination='38' id='56' property='lbIntRatePerMonthFlat'/>
+                <outlet destination='85' id='93' property='lbMonthlyRepayment'/>
+                <outlet destination='15' id='76' property='lbTag00'/>
+                <outlet destination='17' id='77' property='lbTag01'/>
+                <outlet destination='22' id='79' property='lbTag03'/>
+                <outlet destination='34' id='80' property='lbTag04'/>
+                <outlet destination='33' id='81' property='lbTag05'/>
+                <outlet destination='35' id='82' property='lbTag06'/>
+                <outlet destination='40' id='83' property='lbTag07'/>
+                <outlet destination='7' id='68' property='lbTitle'/>
+                <outlet destination='41' id='58' property='lbTotalRepayment'/>
+                <outlet destination='32' id='49' property='slLoanAmount'/>
+                <outlet destination='24' id='47' property='tfLoanAmount'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' customClass='UIControl' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='6' image='table_header_bg.png' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='7' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='310' x='5' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <string key='text'>Tax Loan
+Calculator</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='17'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='shadowColor' white='0.5'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <label baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='15' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Calculation details (for reference only).' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='250' x='14' y='52'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='17' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Loan amount:' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='130' x='23' y='76'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='33' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='APR:' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='130' x='23' y='211'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='22' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Repayment Period:' userInteractionEnabled='NO'>
+                    <rect height='30' key='frame' width='130' x='23' y='138'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <textField borderStyle='roundedRect' clearButtonMode='whileEditing' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='24' minimumFontSize='17' opaque='NO'>
+                    <rect height='31' key='frame' width='140' x='157' y='76'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <textInputTraits enablesReturnKeyAutomatically='YES' key='textInputTraits' keyboardType='numberPad' returnKeyType='done'/>
+                    <connections>
+                        <action destination='-1' eventType='editingDidBegin' id='99' selector='setAmount'/>
+                        <outlet destination='-1' id='92' property='delegate'/>
+                    </connections>
+                </textField>
+                <label clipsSubviews='YES' contentMode='left' id='35' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='36' key='frame' width='130' x='23' y='235'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>Monthly repayment
+(HK$):</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <slider contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='32' maxValue='1000000' minValue='5000' opaque='NO' value='10000'>
+                    <rect height='29' key='frame' width='280' x='21' y='108'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <connections>
+                        <action destination='-1' eventType='valueChanged' id='67' selector='slLoanAmountValueChanged'/>
+                    </connections>
+                </slider>
+                <label clipsSubviews='YES' contentMode='left' id='34' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Monthly flat rate:' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='160' x='23' y='182'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='38' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='0.2344%' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='140' x='157' y='182'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='39' lineBreakMode='clip' minimumFontSize='10' numberOfLines='2' opaque='NO' text='2.78%' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='140' x='156' y='210'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='85' lineBreakMode='clip' minimumFontSize='10' numberOfLines='2' opaque='NO' text='HK$ 856.80' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='140' x='156' y='236'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='40' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='36' key='frame' width='130' x='23' y='275'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>Total repayment
+(HK$):</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='41' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='HK$ 10281.60' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='140' x='156' y='276'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='45' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='30' key='frame' width='40' x='155' y='138'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <state backgroundImage='button_l_off.png' key='normal' title='12'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.33333333333333331'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='button_l_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='62' selector='btRepaymentPeriod12Pressed'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='46' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='40' x='190' y='138'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <state backgroundImage='button_c_off.png' key='normal' title='24'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.33333333333333331'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='button_c_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='104' selector='btRepaymentPeriod24Pressed'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='100' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='40' x='225' y='138'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <state backgroundImage='button_c_off.png' key='normal' title='36'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.33333333333333331'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='button_c_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='108' selector='btRepaymentPeriod36Pressed'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='102' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='40' x='260' y='138'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <state backgroundImage='button_r_off.png' key='normal' title='48'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.33333333333333331'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='button_r_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='109' selector='btRepaymentPeriod48Pressed'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='9' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='37' key='frame' width='106' x='20' y='324'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <inset key='contentEdgeInsets' maxX='10' maxY='6' minX='10' minY='0.0'/>
+                    <state backgroundImage='button_gray.png' key='normal' title='Reset'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='75' selector='reset'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='11' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='37' key='frame' width='106' x='195' y='324'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <inset key='contentEdgeInsets' maxX='10' maxY='6' minX='10' minY='0.0'/>
+                    <state backgroundImage='apply_200dpi.png' key='normal' title='Apply'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='selected' title='Apply'/>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='73' selector='call'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+            <simulatedTabBarMetrics key='simulatedBottomBarMetrics'/>
+            <connections>
+                <action destination='-1' eventType='touchUpInside' id='98' selector='screenPressed'/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image height='37' name='apply_200dpi.png' width='106'/>
+        <image height='30' name='button_c_off.png' width='40'/>
+        <image height='30' name='button_c_on.png' width='40'/>
+        <image height='37' name='button_gray.png' width='106'/>
+        <image height='30' name='button_l_off.png' width='40'/>
+        <image height='30' name='button_l_on.png' width='40'/>
+        <image height='30' name='button_r_off.png' width='40'/>
+        <image height='30' name='button_r_on.png' width='40'/>
+        <image height='45' name='table_header_bg.png' width='1'/>
+    </resources>
+</document>

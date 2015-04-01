@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1</string>
+	<key>Indices</key>
+	<array>
+		<dict>
+			<key>Symbol</key>
+			<string>HSI</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSCEI</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSCCI</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSIF</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSF</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSU</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSP</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+		<dict>
+			<key>Symbol</key>
+			<string>HSC</string>
+			<key>Market</key>
+			<string>HK</string>
+		</dict>
+	</array>
+</dict>
+</plist>

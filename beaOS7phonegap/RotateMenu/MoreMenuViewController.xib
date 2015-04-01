@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6250' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6244'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='MoreMenuViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='10' id='26' property='btn1'/>
+                <outlet destination='11' id='27' property='btn2'/>
+                <outlet destination='12' id='28' property='btn3'/>
+                <outlet destination='13' id='29' property='btn4'/>
+                <outlet destination='14' id='30' property='btn5'/>
+                <outlet destination='15' id='31' property='btn6'/>
+                <outlet destination='hEF-6J-eap' id='43u-61-uHL' property='btn_close'/>
+                <outlet destination='eSN-sA-jBp' id='0BX-SI-Olh' property='lb0'/>
+                <outlet destination='7' id='S9y-E8-mzX' property='mImageView'/>
+                <outlet destination='1' id='3' property='view'/>
+                <outlet destination='16' id='17' property='viewBG'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view alpha='0.5' contentMode='scaleToFill' id='16'>
+                    <rect height='548' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='0.33333333333333331'/>
+                </view>
+                <imageView clipsSubviews='YES' contentMode='center' id='7' image='MoreMenuBG.png' multipleTouchEnabled='YES'>
+                    <rect height='168' key='frame' width='300' x='10' y='128'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='VLU-2x-yZk' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='37' key='frame' width='61' x='246' y='131'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='kll-I7-DVH' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='hEF-6J-eap' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='30' x='270' y='135'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='btn_close.png' key='normal'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted' title='X'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_close.png'/>
+                        <userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_close_new.png'/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='Zag-C0-tcI' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='10' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='40' key='frame' width='146' x='12' y='171'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='1' maxY='0.0' minX='1' minY='0.0'/>
+                    <state key='normal' title='1'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='19' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='11' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='40' key='frame' width='146' x='161' y='171'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='1' maxY='0.0' minX='1' minY='0.0'/>
+                    <state key='normal' title='2'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='24' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='12' lineBreakMode='middleTruncation' opaque='NO' tag='3'>
+                    <rect height='40' key='frame' width='146' x='12' y='213'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='1' maxY='0.0' minX='1' minY='0.0'/>
+                    <state key='normal' title='3'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='20' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='13' lineBreakMode='middleTruncation' opaque='NO' tag='4'>
+                    <rect height='40' key='frame' width='146' x='161' y='213'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='1' maxY='0.0' minX='1' minY='0.0'/>
+                    <state key='normal' title='4'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='23' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='14' lineBreakMode='middleTruncation' opaque='NO' tag='5'>
+                    <rect height='40' key='frame' width='146' x='12' y='255'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='1' maxY='0.0' minX='1' minY='0.0'/>
+                    <state key='normal' title='5'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='21' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='15' lineBreakMode='middleTruncation' opaque='NO' tag='6'>
+                    <rect height='40' key='frame' width='146' x='161' y='255'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='1' maxY='0.0' minX='1' minY='0.0'/>
+                    <state key='normal' title='6'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='titleColor' red='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='22' selector='doButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='eSN-sA-jBp' lineBreakMode='tailTruncation' opaque='NO' text='More' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='21' key='frame' width='88' x='34' y='142'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='16' type='boldSystem'/>
+                    <nil key='highlightedColor'/>
+                </label>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='168' name='MoreMenuBG.png' width='300'/>
+        <image height='56' name='btn_close.png' width='56'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

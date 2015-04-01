@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13C64' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='FavouriteListViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='54' id='55' property='result'/>
+                <outlet destination='qU4-ch-T5s' id='jp0-CU-7JZ' property='scrollView'/>
+                <outlet destination='8Ou-2Y-ICC' id='XTC-gl-yvN' property='table_view'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask key='autoresizingMask'/>
+            <subviews>
+                <scrollView bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' id='qU4-ch-T5s' multipleTouchEnabled='YES'>
+                    <rect height='386' key='frame' width='298' x='11' y='69'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <subviews>
+                        <tableView bounces='NO' bouncesZoom='NO' clearsContextBeforeDrawing='NO' clipsSubviews='YES' contentMode='scaleToFill' id='8Ou-2Y-ICC' opaque='NO' rowHeight='44' scrollEnabled='NO' sectionFooterHeight='1' sectionHeaderHeight='1' separatorStyle='none' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' style='plain'>
+                            <rect height='386' key='frame' width='298' x='0.0' y='0.0'/>
+                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                            <connections>
+                                <outlet destination='-1' id='Lb5-Pa-rbw' property='dataSource'/>
+                                <outlet destination='-1' id='Mgw-U4-XWy' property='delegate'/>
+                            </connections>
+                        </tableView>
+                    </subviews>
+                </scrollView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='50' image='borderlistwithborder.9b.png' userInteractionEnabled='NO'>
+                    <rect height='390' key='frame' width='300' x='10' y='67'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' id='54' lineBreakMode='tailTruncation' opaque='NO' text='Label' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='200' x='60' y='79'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='848' name='borderlistwithborder.9b.png' width='600'/>
+    </resources>
+</document>

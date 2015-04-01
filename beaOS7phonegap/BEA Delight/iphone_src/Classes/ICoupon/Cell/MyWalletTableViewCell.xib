@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13F34' targetRuntime='iOS.CocoaTouch' toolsVersion='5056' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1296' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3733'/>
+    </dependencies>
+    <objects>
+        <placeholder id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'/>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <tableViewCell contentMode='scaleToFill' customClass='MyWalletTableViewCell' id='YQC-SA-pWB' indentationWidth='10' rowHeight='131' selectionStyle='none'>
+            <rect height='119' key='frame' width='315' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <tableViewCellContentView clipsSubviews='YES' contentMode='center' id='nGl-6I-qSx' key='contentView' multipleTouchEnabled='YES' opaque='NO' tableViewCell='YQC-SA-pWB'>
+                <rect height='118' key='frame' width='315' x='0.0' y='0.0'/>
+                <autoresizingMask key='autoresizingMask'/>
+                <subviews>
+                    <view contentMode='scaleToFill' id='Omv-Tp-C7I'>
+                        <rect height='116' key='frame' width='310' x='5' y='5'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <subviews>
+                            <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='jwJ-MA-NeT' lineBreakMode='middleTruncation' opaque='NO'>
+                                <rect height='27' key='frame' width='71' x='234' y='83'/>
+                                <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                                <state backgroundImage='btn_orange_big.png' key='normal' title='Redeem'>
+                                    <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                    <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                                </state>
+                            <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange_big.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_big_new.png'/></userDefinedRuntimeAttributes></button>
+                        </subviews>
+                        <color alpha='1' blue='0.92549019610000005' colorSpace='calibratedRGB' green='0.92549019610000005' key='backgroundColor' red='0.92549019610000005'/>
+                    </view>
+                    <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='zyx-8e-Qek' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                        <rect height='78' key='frame' width='72' x='12' y='11'/>
+                        <autoresizingMask key='autoresizingMask'/>
+                    </imageView>
+                    <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='gFH-Wt-Ycp' lineBreakMode='tailTruncation' numberOfLines='0' opaque='NO' text='Pacific Coffee Company Limited' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                        <rect height='21' key='frame' width='218' x='92' y='12'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                        <color alpha='1' blue='0.43137258290000002' colorSpace='deviceRGB' green='0.41176474089999998' key='textColor' red='0.86666673419999996'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='cbT-eV-KjR' lineBreakMode='tailTruncation' numberOfLines='0' opaque='NO' text='2 Short Size e-Coffee voucher 8oz' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                        <rect height='34' key='frame' width='223' x='92' y='30'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='0.0'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='GkG-P5-n8a' lineBreakMode='tailTruncation' opaque='NO' text='Bonus Points required: 6,000' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                        <rect height='21' key='frame' width='186' x='92' y='60'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.66666666666666663'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                    <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='kUG-s8-fou' lineBreakMode='tailTruncation' opaque='NO' text='Expiry Date: 31/08/2014' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                        <rect height='21' key='frame' width='186' x='92' y='77'/>
+                        <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.66666666666666663'/>
+                        <nil key='highlightedColor'/>
+                    </label>
+                </subviews>
+                <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            </tableViewCellContentView>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <connections>
+                <outlet destination='jwJ-MA-NeT' id='Zva-ET-SvK' property='btn_action'/>
+                <outlet destination='zyx-8e-Qek' id='3sO-S8-Cev' property='imv_icon'/>
+                <outlet destination='GkG-P5-n8a' id='h9q-nR-R81' property='lbl_minTitle1'/>
+                <outlet destination='kUG-s8-fou' id='UHg-A0-MwE' property='lbl_minTitle2'/>
+                <outlet destination='cbT-eV-KjR' id='smi-WT-CXg' property='lbl_subTitle'/>
+                <outlet destination='gFH-Wt-Ycp' id='ddD-61-CfK' property='lbl_title'/>
+            </connections>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image height='44' name='btn_orange_big.png' width='180'/>
+    </resources>
+</document>

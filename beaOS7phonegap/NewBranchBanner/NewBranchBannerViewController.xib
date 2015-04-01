@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='12F45' targetRuntime='iOS.CocoaTouch' toolsVersion='4514' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1072' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3747'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='NewBranchBannerViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='15' id='16' property='promotionText'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view alpha='0.5' contentMode='scaleToFill' id='14'>
+                    <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='backgroundColor'/>
+                </view>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='8' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='29' key='frame' width='34' x='282' y='67'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='24' type='boldSystem'/>
+                    <state key='normal' title='X'>
+                        <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='10' selector='hiddenMe'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='12' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='241' key='frame' width='321' x='0.0' y='99'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='NewBranchBanner.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='13' selector='hiddenMeAndOpenAccpro'/>
+                    </connections>
+                </button>
+                <label clipsSubviews='YES' contentMode='left' id='15' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='5' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='124' key='frame' width='320' x='0.0' y='168'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>XXX XXX Branch
+
+Open on
+28th June, 2011</string>
+                    <fontDescription key='fontDescription' pointSize='26' type='system'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='375' name='NewBranchBanner.png' width='500'/>
+    </resources>
+</document>

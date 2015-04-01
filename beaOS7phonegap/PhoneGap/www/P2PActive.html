@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        
+        <style>
+            .recipientInfo{ font-size:14px; text-align:left; padding-left:5px;}
+            .recipientList{ text-align:center;}
+            </style>
+        
+        <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
+        <script type="text/javascript" charset="utf-8"></script>
+        
+        <script language="javascript">
+            
+            document.addEventListener("deviceready", onDeviceReady, false);
+            function onDeviceReady() {
+//                alert("111111111");
+
+                document.getElementById('loadDiv').style.display = "none";
+            }
+        
+        var callBackContacts;
+        function onSuccess(contacts) {
+//            alert('onSuccess:'+contacts);
+            callBackContacts = contacts;
+            displayPhone();
+        };
+        
+        function displayPhone(){
+            var infoTbl = document.getElementById("recipientTBL");
+            var num = 0;
+            for (var i=0; i<callBackContacts.length; i++){
+                for (var j=0; j< callBackContacts[i].phoneNumbers.length; j++)
+                {
+                    var row = infoTbl.insertRow(i);
+                    var cell1 = row.insertCell(0);
+                    var cell0 = row.insertCell(0);
+                    row.className="bgWhite";
+                    cell0.className="recipientInfo";
+                    cell1.className="recipientInfo";
+                    
+                    var inHtm = "<td width='90%'>" + callBackContacts[i].displayName + "(" + callBackContacts[i].phoneNumbers[j].value + ")</td>";
+                    // inHtm += "<td width='10%' align='right'><input type='checkbox' id='chk" +i+ "' name='chkRec' value='"+ i +"'/> </td>";
+                    inHtm += "<input type='hidden' id='recipientMobile" +num+ "' name='recipientMobile' value='" + callBackContacts[i].phoneNumbers[j].value +"'/>";
+                    inHtm += "<input type='hidden' id='recipientName" +num+ "' name='recipientName' value='" + callBackContacts[i].displayName +"'/>";
+                    cell0.innerHTML = inHtm;
+                    cell1.innerHTML = "<td width='10%' align='right'><input type='checkbox' id='chk" +num+ "' name='chkRec' value='"+ num +"'/> </td>";
+                    num++;
+                }
+            }
+            
+            document.getElementById("fancyDiv").style.display="block";;
+            document.getElementById("recipientDivd").style.display="block";
+        }
+        
+        function onError(contactError) {
+            alert("onError");
+        }
+        function callContacts(){
+//            alert('callContacts');
+            // specify contact search criteria
+            var findOptions = new ContactFindOptions();
+            findOptions.filter = "";      // empty search string returns all contacts
+            findOptions.multiple = true;  // return multiple results
+            filter = ["displayName","phoneNumbers"]; // return contact.displayName field
+            try
+            {
+                // find contacts
+//                alert('navigator.contacts.find');
+                navigator.contacts.find(filter, onSuccess, onError, findOptions);
+            }
+            catch (e)
+            {
+                alert("" + e);
+            }
+        }
+        
+        function showPhoneBook(){
+            //get Recipient from phonebook.
+            callContacts();
+            //return;
+            /*   document.getElementById("infoDiv").style.display="none";
+             document.getElementById("fancyDiv").style.display="block";
+             document.getElementById("recipientDivd").style.display="block";
+             */
+        }
+        
+        function doAddRecipient(mobile,  name){
+            var chkSelect = false;
+            var chkBox = document.actInForm.chkRec;
+            if (chkBox){
+                for (var i=0; i<chkBox.length; i++){
+                    if(chkBox[i].checked){
+                        chkSelect = true;
+                        var mobile = document.actInForm.recipientMobile[i].value;
+                        var name = document.actInForm.recipientName[i].value;
+                        
+                        var recTbl = document.getElementById("recListTbl");
+                        var row = recTbl.insertRow(1);
+                        var cellNa = row.insertCell(0);
+                        var cellNo = row.insertCell(1);
+                        
+                        cellNa.className="recipientList";
+                        cellNo.className="recipientList";
+                        cellNa.innerHTML = "<td align='center'>" + name + "</td>";
+                        cellNo.innerHTML = "<td align='center'>" + mobile + "</td>";
+                        
+                    }
+                }
+            }
+            
+            if (!chkSelect){
+                //alert('not recipient is selected.');
+                //return false;
+            }
+            
+            document.getElementById("infoDiv").style.display="block";
+            document.getElementById("fancyDiv").style.display="none";;
+            document.getElementById("recipientDivd").style.display="none";
+            document.getElementById("addTR").style.display="none";
+        }
+        </script>
+    </head>
+    <body>
+        <form id="actInForm" name="actInForm" method='post' action="MBP2PActResultShow">
+            <div id="infoDiv">
+                <input type="hidden" id="mobile" name="mobile" value="87654321"/>
+                <input type="hidden" id="actionType" name="actionType" value="REG"/>
+                <input type="hidden" id="recMobile" name="recMobile"/>
+                <input type="hidden" id="recName" name="recName"/>
+                <table width="99%" class="tb5">
+                    <tr>
+                        <td style="font-size:11pt;">
+                            <table cellspacing="0" cellpadding="0">
+                                <tr><td><b>P2P Activation</b></td></tr>
+                                <tr><td><b>Step 1:  Create a Recipient List</b></td></tr>
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td>
+                            <div>
+                                <table width="100%" id="recListTbl" class="tb5" cellspacing="0" style="border:1px solid #c8c8c8;">
+                                    <thead>
+                                        <tr class="bgWhite">
+                                            <td width="50%" align="center"><font color="#FF9900">Name</font></td>
+                                            <td align="center"><font color="#FF9900">Mobile No.</font></td>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="addTR">
+                                            <td align="center" colspan="2">
+                                                <table width="80%">
+                                                    <tr>
+                                                        <td align="center">Add recipients from your hone book</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center"><img src="/P2P/resource/mob/addRecipient.jpg" alt="" style="cursor: pointer;" onclick="showPhoneBook();"/> </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                <table>  
+                    <tr>
+                        <td> <input type="button" id="btnBack" name="btnBack" value="Back" onclick="javascript:history.back();"/> </td>
+                    </tr>
+                </table>
+            </div>
+            
+            <div id="fancyDiv" style="display: none; top: 0px; position: absolute; z-index: 20; width:100%; left: 0px; float: left; "></div> <!-- background-color: #B8B8B8;  background-color: #26355D; -->
+            <div id="recipientDivd" style="display: none; top: 0px; position: absolute; z-index: 20; width:100%; height:100%; left: 0%; float: left;" align="center">
+                <!-- phonebook table -->   	  
+                <table id="recipientTBL" width="100%" border="0" cellspacing="0" cellpadding="0" class="tb5" >
+                    <tr>
+                        <td width='90%'>&nbsp;</td>
+                        <td width='10%'>&nbsp;</td>
+                    </tr>
+                </table>	 
+                <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tr>
+                        <td align="center" style="border:0; padding:5px 0 5px 0;">
+                            <div class="btn">
+                                <a href="javascript:;" onclick="doAddRecipient();" target="_self" class="btnOrange2" id='info_OK'><span>&nbsp;&nbsp;&nbsp;OK&nbsp;&nbsp;&nbsp;</span></a>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div> 
+            
+            <div id="loadDiv" style="top: 0px; position: absolute; z-index: 20; width:100%; height:100%; left: 0%; float: left;" align="center">
+                <table width="100%" height="100%"> 
+                    <tr>
+                        <td align="center"> Loading... </td>
+                    </tr>
+                </table>
+            </div>
+            
+        </form>  
+    </body>
+</html>

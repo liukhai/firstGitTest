@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>promotionList</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<string>1</string>
+			<key>target_url_en</key>
+			<string>https://210.176.64.17/acc_pro/sg_body_e.html</string>
+			<key>target_url_zh</key>
+			<string>https://210.176.64.17/acc_pro/sg_body_c.html</string>
+			<key>thumbnail</key>
+			<string>https://210.176.64.17/acc_pro/images/latest_promotion_sg.png</string>
+			<key>title_en</key>
+			<string>Up to HK$9,800 rewards for SupremeGold Account</string>
+			<key>title_zh</key>
+			<string>顯卓理財戶口禮遇高達HK$9,800</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>2</string>
+			<key>target_url_en</key>
+			<string>AccProDefaultViewController</string>
+			<key>target_url_zh</key>
+			<string>AccProDefaultViewController</string>
+			<key>thumbnail</key>
+			<string>https://210.176.64.17/acc_pro/images/latest_promotion_ap.png</string>
+			<key>title_en</key>
+			<string>Up to HK$3,800 for Auto Payroll Account</string>
+			<key>title_zh</key>
+			<string>自動轉賬支薪禮遇高達HK$3,800</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>3</string>
+			<key>target_url_en</key>
+			<string>TaxLoan</string>
+			<key>target_url_zh</key>
+			<string>TaxLoan</string>
+			<key>thumbnail</key>
+			<string>https://210.176.64.17/resource/latest_promo_tl_zh.png</string>
+			<key>title_en</key>
+			<string>Tax loan  - APR as low as 3.13%</string>
+			<key>title_zh</key>
+			<string>稅務貸款﹣實際年利率低至3.13%</string>
+		</dict>
+	</array>
+	<key>SN</key>
+	<string>20111009</string>
+</dict>
+</plist>

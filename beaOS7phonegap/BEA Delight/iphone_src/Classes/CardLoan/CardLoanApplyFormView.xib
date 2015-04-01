@@ -1,0 +1,494 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='CardLoanApplyFormViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='QPr-UA-6nV' id='9WG-pw-a0H' property='announce_btn2'/>
+                <outlet destination='95' id='96' property='announce_button'/>
+                <outlet destination='32' id='94' property='announce_label'/>
+                <outlet destination='Sfp-FG-KpZ' id='k7N-zs-kBQ' property='announce_label2'/>
+                <outlet destination='9' id='84' property='apply_express_label'/>
+                <outlet destination='uZw-SK-jog' id='yku-1z-DiC' property='backgdView'/>
+                <outlet destination='63' id='66' property='bg_scrollview'/>
+                <outlet destination='133' id='134' property='btn_repaymentPoriod'/>
+                <outlet destination='10' id='zY6-pR-kj2' property='callNowBtn'/>
+                <outlet destination='29' id='42' property='checkBox_btn'/>
+                <outlet destination='35' id='Two-EY-eLQ' property='clear_btn'/>
+                <outlet destination='PUA-bP-cKj' id='Hct-PP-Rke' property='contactLabel'/>
+                <outlet destination='122' id='127' property='email_fail_button'/>
+                <outlet destination='121' id='128' property='email_fail_label'/>
+                <outlet destination='124' id='125' property='email_fail_textview'/>
+                <outlet destination='111' id='126' property='email_fail_view'/>
+                <outlet destination='104' id='110' property='email_sent_contact_label'/>
+                <outlet destination='102' id='109' property='email_sent_label'/>
+                <outlet destination='105' id='108' property='email_sent_ok_button'/>
+                <outlet destination='103' id='107' property='email_sent_textview'/>
+                <outlet destination='98' id='99' property='email_sent_view'/>
+                <outlet destination='0pW-zM-N08' id='5jD-UX-c02' property='imageView1'/>
+                <outlet destination='S5t-oS-bdC' id='25A-2i-kqw' property='imageView2'/>
+                <outlet destination='17' id='91' property='loan_value_label'/>
+                <outlet destination='24' id='50' property='loan_value_textfield'/>
+                <outlet destination='3Ty-7B-21n' id='eBr-YT-ZFh' property='loanbgView'/>
+                <outlet destination='15' id='89' property='mobile_label'/>
+                <outlet destination='19' id='48' property='mobile_textfield'/>
+                <outlet destination='14' id='88' property='name_label'/>
+                <outlet destination='20' id='47' property='name_textfield'/>
+                <outlet destination='2mT-z5-Tbc' id='DAQ-XJ-3FH' property='namebgView'/>
+                <outlet destination='7Kz-Nu-n4N' id='wZq-u9-bBe' property='numberbgView'/>
+                <outlet destination='64' id='86' property='office_time_label'/>
+                <outlet destination='18' id='92' property='repay_label'/>
+                <outlet destination='133' id='K2O-LQ-CIw' property='repaymentBtn'/>
+                <outlet destination='xzt-2Y-Q2E' id='UD0-5f-vt8' property='selectName'/>
+                <outlet destination='34' id='rx5-Dx-xc5' property='submit_btn'/>
+                <outlet destination='30' id='93' property='terms_label'/>
+                <outlet destination='vcu-Nd-CgU' id='Jss-KM-OtP' property='titleLabel'/>
+                <outlet destination='6' id='8' property='title_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view autoresizesSubviews='NO' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='5' image='table_header_bg.png' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='scaleToFill' id='6' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Label' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.5'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='17'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='shadowColor' white='0.5'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <scrollView alwaysBounceHorizontal='YES' alwaysBounceVertical='YES' autoresizesSubviews='NO' bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' id='63' multipleTouchEnabled='YES' pagingEnabled='YES'>
+                    <rect height='417' key='frame' width='320' x='0.0' y='83'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' horizontalHuggingPriority='251' id='0pW-zM-N08' image='borderlistwithborder.9b.png' userInteractionEnabled='NO' userLabel='Image View - borderlistwithborder.9b.png' verticalHuggingPriority='251'>
+                            <rect height='362' key='frame' width='310' x='8' y='10'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='vcu-Nd-CgU' lineBreakMode='tailTruncation' numberOfLines='0' opaque='NO' text='&quot;Cash in Hand&quot; Application' userInteractionEnabled='NO' userLabel='titleLabel' verticalHuggingPriority='251'>
+                            <rect height='30' key='frame' width='300' x='20' y='12'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='highlightedColor' white='0.0'/>
+                        </label>
+                        <view alpha='0.59999999999999964' contentMode='scaleToFill' id='uZw-SK-jog'>
+                            <rect height='260' key='frame' width='304' x='11' y='37'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='0.66666666666666663'/>
+                        </view>
+                        <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='S5t-oS-bdC' image='borderlist_line.png' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='2' key='frame' width='307' x='10' y='38'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <label clipsSubviews='YES' contentMode='left' id='9' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='特快申請' userInteractionEnabled='NO'>
+                            <rect height='30' key='frame' width='160' x='20' y='45'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='10' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='100' x='198' y='45'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state backgroundImage='btn_blank_01.png' key='normal' title='立即致電'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='62' selector='pressCallNowButton:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+                        <label clipsSubviews='YES' contentMode='left' id='64' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' userInteractionEnabled='NO'>
+                            <rect height='42' key='frame' width='281' x='20' y='66'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <string key='text'>服務時間 (公眾假期除外)：
+星期一至五：9a.m. - 6p.m.；星期六：9a.m. - 2p.m. </string>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='10'/>
+                            <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <label clipsSubviews='YES' contentMode='left' id='14' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='姓名:' userInteractionEnabled='NO'>
+                            <rect height='21' key='frame' width='75' x='20' y='110'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button buttonType='roundedRect' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='xzt-2Y-Q2E' lineBreakMode='middleTruncation' opaque='NO' userLabel='Button - name'>
+                            <rect height='30' key='frame' width='75' x='115' y='109'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <state backgroundImage='selectName.png' key='normal' title='MR'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='APP-oR-gmH' selector='showSelectedName:'/>
+                            </connections>
+                        </button>
+                        <view contentMode='scaleToFill' id='2mT-z5-Tbc'>
+                            <rect height='26' key='frame' width='96' x='202' y='111'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                        </view>
+                        <textField background='selectName2.png' borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='20' minimumFontSize='17' opaque='NO'>
+                            <rect height='30' key='frame' width='100' x='200' y='109'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits'/>
+                            <connections>
+                                <outlet destination='-1' id='46' property='delegate'/>
+                            </connections>
+                        </textField>
+                        <label clipsSubviews='YES' contentMode='left' id='15' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='流動電話號碼:' userInteractionEnabled='NO'>
+                            <rect height='21' key='frame' width='88' x='20' y='138'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='PUA-bP-cKj' lineBreakMode='wordWrap' numberOfLines='4' opaque='NO' text='(BEA will contact you to process this application.)' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='60' key='frame' width='85' x='20' y='145'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='10' type='system'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='highlightedColor' white='0.0'/>
+                        </label>
+                        <view contentMode='scaleToFill' id='7Kz-Nu-n4N'>
+                            <rect height='27' key='frame' width='181' x='117' y='151'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                        </view>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='19' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='185' x='115' y='149'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits' keyboardType='numberPad'/>
+                            <connections>
+                                <outlet destination='-1' id='53' property='delegate'/>
+                            </connections>
+                        </textField>
+                        <label clipsSubviews='YES' contentMode='left' id='17' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='3' opaque='NO' text='貸款金額(港幣):' userInteractionEnabled='NO'>
+                            <rect height='50' key='frame' width='96' x='20' y='202'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <view contentMode='scaleToFill' id='3Ty-7B-21n'>
+                            <rect height='27' key='frame' width='181' x='117' y='218'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                        </view>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='24' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='185' x='115' y='216'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits' keyboardType='numberPad'/>
+                            <connections>
+                                <outlet destination='-1' id='51' property='delegate'/>
+                            </connections>
+                        </textField>
+                        <label clipsSubviews='YES' contentMode='left' id='18' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' text='還款期:(月)' userInteractionEnabled='NO'>
+                            <rect height='33' key='frame' width='80' x='20' y='254'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='133' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='185' x='115' y='254'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <state backgroundImage='repayment.png' key='normal'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='135' selector='pressRepaymentPoriod:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='29' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='20' key='frame' width='20' x='20' y='309'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state backgroundImage='checkbox_off.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state backgroundImage='checkbox_on.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='43' selector='clickCheckBox:'/>
+                            </connections>
+                        </button>
+                        <label clipsSubviews='YES' contentMode='left' id='30' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='本人證實本人已參閱及明白東亞銀行的' userInteractionEnabled='NO'>
+                            <rect height='14' key='frame' width='266' x='48' y='308'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <label clipsSubviews='YES' contentMode='left' id='32' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='3' opaque='NO' text='Personal Data (Privacy) Ordinance - Personal Information Collection  (Customers) Statement(\&quot;Statement\&quot;).' userInteractionEnabled='NO'>
+                            <rect height='42' key='frame' width='266' x='48' y='321'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                            <color alpha='1' blue='0.98823535439999999' colorSpace='deviceRGB' green='0.2470588386' key='textColor' red='0.13333334029999999'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='95' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='42' key='frame' width='266' x='48' y='321'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='97' selector='pressAnnounceButton:'/>
+                            </connections>
+                        </button>
+                        <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='35' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='100' x='40' y='380'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                            <size height='-1' key='titleShadowOffset' width='-1'/>
+                            <state backgroundImage='btn_blank_01.png' key='normal' title='清除'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='56' selector='pressClearButton:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+                        <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='34' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='100' x='180' y='380'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                            <size height='-1' key='titleShadowOffset' width='-1'/>
+                            <state backgroundImage='btn_blank_01.png' key='normal' title='提交'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                                <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                            </state>
+                            <state backgroundImage='merchant_button_3.png' key='selected'/>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='57' selector='pressSubmitButton:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='Sfp-FG-KpZ' lineBreakMode='tailTruncation' opaque='NO' text='Personal' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='14' key='frame' width='63' x='253' y='308'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                            <color alpha='1' blue='0.98823535439999999' colorSpace='deviceRGB' green='0.2470588386' key='textColor' red='0.13333334029999999'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='O4a-B2-nDv' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='42' key='frame' width='266' x='261' y='318'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='V6u-ji-5hq' selector='pressAnnounceButton:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='QPr-UA-6nV' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='16' key='frame' width='63' x='251' y='308'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='0n1-4E-fTO' selector='pressAnnounceButton:'/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='tintColor' white='0.0'/>
+                </scrollView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='bOQ-hc-U5f' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+            <rect height='128' key='frame' width='240' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+        </imageView>
+        <view contentMode='scaleToFill' hidden='YES' id='111'>
+            <rect height='310' key='frame' width='296' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <imageView contentMode='scaleToFill' id='129' image='app_result_frame.png' userInteractionEnabled='NO'>
+                    <rect height='310' key='frame' width='296' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </imageView>
+                <imageView contentMode='scaleToFill' id='112' image='attention.png' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='45' x='8' y='8'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='left' id='121' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Application Rejected' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='220' x='60' y='8'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.5' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='124' multipleTouchEnabled='YES' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO'>
+                    <rect height='164' key='frame' width='296' x='0.0' y='67'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                    <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                </textView>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='122' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='115' x='173' y='267'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='apply_online_button.png' key='normal' title='OK'>
+                        <color alpha='1' blue='1' colorSpace='custom' customColorSpace='calibratedRGB' green='1' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='130' selector='pressEmailFailButton:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' hidden='YES' id='98'>
+            <rect height='310' key='frame' width='296' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <imageView contentMode='scaleToFill' id='100' image='app_result_frame.png' userInteractionEnabled='NO'>
+                    <rect height='310' key='frame' width='296' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </imageView>
+                <imageView contentMode='scaleToFill' id='101' image='complete.png' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='45' x='8' y='8'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='left' id='102' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Application Sent' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='220' x='60' y='8'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                    <color alpha='1' blue='0.2470588386' colorSpace='deviceRGB' green='0.81568634510000004' key='textColor' red='0.54901963470000004'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='103' multipleTouchEnabled='YES' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO'>
+                    <rect height='164' key='frame' width='296' x='0.0' y='67'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                    <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                </textView>
+                <label clipsSubviews='YES' contentMode='left' id='104' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Our Customer service representative will contact you on the next working day.' userInteractionEnabled='NO'>
+                    <rect height='36' key='frame' width='280' x='8' y='231'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='105' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='115' x='173' y='267'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_blank_01.png' key='normal' title='OK'>
+                        <color alpha='1' blue='1' colorSpace='custom' customColorSpace='calibratedRGB' green='1' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='106' selector='pressEmailSentOKButton:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_blank_01.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_blank_01_new.png'/></userDefinedRuntimeAttributes></button>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <viewController id='DG7-fB-fPe'/>
+    </objects>
+    <resources>
+        <image height='310' name='app_result_frame.png' width='295'/>
+        <image height='34' name='apply_online_button.png' width='286'/>
+        <image height='45' name='attention.png' width='45'/>
+        <image height='3' name='borderlist_line.png' width='754'/>
+        <image height='848' name='borderlistwithborder.9b.png' width='600'/>
+        <image height='70' name='btn_blank_01.png' width='305'/>
+        <image height='50' name='checkbox_off.png' width='50'/>
+        <image height='50' name='checkbox_on.png' width='50'/>
+        <image height='45' name='complete.png' width='45'/>
+        <image height='37' name='merchant_button_3.png' width='156'/>
+        <image height='28' name='repayment.png' width='198'/>
+        <image height='28' name='selectName.png' width='76'/>
+        <image height='56' name='selectName2.png' width='255'/>
+        <image height='45' name='table_header_bg.png' width='1'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

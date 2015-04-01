@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13E28' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='CyberFundSearchViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='17' id='19' property='banner'/>
+                <outlet destination='9' id='14' property='tabBar'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <navigationController autoresizesArchivedViewToFullSize='NO' hidesBottomBarWhenPushed='YES' id='4' userLabel='Navigation Controller'>
+            <extendedEdge key='edgesForExtendedLayout'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+            <navigationBar clipsSubviews='YES' contentMode='scaleToFill' id='6' key='navigationBar' multipleTouchEnabled='YES' opaque='NO'>
+                <autoresizingMask key='autoresizingMask'/>
+            </navigationBar>
+            <viewControllers>
+                <viewController customClass='RootViewController' id='ugh-ig-S4P' nibName='RootViewController'>
+                    <extendedEdge key='edgesForExtendedLayout'/>
+                    <navigationItem id='esf-38-NSm' key='navigationItem'>
+                        <nil key='title'/>
+                    </navigationItem>
+                </viewController>
+            </viewControllers>
+        </navigationController>
+        <tabBar clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='9'>
+            <rect height='49' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMinY='YES' key='autoresizingMask' widthSizable='YES'/>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <items>
+                <tabBarItem id='13' image='bea_tab_home.png' title='0'/>
+                <tabBarItem id='11' image='tabbar_search.png' tag='1' title='1'/>
+                <tabBarItem id='10' image='bea_tab_watchlist.png' tag='2' title='2'/>
+                <tabBarItem id='12' image='top.png' tag='3' title='3'/>
+                <tabBarItem id='16' image='tab_marketinfo.png' tag='4' title='4'/>
+            </items>
+        </tabBar>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <imageView contentMode='scaleToFill' id='17' image='bea_logo.png' userInteractionEnabled='NO'>
+            <rect height='44' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </imageView>
+    </objects>
+    <resources>
+        <image height='44' name='bea_logo.png' width='320'/>
+        <image height='32' name='bea_tab_home.png' width='48'/>
+        <image height='32' name='bea_tab_watchlist.png' width='48'/>
+        <image height='32' name='tab_marketinfo.png' width='48'/>
+        <image height='25' name='tabbar_search.png' width='24'/>
+        <image height='27' name='top.png' width='27'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

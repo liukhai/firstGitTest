@@ -1,0 +1,90 @@
+//Chart UI Titles
+"chart_period" = "時距";
+"chart_type" = "類型";
+"select_title" = "選擇";
+"param_title" = "參數";
+"ta_parameters" = "技術分析";
+"defaults" = "默認";
+"OK" = "確定";
+
+// TA Names
+"none" = "沒有選擇";
+"sma" = "移動平均線";
+"wma" = "指數移動平均線";
+"ema" = "加權移動平均線";
+"psar" = "拋物轉向系統";
+"bollbands" = "保力加通道";
+
+"volume_ta" = "成交量";
+"rsi" = "相對強弱指數";
+"macd" = "移動平均匯聚背馳指標";
+"mtm" = "動量指標(MTM)";
+"roc" = "變速率(ROC)";
+"faststc" = "隨機快步指數";
+"slowstc" = "隨機慢步指數";
+"williamr" = "威廉指數(William %R)";
+"obv" = "淨值成交量(OBV)";
+"pvt" = "量價趨勢指標(PVT)";
+"dmi" = "動向指數(DMI)";
+"volumep" = "成交量+(Volume+)";
+"turnover_ta" = "成交金額(Turnover)";
+"turnoverp" = "成交金額＋(Turnover+)";
+"volatility" = "波動率(Volatility)";
+
+//Periods and Intervals
+"1_day" = "1日";
+"3_day" = "3日";
+"5_day" = "5日";
+"10_day" = "10日";
+"20_day" = "20日";
+"1_month" = "1個月";
+"3_month" = "3個月";
+"6_month" = "6個月";
+"1_year" = "1年";
+"3_year" = "3年";
+"8_year" = "8年";
+
+"1_day_abbr" = "1日";
+"3_day_abbr" = "3日";
+"5_day_abbr" = "5日";
+"10_day_abbr" = "10日";
+"20_day_abbr" = "20日";
+"1_month_abbr" = "1個月";
+"3_month_abbr" = "3個月";
+"6_month_abbr" = "6個月";
+"1_year_abbr" = "1年";
+"3_year_abbr" = "3年";
+"8_year_abbr" = "8年";
+
+"1_min" = "1分鐘";
+"3_min" = "3分鐘";
+"5_min" = "5分鐘";
+"10_min" = "10分鐘";
+"15_min" = "15分鐘";
+"30_min" = "30分鐘";
+"1_hour" = "1小時";
+"1_day_p" = "日線圖";
+"1_week" = "週線圖";
+"1_month_p" = "月線圖";
+
+"param_1_title" = "參數 1";
+"param_2_title" = "參數 2";
+"param_3_title" = "參數 3";
+"param_4_title" = "參數 4";
+"param_5_title" = "參數 5";
+
+"HSI" = "恆生指數";
+"HSCEI" = "國企指數";
+"HSCCI" = "紅籌指數";
+"HSIF" = "恆生期指";
+"HSF" = "恆生金融分類";
+"HSU" = "恆生公用事業分類";
+"HSP" = "恆生地產分類";
+"HSC" = "恆生商業分類";
+
+"HSI_short" = "恆生指數";
+"HSCEI_short" = "國企指數";
+"HSCCI_short" = "紅籌指數";
+"HSIF_short" = "恆生期指";
+
+"Disclaimer" = "免责声明";

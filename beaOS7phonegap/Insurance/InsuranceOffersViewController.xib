@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='InsuranceOffersViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='Jql-rP-hSf' id='VQK-9M-tuV' property='applyButton'/>
+                <outlet destination='Zyc-j2-3tU' id='7Og-W7-RWC' property='view'/>
+                <outlet destination='Drb-pz-vUp' id='JGK-Y8-7bM' property='webView'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='Zyc-j2-3tU' multipleTouchEnabled='YES'>
+            <rect height='460' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <webView contentMode='scaleToFill' id='Drb-pz-vUp' multipleTouchEnabled='YES' scalesPageToFit='YES'>
+                    <rect height='313' key='frame' width='320' x='0.0' y='80'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <connections>
+                        <outlet destination='-1' id='RPe-x4-6gp' property='delegate'/>
+                    </connections>
+                </webView>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='Jql-rP-hSf' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='37' key='frame' width='240' x='40' y='420'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='0.0' minY='-5'/>
+                    <state backgroundImage='merchant_button_4.png' key='normal' title='Quote and apply now'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='I4V-G4-8xc' selector='call'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+            <point key='canvasLocation' x='413' y='262'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='37' name='merchant_button_4.png' width='315'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

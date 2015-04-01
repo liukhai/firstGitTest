@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' useAutolayout='YES' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='FacebookListViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='IXN-4N-Omo' id='fuS-8e-afh' property='funBtn'/>
+                <outlet destination='R2A-XE-F8Z' id='99R-fC-vP0' property='funLabel'/>
+                <outlet destination='bur-tW-wTk' id='HSK-n6-9rb' property='fun_button'/>
+                <outlet destination='cV8-6k-CDi' id='VNb-Va-jp4' property='fun_image'/>
+                <outlet destination='0TP-da-XBs' id='8Nf-Jh-DUF' property='fun_label'/>
+                <outlet destination='BKM-ez-fjJ' id='DF3-Yt-rQa' property='fun_view'/>
+                <outlet destination='Gfg-1F-5Of' id='WnJ-1F-gGe' property='joyBtn'/>
+                <outlet destination='Zua-R9-UGV' id='QFY-s5-BOs' property='joyLabel'/>
+                <outlet destination='g4c-fm-otR' id='l4m-uZ-SLH' property='joy_button'/>
+                <outlet destination='Hgu-3P-XUY' id='JgE-oF-a0w' property='joy_image'/>
+                <outlet destination='HJ2-Ag-eob' id='fck-hk-FrJ' property='joy_label'/>
+                <outlet destination='xIv-aN-tDh' id='4WT-44-zsn' property='joy_view'/>
+                <outlet destination='i5M-Pr-FkT' id='sfx-zR-JGt' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='i5M-Pr-FkT'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' fixedFrame='YES' horizontalHuggingPriority='251' id='0TP-da-XBs' lineBreakMode='tailTruncation' opaque='NO' text='BEA Fun' translatesAutoresizingMaskIntoConstraints='NO' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='21' key='frame' width='300' x='10' y='80'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' fixedFrame='YES' horizontalHuggingPriority='251' id='HJ2-Ag-eob' lineBreakMode='tailTruncation' opaque='NO' text='BEA JOY' translatesAutoresizingMaskIntoConstraints='NO' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='21' key='frame' width='300' x='10' y='220'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' fixedFrame='YES' id='cV8-6k-CDi' image='mainPage_bottomBackImg.png' multipleTouchEnabled='YES' opaque='NO' translatesAutoresizingMaskIntoConstraints='NO'>
+                    <rect height='100' key='frame' width='300' x='10' y='105'/>
+                </imageView>
+                <view contentMode='scaleToFill' fixedFrame='YES' id='BKM-ez-fjJ' translatesAutoresizingMaskIntoConstraints='NO'>
+                    <rect height='100' key='frame' width='300' x='10' y='105'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' fixedFrame='YES' id='bur-tW-wTk' lineBreakMode='middleTruncation' opaque='NO' tag='302' translatesAutoresizingMaskIntoConstraints='NO'>
+                            <rect height='20' key='frame' width='20' x='274' y='40'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_arrow_right.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                        </button>
+                        <imageView contentMode='scaleToFill' fixedFrame='YES' horizontalHuggingPriority='251' id='aLX-VL-CIS' image='BEAFUN.png' translatesAutoresizingMaskIntoConstraints='NO' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='76' key='frame' width='76' x='13' y='13'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' adjustsLetterSpacingToFitWidth='YES' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' fixedFrame='YES' horizontalHuggingPriority='251' id='R2A-XE-F8Z' lineBreakMode='tailTruncation' numberOfLines='0' opaque='NO' preferredMaxLayoutWidth='170' text='' translatesAutoresizingMaskIntoConstraints='NO' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='80' key='frame' width='170' x='95' y='10'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' fixedFrame='YES' id='IXN-4N-Omo' lineBreakMode='middleTruncation' opaque='NO' translatesAutoresizingMaskIntoConstraints='NO'>
+                            <rect height='100' key='frame' width='300' x='0.0' y='1'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <state key='normal'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='9XZ-Yw-UwZ' selector='funBtnClick:'/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' fixedFrame='YES' id='Hgu-3P-XUY' image='mainPage_bottomBackImg.png' multipleTouchEnabled='YES' opaque='NO' translatesAutoresizingMaskIntoConstraints='NO'>
+                    <rect height='100' key='frame' width='300' x='10' y='249'/>
+                </imageView>
+                <view contentMode='scaleToFill' fixedFrame='YES' id='xIv-aN-tDh' translatesAutoresizingMaskIntoConstraints='NO'>
+                    <rect height='100' key='frame' width='300' x='10' y='249'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' fixedFrame='YES' id='g4c-fm-otR' lineBreakMode='middleTruncation' opaque='NO' tag='302' translatesAutoresizingMaskIntoConstraints='NO'>
+                            <rect height='20' key='frame' width='20' x='273' y='41'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_arrow_right.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                        </button>
+                        <imageView contentMode='scaleToFill' fixedFrame='YES' horizontalHuggingPriority='251' id='adF-dB-xY0' image='BEAJOY.png' translatesAutoresizingMaskIntoConstraints='NO' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='76' key='frame' width='76' x='13' y='12'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' adjustsLetterSpacingToFitWidth='YES' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' fixedFrame='YES' horizontalHuggingPriority='251' id='Zua-R9-UGV' lineBreakMode='tailTruncation' numberOfLines='0' opaque='NO' preferredMaxLayoutWidth='170' text='' translatesAutoresizingMaskIntoConstraints='NO' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='80' key='frame' width='170' x='95' y='10'/>
+                            <fontDescription family='Helvetica Neue' key='fontDescription' name='HelveticaNeue' pointSize='13'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' fixedFrame='YES' id='Gfg-1F-5Of' lineBreakMode='middleTruncation' opaque='NO' tag='1' translatesAutoresizingMaskIntoConstraints='NO'>
+                            <rect height='100' key='frame' width='300' x='0.0' y='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <state key='normal'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='AWp-W3-djY' selector='joyBtnClick:'/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='180' name='BEAFUN.png' width='179'/>
+        <image height='180' name='BEAJOY.png' width='179'/>
+        <image height='24' name='btn_arrow_right.png' width='24'/>
+        <image height='76' name='mainPage_bottomBackImg.png' width='300'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

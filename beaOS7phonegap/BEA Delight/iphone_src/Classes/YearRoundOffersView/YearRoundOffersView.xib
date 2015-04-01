@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='YearRoundOffersViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='26' id='54' property='button0'/>
+                <outlet destination='28' id='55' property='button1'/>
+                <outlet destination='29' id='58' property='button2'/>
+                <outlet destination='30' id='57' property='button3'/>
+                <outlet destination='34' id='59' property='button4'/>
+                <outlet destination='35' id='60' property='button5'/>
+                <outlet destination='36' id='61' property='button6'/>
+                <outlet destination='37' id='62' property='button7'/>
+                <outlet destination='118' id='gAp-gD-zJV' property='cached_image_bg'/>
+                <outlet destination='119' id='Q1f-ah-usu' property='cached_image_bg2'/>
+                <outlet destination='120' id='O39-Kb-FWd' property='cached_image_bg3'/>
+                <outlet destination='121' id='it7-tT-mfN' property='cached_image_bg4'/>
+                <outlet destination='122' id='Pe0-Tp-QbE' property='cached_image_bg5'/>
+                <outlet destination='123' id='kZa-Ma-gJB' property='cached_image_bg6'/>
+                <outlet destination='124' id='xyb-xq-ZHN' property='cached_image_bg7'/>
+                <outlet destination='125' id='vIf-FX-8Vx' property='cached_image_bg8'/>
+                <outlet destination='25' id='27' property='content_view'/>
+                <outlet destination='4' id='10' property='dining_offers'/>
+                <outlet destination='113' id='126' property='img0'/>
+                <outlet destination='114' id='127' property='img1'/>
+                <outlet destination='115' id='128' property='img2'/>
+                <outlet destination='116' id='129' property='img3'/>
+                <outlet destination='87' id='130' property='img4'/>
+                <outlet destination='5' id='11' property='shopping_offers'/>
+                <outlet destination='51' id='53' property='tnc'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='25'>
+            <rect height='275' key='frame' width='640' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='26' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='50' key='frame' width='275' x='21' y='20'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray2.png' key='normal' title='Top Merchant Highlights'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='42' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='28' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='50' key='frame' width='275' x='21' y='70'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_white2.png' key='normal' title='Hotels'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='43' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='29' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='50' key='frame' width='275' x='21' y='120'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray2.png' key='normal' title='Chain Restaurants'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='44' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='30' lineBreakMode='middleTruncation' opaque='NO' tag='3'>
+                    <rect height='50' key='frame' width='275' x='21' y='170'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_white2.png' key='normal' title='Select by District'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='45' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='34' lineBreakMode='middleTruncation' opaque='NO' tag='4'>
+                    <rect height='50' key='frame' width='275' x='341' y='20'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray2.png' key='normal' title='Apparel'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='46' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='35' lineBreakMode='middleTruncation' opaque='NO' tag='5'>
+                    <rect height='50' key='frame' width='275' x='341' y='70'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_white2.png' key='normal' title='Beauty'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='47' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='36' lineBreakMode='middleTruncation' opaque='NO' tag='6'>
+                    <rect height='50' key='frame' width='275' x='341' y='120'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray2.png' key='normal' title='Jewellery &amp; Watches'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='48' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='37' lineBreakMode='middleTruncation' opaque='NO' tag='7'>
+                    <rect height='50' key='frame' width='275' x='341' y='170'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='16' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_white2.png' key='normal' title='Lifestyle'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='49' selector='tabButtonPressed:'/>
+                    </connections>
+                </button>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='118' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='261' y='35'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='YES'/>
+                    </accessibility>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='119' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='261' y='85'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='120' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='261' y='135'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='121' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='261' y='185'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='122' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='581' y='35'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='123' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='581' y='85'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='124' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='581' y='135'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='125' image='btn_arrow_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='20' key='frame' width='20' x='581' y='185'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='131' image='borderlist_thin_white_bottom.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='6' key='frame' width='275' x='21' y='220'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='132' image='borderlist_thin_white_bottom.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='6' key='frame' width='275' x='341' y='220'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+            </subviews>
+            <color alpha='0.0' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <view autoresizesSubviews='NO' clipsSubviews='YES' contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='4' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='43' key='frame' width='137' x='21' y='101'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='26' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray_tap_01_left_off.png' key='normal' title='Year round Dining'>
+                        <color alpha='1' blue='0.041103543450000002' colorSpace='calibratedRGB' green='0.66626458730000004' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='(new)borderlist_thin_gray_tap_01_left_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.9984939759'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='38' selector='diningButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='5' lineBreakMode='wordWrap' opaque='NO' tag='1'>
+                    <rect height='43' key='frame' width='138' x='158' y='101'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                    <inset key='contentEdgeInsets' maxX='0.0' maxY='0.0' minX='26' minY='0.0'/>
+                    <state backgroundImage='borderlist_thin_gray_tap_01_right_off.png' key='normal' title='Year round Shopping'>
+                        <color alpha='1' blue='0.041103543450000002' colorSpace='calibratedRGB' green='0.66626458730000004' key='titleColor' red='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state backgroundImage='(new)borderlist_thin_gray_tap_01_right_on.png' key='selected'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.9984939759'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='39' selector='shoppingButtonPressed:'/>
+                    </connections>
+                </button>
+                <button clearsContextBeforeDrawing='NO' contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' id='51' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='56' key='frame' width='320' x='0.0' y='424'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='32' maxY='0.0' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='bottombar_02.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='0.0'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='52' selector='tncButtonPressed:'/>
+                    </connections>
+                </button>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='87' image='arrow_orange_right.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='16' key='frame' width='14' x='297' y='444'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='113' image='creditcard_yearroundoffers_icon_dining_off.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='26' key='frame' width='26' x='20' y='110'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='114' image='creditcard_yearroundoffers_icon_shopping_on.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='26' key='frame' width='26' x='165' y='110'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='115' image='creditcard_yearroundoffers_icon_dining_on.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='26' key='frame' width='26' x='20' y='110'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='116' image='creditcard_yearroundoffers_icon_shopping_off.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='26' key='frame' width='26' x='165' y='110'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='84' name='(new)borderlist_thin_gray_tap_01_left_on.png' width='338'/>
+        <image height='84' name='(new)borderlist_thin_gray_tap_01_right_on.png' width='338'/>
+        <image height='26' name='arrow_orange_right.png' width='24'/>
+        <image height='140' name='borderlist_thin_gray2.png' width='640'/>
+        <image height='84' name='borderlist_thin_gray_tap_01_left_off.png' width='338'/>
+        <image height='84' name='borderlist_thin_gray_tap_01_right_off.png' width='338'/>
+        <image height='140' name='borderlist_thin_white2.png' width='640'/>
+        <image height='20' name='borderlist_thin_white_bottom.png' width='676'/>
+        <image height='140' name='bottombar_02.png' width='800'/>
+        <image height='24' name='btn_arrow_right.png' width='24'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_dining_off.png' width='68'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_dining_on.png' width='68'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_shopping_off.png' width='68'/>
+        <image height='68' name='creditcard_yearroundoffers_icon_shopping_on.png' width='68'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

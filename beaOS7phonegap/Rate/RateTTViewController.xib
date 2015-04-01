@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='RateTTViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='12' id='17' property='fund_table'/>
+                <outlet destination='36' id='39' property='lbBuy'/>
+                <outlet destination='10' id='38' property='lbCurrency'/>
+                <outlet destination='42' id='43' property='lbNotice'/>
+                <outlet destination='40' id='41' property='lbSell'/>
+                <outlet destination='11' id='18' property='scroll_view'/>
+                <outlet destination='32' id='33' property='text_view'/>
+                <outlet destination='23' id='24' property='time_label'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='460' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='10' lineBreakMode='wordWrap' minimumFontSize='10' opaque='NO' text='Currency' userInteractionEnabled='NO'>
+                    <rect height='17' key='frame' width='62' x='13' y='27'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='36' lineBreakMode='wordWrap' minimumFontSize='10' opaque='NO' text='Bank Buy' textAlignment='right' userInteractionEnabled='NO'>
+                    <rect height='17' key='frame' width='66' x='160' y='27'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='40' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Bank Sell' textAlignment='right' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='64' x='240' y='27'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='45' image='borderlist_line.png' multipleTouchEnabled='YES' opaque='NO'>
+                    <rect height='1' key='frame' width='300' x='10' y='50'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                </imageView>
+                <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='11' multipleTouchEnabled='YES' scrollEnabled='NO' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO'>
+                    <rect height='340' key='frame' width='298' x='11' y='51'/>
+                    <autoresizingMask flexibleMaxX='YES' heightSizable='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <tableView alwaysBounceVertical='YES' bounces='NO' clipsSubviews='YES' contentMode='scaleToFill' id='12' rowHeight='44' sectionFooterHeight='22' sectionHeaderHeight='22' separatorStyle='none' showsHorizontalScrollIndicator='NO' showsVerticalScrollIndicator='NO' style='plain' userLabel='Table View'>
+                            <rect height='340' key='frame' width='298' x='0.0' y='0.0'/>
+                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                            <connections>
+                                <outlet destination='-1' id='22' property='dataSource'/>
+                                <outlet destination='-1' id='20' property='delegate'/>
+                            </connections>
+                        </tableView>
+                    </subviews>
+                </scrollView>
+                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='44' image='borderlistwithborder.9b.png' userInteractionEnabled='NO'>
+                    <rect height='372' key='frame' width='300' x='10' y='20'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+                <label clipsSubviews='YES' contentMode='left' id='42' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='(The above information is for reference only.)' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='19' key='frame' width='320' x='0.0' y='400'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Arial' key='fontDescription' name='ArialMT' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='23' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='As at ' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='23' key='frame' width='320' x='0.0' y='417'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Arial' key='fontDescription' name='Arial-BoldMT' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <nil key='highlightedColor'/>
+                </label>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' id='32'>
+            <rect height='1409' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <label clipsSubviews='YES' contentMode='left' id='29' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='86' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='1373' key='frame' width='306' x='7' y='8'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <string key='text'>Investments inherently involve risks and the prices of units may go down as well as up. Past performance is not indicative of future performance. For further details including the product features and risk involved, please refer to the Explanatory Memorandum of the relevant Scheme.
+
+Note 1: Various markets in which the BEA (MPF) Greater China Growth Fund and BEA (Industry Scheme) Greater China Growth Fund will invest are considered as emerging markets. As emerging markets tend to be more volatile than developed markets, any holdings in emerging markets are exposed to higher levels of market risks.
+
+Note 2: BEA (MPF) Long Term Guaranteed Fund invested solely in an Approved Pooled Investment Fund in a form of insurance policy provided by Principal Insurance Company (Hong Kong) Limited (the "Guarantor"). The Guarantor offers the guarantee of capital and guaranteed rate of return for the Fund. The guaranteed rate of return for contributions made to the Fund after 30 September 2004 was revised. The revised guarantee rate would be the "new applicable rate", which is currently set at 1% p.a. The guaranteed rate of return for contributions made to the Fund on or before 30 September 2004 remains unchanged (5% p.a.). 
+ 
+The guarantee of capital and the prescribed guarantee rate of return will only be offered if the contributions invested are withdrawn upon the occurrence of a "qualifying event", which is the receipt by the Guarantor through the Trustee of a valid claim of all the accrued benefits of the member upon satisfying any of the following conditions: a) Attainment of the normal retirement age or retirement at or after the early retirement age but before the normal retirement age b) Total incapacity c) Death d) Permanent departure from Hong Kong e) Claim of "small balance". The above conditions (a) to (e) apply to employee members, self-employed persons, "preserved account holders" and Special Voluntary Contribution Account Members; f) Termination of the Member's employment and the continuous period for which the Member has been investing in Fund up to and including the last date of his employment ("qualifying period") is at least 36 complete months. (This only applies if the Member is employed in a company participating in the Master Trust). Such qualifying period is determined at the scheme account level. The qualifying period may also be re-set to zero if the Member (or his representative) effects a redemption, switching out or withdrawal of investments from the Fund other than upon the occurrence of a qualifying event. For the avoidance of doubt, condition (f) does not apply to self-employed Members, preserved account holders or Special Voluntary Contribution Account Members. 
+ 
+If a redemption, switching out or withdrawal of the units of the fund is effected other than the occurrence of a qualifying event as stated above, the guarantee will be affected. Special terms and conditions apply regarding how the guarantee operates. Please refer to the Appendix of the Explanatory Memorandum for details of the credit risk, guarantee features and guarantee conditions of this Constituent Fund.
+ 
+  
+Note 3: BEA (MPF) Conservative Fund and BEA (Industry Scheme) MPF Conservative Fund do not provide any guarantee of the repayment of capital.
+ 
+Fees and charges of MPF Conservative Fund can be deducted from either (i) the assets of the fund or (ii) members' account by way of unit deduction. BEA (MPF) Conservative Fund and BEA (Industry Scheme) MPF Conservative Fund use method (ii) and, therefore, unit prices, net asset value and fund performance quoted (except for the fund performance figures quoted in a fund fact sheet) do not reflect the impact of fees and charges.</string>
+                    <fontDescription family='Arial' key='fontDescription' name='ArialMT' pointSize='13'/>
+                    <color alpha='1' blue='0.04347826087' colorSpace='calibratedRGB' green='0.04347826087' key='textColor' red='0.04347826087'/>
+                    <nil key='highlightedColor'/>
+                    <string key='userLabel'>Label - Investments inherently involve risks and the prices of units 
+may go down as well as up. Past performance is not indicative of future performance. For further details including the product features and risk involved, please refer to the Explanatory Memorandum of the relevant Scheme.
+
+Note 1: Various markets in which the BEA (MPF) Greater China Growth Fund and BEA (Industry Scheme) Greater China Growth Fund will invest are considered as emerging markets. As emerging markets tend to be more volatile than developed markets, any holdings in emerging markets are exposed to higher levels of market risks.
+
+Notes  </string>
+                </label>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='3' name='borderlist_line.png' width='754'/>
+        <image height='848' name='borderlistwithborder.9b.png' width='600'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

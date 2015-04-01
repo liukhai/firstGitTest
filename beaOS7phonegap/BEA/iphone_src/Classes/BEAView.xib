@@ -1,0 +1,1177 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14B25' targetRuntime='iOS.CocoaTouch' toolsVersion='6254' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6247'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='BEAViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='215' id='218' property='AccPro_button'/>
+                <outlet destination='457' id='huL-Sk-yTO' property='Concert_Movie_Offers_more'/>
+                <outlet destination='377' id='FRX-Ie-USL' property='Insurance_button'/>
+                <outlet destination='eOj-op-PxY' id='yhk-0F-jBf' property='Rate_button'/>
+                <outlet destination='fQo-oo-fmy' id='NAh-D4-O6F' property='Rate_label'/>
+                <outlet destination='255' id='260' property='SGG_button'/>
+                <outlet destination='256' id='261' property='SGG_label'/>
+                <outlet destination='139' id='153' property='atm_button'/>
+                <outlet destination='140' id='156' property='atm_label'/>
+                <outlet destination='45m-f2-jDM' id='pF2-ze-fRe' property='badge'/>
+                <outlet destination='459' id='tYE-mZ-Kqu' property='banking_more'/>
+                <outlet destination='189' id='441' property='banking_tag0'/>
+                <outlet destination='378' id='442' property='banking_tag1'/>
+                <outlet destination='371' id='443' property='banking_tag2'/>
+                <outlet destination='397' id='444' property='banking_tag3'/>
+                <outlet destination='453' id='454' property='bottomView4Promo1'/>
+                <outlet destination='449' id='450' property='bottomView4Promo2'/>
+                <outlet destination='451' id='452' property='bottomView4Promo3'/>
+                <outlet destination='304' id='FUr-gX-k9h' property='cash_in_hand'/>
+                <outlet destination='yx0-V0-Awa' id='cXB-YY-h6n' property='credit_button'/>
+                <outlet destination='455' id='2ol-uA-s9R' property='credit_card_latest_promotions_more'/>
+                <outlet destination='2Wh-Bj-6hy' id='HXe-yd-tvy' property='credit_label'/>
+                <outlet destination='88' id='154' property='cyberbanking_button'/>
+                <outlet destination='92' id='158' property='cyberbanking_label'/>
+                <outlet destination='188' id='191' property='eas_cybertrading_button'/>
+                <outlet destination='461' id='P99-fa-4cz' property='facebook_button'/>
+                <outlet destination='462' id='900-u1-n2i' property='facebook_label'/>
+                <outlet destination='316' id='iLV-MB-CmW' property='gold_button'/>
+                <outlet destination='145' id='151' property='hotline_button'/>
+                <outlet destination='146' id='160' property='hotline_label'/>
+                <outlet destination='Sgj-Xf-7qH' id='Frb-HX-oHG' property='icoupon_button'/>
+                <outlet destination='lfL-b7-ykb' id='haV-V0-cyz' property='icoupon_label'/>
+                <outlet destination='BTE-bu-MIY' id='xDb-wI-Uun' property='label_P2P'/>
+                <outlet destination='299' id='427' property='lifestyle_tag0'/>
+                <outlet destination='303' id='428' property='lifestyle_tag1'/>
+                <outlet destination='305' id='429' property='lifestyle_tag2'/>
+                <outlet destination='401' id='431' property='lifestyle_tag4'/>
+                <outlet destination='404' id='432' property='lifestyle_tag5'/>
+                <outlet destination='403' id='436' property='lifestyle_tag7'/>
+                <outlet destination='399' id='jgU-AM-qV1' property='lifestyle_tag8'/>
+                <outlet destination='394' id='396' property='m_view_megahub'/>
+                <outlet destination='245' id='249' property='mkgEcard_button'/>
+                <outlet destination='246' id='248' property='mkgEcard_label'/>
+                <outlet destination='293' id='321' property='mmenuv0'/>
+                <outlet destination='291' id='322' property='mmenuv1'/>
+                <outlet destination='294' id='323' property='mmenuv2'/>
+                <outlet destination='372' id='QXu-Uu-6ke' property='mpf_button'/>
+                <outlet destination='312' id='As7-6P-riM' property='notes_exchange_rates_button'/>
+                <outlet destination='217' id='AY5-lo-9Fs' property='privilegeMore_label'/>
+                <outlet destination='141' id='180' property='property_loans_button'/>
+                <outlet destination='143' id='181' property='property_loans_label'/>
+                <outlet destination='87' id='194' property='scrollView'/>
+                <outlet destination='144' id='152' property='settings_button'/>
+                <outlet destination='148' id='161' property='settings_label'/>
+                <outlet destination='240' id='243' property='stockgame_button'/>
+                <outlet destination='242' id='244' property='stockgame_label'/>
+                <outlet destination='AVH-N3-JhT' id='NfJ-5D-TCo' property='supremeGold_button'/>
+                <outlet destination='YNs-yF-6u6' id='a0R-4q-9xm' property='supremeGold_label'/>
+                <outlet destination='138' id='184' property='taxloan_button'/>
+                <outlet destination='142' id='185' property='taxloan_label'/>
+                <outlet destination='314' id='wrw-dh-tPT' property='tt_exchange_rates_button'/>
+                <outlet destination='6' id='7' property='view'/>
+                <outlet destination='313' id='446' property='wealth_tag0'/>
+                <outlet destination='315' id='447' property='wealth_tag1'/>
+                <outlet destination='Cyb-cf-nLX' id='Ilg-hD-zuL' property='wealth_tag2'/>
+                <outlet destination='317' id='ceq-XX-ZNq' property='wealth_tag3'/>
+                <outlet destination='298' id='6od-Fv-GBU' property='year_round_dinner'/>
+                <outlet destination='302' id='F1g-XE-Nqj' property='year_round_shopping'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='362'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='379' lineBreakMode='middleTruncation' opaque='NO' tag='11'>
+                    <rect height='50' key='frame' width='50' x='40' y='45'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_stockwatch.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='382' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='380' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='20' y='95'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>Stock Watch/
+Trade</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='370' lineBreakMode='middleTruncation' opaque='NO' tag='14'>
+                    <rect height='50' key='frame' width='50' x='230' y='45'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_rate.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='383' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='369' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='216' y='95'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>Rate
+Enquiries</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.1110253814' colorSpace='calibratedRGB' green='0.1228150154' key='textColor' red='1'/>
+                    <nil key='highlightedColor'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='375' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='50' key='frame' width='50' x='230' y='146'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_mobile trading.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='389' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' contentMode='bottomRight' id='376' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='　Mobile　　' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='210' y='195'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <rect height='1' key='contentStretch' width='1' x='1.3877799999999999e-17' y='0.0'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='373' lineBreakMode='middleTruncation' opaque='NO' tag='22'>
+                    <rect height='50' key='frame' width='50' x='135' y='45'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_fund.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='386' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='374' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='115' y='95'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>CyberFund
+Search</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='255' lineBreakMode='middleTruncation' opaque='NO' tag='20'>
+                    <rect height='50' key='frame' width='50' x='41' y='245'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='jetso_hunt_icon.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='257' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='256' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Stock Guessing Game' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='20' y='295'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='144' lineBreakMode='middleTruncation' opaque='NO' tag='4'>
+                    <rect height='50' key='frame' width='50' x='132' y='395'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_settings_2.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='170' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='148' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Settings' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='115' y='465'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='245' lineBreakMode='middleTruncation' opaque='NO' tag='17'>
+                    <rect height='50' key='frame' width='50' x='187' y='245'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_MKGeCard.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='247' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='246' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='e-Greeting Card' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='90' x='166' y='323'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='9a5-QH-fpZ' lineBreakMode='middleTruncation' opaque='NO' tag='22'>
+                    <rect height='72' key='frame' width='72' x='63' y='148'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='btn_fund.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='9mZ-bc-Viv' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='30' key='frame' width='65' x='67' y='223'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>CyberFund
+Search</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='12'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='Pj6-Br-QGb' lineBreakMode='middleTruncation' opaque='NO' tag='26'>
+                    <rect height='49' key='frame' width='66' x='237' y='398'/>
+                    <state backgroundImage='P2P_Icon.png' key='normal'/>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='uuR-xs-zgO' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='BTE-bu-MIY' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='P2P' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='220' y='476'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='7gf-67-4Ud' lineBreakMode='middleTruncation' opaque='NO' tag='27'>
+                    <rect height='49' key='frame' width='66' x='27' y='395'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='0.47843137250000001' key='backgroundColor' red='0.0'/>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='Ycm-sb-GNZ' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='LAu-al-l2V' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Superme Gold' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='10' y='473'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='kVh-a9-AdV' lineBreakMode='middleTruncation' opaque='NO' tag='202'>
+                    <rect height='55' key='frame' width='66' x='102' y='302'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='widget_wealth_icon_lending.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='jIn-HS-gy3' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='Cyb-cf-nLX' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Gold' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='85' y='355'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='Yd9-6u-2n0' lineBreakMode='middleTruncation' opaque='NO' tag='26'>
+                    <rect height='50' key='frame' width='60' x='196' y='465'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='P2P_Icon.png' key='normal'>
+                        <color alpha='1' blue='0.52390455160000005' colorSpace='calibratedRGB' green='0.31042439469999999' key='titleColor' red='0.1925834719'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='Ksm-cD-Pvy' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' id='294'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask key='autoresizingMask'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='312' lineBreakMode='middleTruncation' opaque='NO' tag='200'>
+                    <rect height='85' key='frame' width='102' x='8' y='481'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='18' maxY='30' minX='18' minY='0.0'/>
+                    <state image='widget_wealth_icon_note.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='318' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='313' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='10' y='534'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <string key='text'>Notes
+Exchange Rates</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='314' lineBreakMode='middleTruncation' opaque='NO' tag='201'>
+                    <rect height='85' key='frame' width='100' x='110' y='481'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='30' minX='17' minY='0.0'/>
+                    <state image='widget_wealth_icon_tt.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='320' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='315' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='110' y='534'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <string key='text'>T/T
+Exchange Rates</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='316' lineBreakMode='middleTruncation' opaque='NO' tag='203'>
+                    <rect height='85' key='frame' width='66' x='227' y='481'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='0.0' maxY='30' minX='0.0' minY='0.0'/>
+                    <state image='widget_banking_icon_gold.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='319' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='317' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Gold' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='210' y='534'/>
+                    <autoresizingMask flexibleMinY='YES' key='autoresizingMask'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <view contentMode='scaleToFill' id='394'>
+                    <rect height='478' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' blue='0.90196079019999997' colorSpace='calibratedRGB' green='0.90196079019999997' key='backgroundColor' red='0.90196079019999997'/>
+                </view>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' id='293'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='302' lineBreakMode='middleTruncation' opaque='NO' tag='111'>
+                    <rect height='99' key='frame' width='100' x='10' y='143'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='42' minX='17' minY='0.0'/>
+                    <state image='widget_lifestyle_icon_shopping.png' key='normal'>
+                        <color alpha='1' blue='0.52390455163043481' colorSpace='calibratedRGB' green='0.31042439472458894' key='titleColor' red='0.19258347186290617'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='307' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='303' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='10' y='215'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <string key='text'>Year-round
+Shopping</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='305' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='&quot;Cash in Hand&quot;' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='110' y='215'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='240' lineBreakMode='middleTruncation' opaque='NO' tag='16'>
+                    <rect height='55' key='frame' width='66' x='227' y='143'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='widget_lifestyle_icon_game.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='241' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' hidden='YES' id='242' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Game' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='210' y='215'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='462' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Facebook Pages' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='210' y='215'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <view contentMode='scaleToFill' id='415'>
+                    <rect height='100' key='frame' width='320' x='0.0' y='367'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='401' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Credit Card Latest Promotions' userInteractionEnabled='NO'>
+                            <rect height='20' key='frame' width='196' x='20' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='399' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='More' textAlignment='right' userInteractionEnabled='NO'>
+                            <rect height='20' key='frame' width='48' x='229' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='398' lineBreakMode='middleTruncation' opaque='NO' tag='302'>
+                            <rect height='20' key='frame' width='20' x='280' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_arrow_right.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='455' lineBreakMode='middleTruncation' opaque='NO' tag='302'>
+                            <rect height='20' key='frame' width='81' x='229' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='456' selector='menuButtonPressed:'/>
+                            </connections>
+                        </button>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='425' image='mainPage_bottomBackImg.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='76' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <view contentMode='scaleToFill' id='449'>
+                            <rect height='75' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='YES'/>
+                            </accessibility>
+                        </view>
+                    </subviews>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </view>
+                <view contentMode='scaleToFill' id='416'>
+                    <rect height='101' key='frame' width='320' x='0.0' y='467'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='404' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Concert &amp; Movie Offers' userInteractionEnabled='NO'>
+                            <rect height='20' key='frame' width='196' x='20' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='403' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='More' textAlignment='right' userInteractionEnabled='NO'>
+                            <rect height='20' key='frame' width='48' x='229' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='402' lineBreakMode='middleTruncation' opaque='NO' tag='302'>
+                            <rect height='20' key='frame' width='20' x='280' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_arrow_right.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='457' lineBreakMode='middleTruncation' opaque='NO' tag='304'>
+                            <rect height='20' key='frame' width='86' x='224' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='458' selector='menuButtonPressed:'/>
+                            </connections>
+                        </button>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='426' image='mainPage_bottomBackImg.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='76' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <view contentMode='scaleToFill' id='451'>
+                            <rect height='75' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='YES'/>
+                            </accessibility>
+                        </view>
+                    </subviews>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </view>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='yx0-V0-Awa' lineBreakMode='middleTruncation' opaque='NO' userLabel='btnCredit'>
+                    <rect height='89' key='frame' width='100' x='110' y='7'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='31' minX='17' minY='0.0'/>
+                    <state image='widget_banking_icon_creditcard.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='PmI-NA-h1Z' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='right' contentMode='scaleToFill' contentVerticalAlignment='center' customClass='Badge' hidden='YES' id='45m-f2-jDM' lineBreakMode='middleTruncation' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='27' key='frame' width='45' x='158' y='2'/>
+                    <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='contentEdgeInsets' maxX='7' maxY='2' minX='0.0' minY='0.0'/>
+                    <state backgroundImage='badge_1.png' key='normal' title='0'>
+                        <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='titleColor' red='0.92941176469999998'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='304' lineBreakMode='middleTruncation' opaque='NO' tag='101'>
+                    <rect height='99' key='frame' width='100' x='110' y='143'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='42' minX='17' minY='0.0'/>
+                    <state image='widget_lifestyle_icon_easyfund.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='308' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='Sgj-Xf-7qH' lineBreakMode='middleTruncation' opaque='NO' tag='112'>
+                    <rect height='89' key='frame' width='100' x='10' y='7'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='20' maxY='31' minX='20' minY='0.0'/>
+                    <state image='widget_lifestyle_icon_icoupon.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='I1Q-hC-LaY' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='lfL-b7-ykb' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='i-Coupon' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='10' y='94'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='2Wh-Bj-6hy' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Credit Card' textAlignment='center' userInteractionEnabled='NO' userLabel='labCredit'>
+                    <rect height='32' key='frame' width='100' x='110' y='94'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='298' lineBreakMode='middleTruncation' opaque='NO' tag='110'>
+                    <rect height='89' key='frame' width='100' x='210' y='13'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='36' minX='17' minY='0.0'/>
+                    <state image='widget_lifestyle_icon_dining.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='306' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='299' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='210' y='94'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <string key='text'>Year-round
+Dining</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='461' lineBreakMode='middleTruncation' opaque='NO' tag='220'>
+                    <rect height='99' key='frame' width='100' x='210' y='143'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='42' minX='17' minY='0.0'/>
+                    <state image='widget_banking_icon_fb.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='463' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+        </view>
+        <view contentMode='scaleToFill' id='291'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='88' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                    <rect height='96' key='frame' width='100' x='10' y='20'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='32' maxY='42' minX='32' minY='0.0'/>
+                    <state image='widget_banking_icon_mobilebanking.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='163' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='AVH-N3-JhT' lineBreakMode='middleTruncation' opaque='NO' tag='27' userLabel='btnCredit'>
+                    <rect height='96' key='frame' width='100' x='110' y='20'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='42' minX='17' minY='0.0'/>
+                    <state image='widget_banking_icon_sgnew.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='5uh-f6-Fm0' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='139' lineBreakMode='middleTruncation' opaque='NO' tag='5'>
+                    <rect height='100' key='frame' width='100' x='110' y='281'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='39' minX='17' minY='6'/>
+                    <state image='widget_banking_icon_branchatm.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='165' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='188' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                    <rect height='100' key='frame' width='100' x='10' y='279'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='8' maxY='37' minX='8' minY='0.0'/>
+                    <state image='widget_banking_icon_stock.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='190' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='138' lineBreakMode='middleTruncation' opaque='NO' tag='6'>
+                    <rect height='96' key='frame' width='100' x='213' y='20'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='42' minX='17' minY='0.0'/>
+                    <state image='widget_banking_icon_loans.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='167' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='377' lineBreakMode='middleTruncation' opaque='NO' tag='21'>
+                    <rect height='90' key='frame' width='100' x='110' y='155'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='36' minX='17' minY='0.0'/>
+                    <state image='widget_banking_icon_insurance.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='385' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='141' lineBreakMode='middleTruncation' opaque='NO' tag='9'>
+                    <rect height='90' key='frame' width='100' x='10' y='155'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='36' minX='17' minY='0.0'/>
+                    <state image='widget_banking_icon_property.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='168' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='372' lineBreakMode='middleTruncation' opaque='NO' tag='12'>
+                    <rect height='90' key='frame' width='100' x='213' y='155'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='38' minX='17' minY='11'/>
+                    <state image='MPFicon.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='381' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='145' lineBreakMode='middleTruncation' opaque='NO' tag='8'>
+                    <rect height='100' key='frame' width='100' x='213' y='281'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <accessibilityTraits key='traits' none='YES'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <inset key='imageEdgeInsets' maxX='17' maxY='39' minX='17' minY='6'/>
+                    <state image='widget_banking_icon_hotlines.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='169' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <view contentMode='scaleToFill' id='417'>
+                    <rect height='100' key='frame' width='320' x='0.0' y='468'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='215' lineBreakMode='middleTruncation' opaque='NO' tag='13'>
+                            <rect height='20' key='frame' width='20' x='280' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state backgroundImage='btn_arrow_right.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                        </button>
+                        <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='217' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='More' textAlignment='center' userInteractionEnabled='NO'>
+                            <rect height='20' key='frame' width='48' x='229' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <bool key='isElement' value='NO'/>
+                            </accessibility>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='397' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Privileges' userInteractionEnabled='NO'>
+                            <rect height='20' key='frame' width='196' x='20' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='459' lineBreakMode='middleTruncation' opaque='NO' tag='13'>
+                            <rect height='20' key='frame' width='86' x='224' y='0.0'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                            </accessibility>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='460' selector='menuButtonPressed:'/>
+                            </connections>
+                        </button>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='422' image='mainPage_bottomBackImg.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='76' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <view contentMode='scaleToFill' id='453'>
+                            <rect height='75' key='frame' width='300' x='10' y='20'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <accessibility key='accessibilityConfiguration'>
+                                <accessibilityTraits key='traits' none='YES'/>
+                                <bool key='isElement' value='YES'/>
+                            </accessibility>
+                        </view>
+                    </subviews>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </view>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='92' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Mobile Banking' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='10' y='106'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='YNs-yF-6u6' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='SupremeGold' textAlignment='center' userInteractionEnabled='NO' userLabel='labCredit'>
+                    <rect height='25' key='frame' width='100' x='110' y='106'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='142' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Consumer Loans' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='213' y='106'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='143' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Property Loans' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='10' y='233'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='378' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Insurance' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='110' y='233'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='371' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='MPF' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='213' y='233'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='189' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Stocks' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='10' y='371'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='140' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Branch / ATM' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='110' y='371'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='146' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Hotlines' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='32' key='frame' width='100' x='213' y='371'/>
+                    <accessibility key='accessibilityConfiguration'>
+                        <bool key='isElement' value='NO'/>
+                    </accessibility>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+        </view>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='6'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='87' multipleTouchEnabled='YES' userLabel='Scroll View'>
+                    <rect height='366' key='frame' width='320' x='0.0' y='94'/>
+                    <autoresizingMask key='autoresizingMask'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                    <connections>
+                        <outlet destination='-1' id='195' property='delegate'/>
+                    </connections>
+                </scrollView>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+            <inset key='insetFor6xAndEarlier' maxX='0.0' maxY='-20' minX='0.0' minY='20'/>
+        </view>
+        <view contentMode='scaleToFill' id='iv7-ia-4mL'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='eOj-op-PxY' lineBreakMode='middleTruncation' opaque='NO' tag='200'>
+                    <rect height='55' key='frame' width='66' x='195' y='219'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state backgroundImage='widget_wealth_icon_rates.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='3NF-sT-8Ck' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='fQo-oo-fmy' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Rates' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='25' key='frame' width='100' x='188' y='305'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='Nzr-i1-fEe' lineBreakMode='middleTruncation' opaque='NO' tag='103'>
+                    <rect height='55' key='frame' width='66' x='121' y='219'/>
+                    <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                    <state backgroundImage='widget_lifestyle_icon_rewards.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='7kV-h9-ZlL' selector='menuButtonPressed:'/>
+                    </connections>
+                </button>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='Dsx-n0-9RR' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' text='Rewards' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='20' key='frame' width='100' x='110' y='305'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+            </subviews>
+            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <point key='canvasLocation' x='-236' y='762'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='45' name='MPFicon.png' width='72'/>
+        <image height='110' name='P2P_Icon.png' width='144'/>
+        <image height='27' name='badge_1.png' width='45'/>
+        <image height='78' name='btn_MKGeCard.png' width='78'/>
+        <image height='24' name='btn_arrow_right.png' width='24'/>
+        <image height='72' name='btn_fund.png' width='72'/>
+        <image height='78' name='btn_mobile trading.png' width='78'/>
+        <image height='200' name='btn_rate.png' width='200'/>
+        <image height='78' name='btn_settings_2.png' width='78'/>
+        <image height='78' name='btn_stockwatch.png' width='78'/>
+        <image height='78' name='jetso_hunt_icon.png' width='78'/>
+        <image height='76' name='mainPage_bottomBackImg.png' width='300'/>
+        <image height='200' name='widget_banking_icon_branchatm.png' width='240'/>
+        <image height='200' name='widget_banking_icon_creditcard.png' width='240'/>
+        <image height='180' name='widget_banking_icon_fb.png' width='216'/>
+        <image height='180' name='widget_banking_icon_gold.png' width='216'/>
+        <image height='200' name='widget_banking_icon_hotlines.png' width='240'/>
+        <image height='200' name='widget_banking_icon_insurance.png' width='240'/>
+        <image height='200' name='widget_banking_icon_loans.png' width='240'/>
+        <image height='180' name='widget_banking_icon_mobilebanking.png' width='120'/>
+        <image height='200' name='widget_banking_icon_property.png' width='240'/>
+        <image height='162' name='widget_banking_icon_sgnew.png' width='194'/>
+        <image height='200' name='widget_banking_icon_stock.png' width='240'/>
+        <image height='200' name='widget_lifestyle_icon_dining.png' width='240'/>
+        <image height='200' name='widget_lifestyle_icon_easyfund.png' width='240'/>
+        <image height='200' name='widget_lifestyle_icon_game.png' width='240'/>
+        <image height='98' name='widget_lifestyle_icon_icoupon.png' width='97'/>
+        <image height='200' name='widget_lifestyle_icon_rewards.png' width='240'/>
+        <image height='200' name='widget_lifestyle_icon_shopping.png' width='240'/>
+        <image height='200' name='widget_wealth_icon_lending.png' width='240'/>
+        <image height='200' name='widget_wealth_icon_note.png' width='240'/>
+        <image height='200' name='widget_wealth_icon_rates.png' width='240'/>
+        <image height='200' name='widget_wealth_icon_tt.png' width='240'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

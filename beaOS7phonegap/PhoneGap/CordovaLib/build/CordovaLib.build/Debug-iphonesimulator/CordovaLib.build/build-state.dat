@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDVAvailability.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDV.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVLocalStorage.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVTimer.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDV.h
+c0000000052D498750000000000000516
+t1389664373
+s1302
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c0000000052D498750000000000000CBF
+t1389664373
+s3263
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c0000000052D4987500000000000008BA
+t1389664373
+s2234
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c0000000052D498750000000000000473
+t1389664373
+s1139
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c0000000052D49875000000000000127C
+t1389664373
+s4732
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c0000000052D498750000000000000501
+t1389664373
+s1281
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c0000000052D4987500000000000017C5
+t1389664373
+s6085
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c0000000052D4987500000000000004CB
+t1389664373
+s1227
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c0000000052D498750000000000000EB2
+t1389664373
+s3762
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c0000000052D498750000000000000401
+t1389664373
+s1025
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c0000000052D4987500000000000007E6
+t1389664373
+s2022
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c0000000052D498750000000000000DDE
+t1389664373
+s3550
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c0000000052D4987500000000000003DA
+t1389664373
+s986
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c0000000052D49875000000000000098E
+t1389664373
+s2446
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c0000000052D4987500000000000006CF
+t1389664373
+s1743
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c0000000052D498750000000000004C7E
+t1389664373
+s19582
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c0000000052D498750000000000000892
+t1389664373
+s2194
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c0000000052D4987500000000000016AE
+t1389664373
+s5806
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c0000000052D498750000000000000C13
+t1389664373
+s3091
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c0000000052D498750000000000001B29
+t1389664373
+s6953
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c0000000052D498750000000000000408
+t1389664373
+s1032
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.h
+c0000000052D4987500000000000003E6
+t1389664373
+s998
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m
+c0000000052D4987500000000000006B6
+t1389664373
+s1718
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c0000000052D49875000000000000038D
+t1389664373
+s909
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c0000000052D498750000000000000AA2
+t1389664373
+s2722
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c0000000052D49875000000000000041C
+t1389664373
+s1052
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c0000000052D498750000000000002514
+t1389664373
+s9492
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c0000000052D498750000000000000421
+t1389664373
+s1057
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c0000000052D4987500000000000012A2
+t1389664373
+s4770
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c0000000052D498750000000000000ACC
+t1389664373
+s2764
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c0000000052D49875000000000000879D
+t1389664373
+s34717
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c0000000052D4987500000000000005A2
+t1389664373
+s1442
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c0000000052D498750000000000003804
+t1389664373
+s14340
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c0000000052D4987500000000000004B4
+t1389664373
+s1204
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c0000000052D4987500000000000027D3
+t1389664373
+s10195
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c0000000052D498750000000000000392
+t1389664373
+s914
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c0000000052D4987500000000000004D8
+t1389664373
+s1240
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c0000000052D49875000000000000037D
+t1389664373
+s893
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c0000000052D4987500000000000022CC
+t1389664373
+s8908
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c0000000052D4987500000000000005DA
+t1389664373
+s1498
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c0000000052D498750000000000001059
+t1389664373
+s4185
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c0000000052D4987500000000000003A0
+t1389664373
+s928
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c0000000052D498750000000000000584
+t1389664373
+s1412
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c0000000052D498750000000000000476
+t1389664373
+s1142
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c0000000052D498750000000000000620
+t1389664373
+s1568
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c0000000052D498750000000000000346
+t1389664373
+s838
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1389664387
+s63332
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1389664387
+s60336
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1389664387
+s27836
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1389664386
+s18788
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1389664387
+s10968
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1389664387
+s109808
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1389664387
+s59684
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1389664386
+s37308
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1389664387
+s9492
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1389664387
+s23040
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1389664387
+s71424
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1389664387
+s52884
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1389664387
+s162752
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1389664387
+s71476
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1389664386
+s42432
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c0000000052D498810000000000000D6B
+t1389664385
+s3435
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1389664387
+s7552
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1389664386
+s11216
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1389664386
+s17924
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1389664386
+s7064
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1389664387
+s9704
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000528F03D100000000000003B5
+t1385104337
+s949
+
+N/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000528F03D800000000000001A0
+t1385104344
+s416
+
+N/var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch
+t1389664386
+s3217900
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb6300301d084b841^a7212601d084b841^---0#1#1#--18"Check dependencies36"3535573C-7BD4-4DA1-8C53-9A1096C6BBE8-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.183653
+e411357187.466814
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m216"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler022b2f03d084b841^88847703d084b841^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^4076"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"7EB9F4FE-F175-4C09-8DA6-FE15E0879CE9-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.171022
+e411357187.385995
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler86e52b03d084b841^89ed6203d084b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^4034"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"F0F27313-C174-4207-AABC-9775848CAE04-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.338317
+e411357187.387266
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler17b65603d084b841^b7246303d084b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^4034"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"9BE20DBE-1526-49F0-884C-C6B3ED484936-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.412923
+e411357186.524247
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m212"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler75e76902d084b841^344b8602d084b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^4064"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"AFC9E62C-B20B-443A-866E-8E89DD1CC659-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.387591
+e411357187.467233
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m186"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler535a6303d084b841^75af7703d084b841^---0#0#1#-19%DVTDocumentLocation2@104"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3986"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"B5305749-8B14-4B24-8A93-2F359445C5DF-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.648904
+e411357187.169608
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercb47a602d084b841^2e8d2b03d084b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^4034"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"1350D3D1-225F-439D-9010-422B72FD7E40-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.522421
+e411357187.131161
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler36ea8502d084b841^42962103d084b841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3998"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"E7410329-C1D7-4FBE-8C35-BFA5D9E9DEAD-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.413262
+e411357186.535525
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m202"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb6f36902d084b841^7a348902d084b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^4034"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"CCFDFFF5-E14A-4053-8F31-1384EFF11EF2-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.518766
+e411357187.575481
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m190"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler16f68403d084b841^5d6f9303d084b841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3998"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"62317ADB-86D4-4B9C-867C-3E226B32F320-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.468830
+e411357187.517310
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m188"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8d297803d084b841^7e6e8403d084b841^---0#0#1#-19%DVTDocumentLocation2@105"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3992"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"351553A0-9C5C-4D12-B6F3-90DEA9401760-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.538219
+e411357187.148094
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m200"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0bf08902d084b841^fdf62503d084b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^4028"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"3AB62F94-A573-430D-AF91-655208396F23-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.388584
+e411357187.629008
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m204"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler70956303d084b841^dd06a103d084b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^4040"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"A89EA544-C535-402C-A624-F3E64830B4EB-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.648015
+e411357187.643118
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m206"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9412a602d084b841^83a3a403d084b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^4046"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"DC19B679-A023-4F56-9CF1-65366B5CF3B8-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.468195
+e411357187.662510
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m208"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler97007803d084b841^139da903d084b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^4052"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"AA3BF646-A02C-42B7-9749-62A9D842B404-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.525558
+e411357186.647534
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m196"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler75b08602d084b841^00c8a502d084b841^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^4016"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"1FBF2842-CE4B-47AE-9725-9D2B5E648E7F-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.149486
+e411357187.182291
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler126a2603d084b841^65c32e03d084b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^4058"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"4EABDB66-16FD-4045-B0F0-65433C5DC914-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.413164
+e411357186.520881
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m198"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1cec6902d084b841^bd6e8502d084b841^---0#0#1#-19%DVTDocumentLocation2@110"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^4022"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"E5368A9C-CDF3-4C69-B737-0BD2ED0EC0D0-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.412922
+e411357186.522957
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m218"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3ee86902d084b841^0af88502d084b841^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^4082"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"B8C9168E-CEB5-4E8B-9888-27A780FD4806-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357186.524286
+e411357186.646208
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m230"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera65f8602d084b841^ba67a502d084b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^4118"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"E2FE23C6-F819-44D2-998F-B1E96922CF19-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357187.132533
+e411357187.336897
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m210"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe142203d084b841^645b5603d084b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^4058"CompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"4F36E52B-8B4F-44F4-A51C-27C78F405DA0-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDV.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+s411357185.166646
+e411357185.170835
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h119"CpHeader Classes/CDV.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h83c02a01d084b841^7fbc2b01d084b841^---0#0#1#-19%DVTDocumentLocation2@112"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h0038b831ddffdf42^841"CpHeader Classes/CDV.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDV.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDV.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"6430C312-CF89-4571-BE5A-EB6975E898A7-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVAvailability.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s411357185.166631
+e411357185.169791
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h143"CpHeader Classes/CDVAvailability.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h7bbe2a01d084b841^e2772b01d084b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0038b831ddffdf42^877"CpHeader Classes/CDVAvailability.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"A9691A38-E2BD-408A-8AD8-1F45B0A12311-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s411357185.164568
+e411357185.168561
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h149"CpHeader Classes/CDVCommandDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h6d362a01d084b841^57272b01d084b841^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0038b831ddffdf42^886"CpHeader Classes/CDVCommandDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"3563B40A-8D06-433D-83BA-096E6707158F-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s411357185.173182
+e411357185.176331
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h157"CpHeader Classes/CDVCommandDelegateImpl.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h9d672c01d084b841^6b2c2d01d084b841^---0#0#1#-19%DVTDocumentLocation2@131"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0038b831ddffdf42^898"CpHeader Classes/CDVCommandDelegateImpl.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"E9D57764-B213-4BC6-9676-80871C36B8F5-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVCommandQueue.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s411357185.171284
+e411357185.175036
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h143"CpHeader Classes/CDVCommandQueue.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h8def2b01d084b841^f2cf2c01d084b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0038b831ddffdf42^877"CpHeader Classes/CDVCommandQueue.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"68A4890C-B87E-442A-89C1-1BB85B05EC02-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVConfigParser.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s411357185.175229
+e411357185.178670
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h143"CpHeader Classes/CDVConfigParser.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.hd1ea2c01d084b841^f9bd2d01d084b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0038b831ddffdf42^877"CpHeader Classes/CDVConfigParser.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"573AEF06-04CD-4093-B054-A07DA972962E-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVDebug.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s411357185.158645
+e411357185.161440
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h129"CpHeader Classes/CDVDebug.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h14b12801d084b841^97542901d084b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0038b831ddffdf42^856"CpHeader Classes/CDVDebug.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"EFC1028E-016C-4EFF-8A6D-7FC8835105EA-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s411357185.153812
+e411357185.157290
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h153"CpHeader Classes/CDVInvokedUrlCommand.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h75af2701d084b841^fe452801d084b841^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0038b831ddffdf42^892"CpHeader Classes/CDVInvokedUrlCommand.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"CA4D10C7-F026-4551-8DF5-C98DBCD3AB46-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVJSON.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s411357185.177538
+e411357185.180711
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h127"CpHeader Classes/CDVJSON.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h3a942d01d084b841^dd432e01d084b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0038b831ddffdf42^853"CpHeader Classes/CDVJSON.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"B269D588-1B3B-46C9-B79B-9DD44DDE35D8-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVLocalStorage.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s411357185.168934
+e411357185.171896
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h143"CpHeader Classes/CDVLocalStorage.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h6e502b01d084b841^91092c01d084b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0038b831ddffdf42^877"CpHeader Classes/CDVLocalStorage.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"92514978-51AC-4683-99DF-D46F51B59632-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVPlugin.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s411357185.158643
+e411357185.162514
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h131"CpHeader Classes/CDVPlugin.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h36b12801d084b841^f69b2901d084b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0038b831ddffdf42^859"CpHeader Classes/CDVPlugin.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"8BB0CAA0-AE7B-4CC1-B7D4-3E98A71F1067-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVPluginResult.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s411357185.154009
+e411357185.159412
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h143"CpHeader Classes/CDVPluginResult.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h75af2701d084b841^8dcf2801d084b841^---0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h00389bf300ecdf42^877"CpHeader Classes/CDVPluginResult.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"E67EE020-4344-47F2-9BD9-2782E489AE4A-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s411357185.175213
+e411357185.179747
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h169"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.hffeb2c01d084b841^31062e01d084b841^---0#0#1#-19%DVTDocumentLocation2@137"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0038b831ddffdf42^916"CpHeader Classes/CDVScreenOrientationDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"E737526D-6155-4A01-A104-3B28766BB646-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVShared.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s411357185.173265
+e411357185.177567
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h131"CpHeader Classes/CDVShared.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h5d6e2c01d084b841^bf812d01d084b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h0038b831ddffdf42^859"CpHeader Classes/CDVShared.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"39A0F365-C196-426B-BA68-8FC9B805620A-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVTimer.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s411357185.180904
+e411357185.183957
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h129"CpHeader Classes/CDVTimer.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h895e2e01d084b841^87182f01d084b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0038b831ddffdf42^856"CpHeader Classes/CDVTimer.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"4391FEEA-5739-46B8-B1F9-928E9A9B41C8-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVURLProtocol.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s411357185.162668
+e411357185.166297
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h141"CpHeader Classes/CDVURLProtocol.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h31b52901d084b841^dd942a01d084b841^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0038b831ddffdf42^874"CpHeader Classes/CDVURLProtocol.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"1BA77A7B-2013-48C3-B8FE-42451E6D305E-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s411357185.178921
+e411357185.181784
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h145"CpHeader Classes/CDVUserAgentUtil.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.hcee22d01d084b841^408a2e01d084b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0038b831ddffdf42^880"CpHeader Classes/CDVUserAgentUtil.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"5A6ACD3D-CEEB-43DE-A1AF-04B8AFC9DA10-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVViewController.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s411357185.164112
+e411357185.167743
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h147"CpHeader Classes/CDVViewController.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h54192a01d084b841^bbf12a01d084b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0038b831ddffdf42^883"CpHeader Classes/CDVViewController.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"E76133EB-B27F-412C-9172-58EE614D7700-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s411357185.178930
+e411357185.182861
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h149"CpHeader Classes/CDVWebViewDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h93e42d01d084b841^91d02e01d084b841^---0#0#1#-19%DVTDocumentLocation2@127"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0038b831ddffdf42^886"CpHeader Classes/CDVWebViewDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"DD91BABF-2261-42F5-A3C4-1AED59A533B1-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/CDVWhitelist.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s411357185.160733
+e411357185.165174
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h137"CpHeader Classes/CDVWhitelist.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h7a382901d084b841^494a2a01d084b841^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0038b831ddffdf42^868"CpHeader Classes/CDVWhitelist.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"DE8B0DE1-82AF-4A98-9825-774B2B9AF0C5-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s411357185.171027
+e411357185.174026
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h151"CpHeader Classes/NSArray+Comparisons.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h01dd2b01d084b841^6d8d2c01d084b841^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0038b831ddffdf42^889"CpHeader Classes/NSArray+Comparisons.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"BFCB01B2-1BEB-417A-A70B-02B630B3C09C-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/NSData+Base64.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s411357185.153975
+e411357185.160399
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h139"CpHeader Classes/NSData+Base64.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.hc9af2701d084b841^7b112901d084b841^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0038b831ddffdf42^871"CpHeader Classes/NSData+Base64.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"C08A1A2D-7793-45C6-9BDC-0D2D80A54CC7-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s411357185.153807
+e411357185.158171
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h159"CpHeader Classes/NSDictionary+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h32af2701d084b841^d47d2801d084b841^---0#0#1#-19%DVTDocumentLocation2@132"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h001033f800ecdf42^901"CpHeader Classes/NSDictionary+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"5CF196CC-BD67-4691-A3DC-E7DAC64F43B9-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s411357185.160588
+e411357185.163769
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h171"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h16302901d084b841^41ef2901d084b841^---0#0#1#-19%DVTDocumentLocation2@138"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0038b831ddffdf42^919"CpHeader Classes/NSMutableArray+QueueAdditions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"112B9368-6503-4C1E-A7F4-0695AF4ABB18-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s411357185.169268
+e411357185.172984
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h151"CpHeader Classes/UIDevice+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.hba692b01d084b841^56492c01d084b841^---0#0#1#-19%DVTDocumentLocation2@128"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0038b831ddffdf42^889"CpHeader Classes/UIDevice+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include/Cordova36"BD79BC99-EB65-4B46-A67E-7AD5FC7922C2-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CLibtool /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a normal i386
+s411357187.672229
+e411357187.687667
+r1
+xLibtool
+x/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Libtool /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a normal i386107"Libtool /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a normal i386cc2aac03d084b841^350bb003d084b841^---0#0#1#--1230"Libtool /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a normal i386    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -filelist /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/libCordova.a36"E80868BC-D7F5-4450-8036-1C4107A2BC00-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+
+CProcessPCH /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411357185.193783
+e411357186.404127
+r1
+xProcessPCH
+x/var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch291"ProcessPCH /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraebb3101d084b841^d2736702d084b841^---0#0#1#-19%DVTDocumentLocation2@108"file://localhost/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3986"ProcessPCH /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib    setenv LANG en_US.US-ASCII    setenv PATH "/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Applications/adt-bundle-mac-x86_64/sdk/tools:/Applications/adt-bundle-mac-x86_64/sdk/platform-tools"    /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator/include -I/Users/yaojzy/Documents/jobs/Xcodes/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.d -c /Users/yaojzy/Desktop/workspace20140114/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/tt/wcc_s3vs32v_hkywmdnf117r0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-dgbgzzhfhjcllceqmkcethsqwvjw/CordovaLib_Prefix.pch.pch36"481D8D3F-8B1A-435E-A481-325358D25BD7-
+bCBF84DFF-B5A5-49A3-B245-F56B6E4DE8A3
+

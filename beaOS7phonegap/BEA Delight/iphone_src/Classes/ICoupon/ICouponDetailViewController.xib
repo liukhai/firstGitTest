@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13F34' targetRuntime='iOS.CocoaTouch' toolsVersion='6250' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6244'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ICouponDetailViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='JhT-u7-S09' id='oQE-T3-jih' property='btn_back'/>
+                <outlet destination='dQK-cw-GdQ' id='lXb-kc-YxD' property='btn_redeem'/>
+                <outlet destination='Oqv-w0-gVw' id='ACG-WP-WiW' property='imv_bigIcon'/>
+                <outlet destination='M9J-f3-Xk8' id='jS1-Ed-p3B' property='imv_smallIcon'/>
+                <outlet destination='HhY-fH-y9z' id='rKR-Zf-euQ' property='lbl_bonus'/>
+                <outlet destination='FP5-De-jYG' id='Wja-wU-dg3' property='lbl_itemNo'/>
+                <outlet destination='DKv-fL-d3E' id='5Oa-Sg-Pc3' property='lbl_remark'/>
+                <outlet destination='IMQ-ew-EYV' id='tH2-tQ-mrf' property='lbl_subTitle'/>
+                <outlet destination='ISC-Lq-BJI' id='Q3v-DQ-cYI' property='lbl_title'/>
+                <outlet destination='uQU-sz-oZz' id='Ze3-fH-Ee5' property='txv_remark'/>
+                <outlet destination='i5M-Pr-FkT' id='sfx-zR-JGt' property='view'/>
+                <outlet destination='rOX-vT-yEp' id='xPI-ft-K8k' property='view_remark'/>
+                <outlet destination='rOX-vT-yEp' id='q6g-ML-2A7' property='view_webContent'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='i5M-Pr-FkT'>
+            <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='Oqv-w0-gVw' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                    <rect height='120' key='frame' width='280' x='20' y='70'/>
+                    <autoresizingMask key='autoresizingMask' widthSizable='YES'/>
+                </imageView>
+                <view contentMode='scaleToFill' id='xRQ-vd-OW7'>
+                    <rect height='86' key='frame' width='320' x='0.0' y='198'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='ISC-Lq-BJI' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='21' key='frame' width='228' x='92' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='boldSystem'/>
+                            <color alpha='1' blue='0.43137258291244507' colorSpace='deviceRGB' green='0.41176474094390869' key='textColor' red='0.86666673421859741'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='IMQ-ew-EYV' lineBreakMode='tailTruncation' numberOfLines='2' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='32' key='frame' width='220' x='92' y='20'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='HhY-fH-y9z' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='18' key='frame' width='228' x='92' y='51'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.66666666666666663'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='FP5-De-jYG' lineBreakMode='tailTruncation' opaque='NO' text='' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='18' key='frame' width='228' x='92' y='68'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.66666666666666663'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='M9J-f3-Xk8' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='72' key='frame' width='64' x='20' y='7'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+                <view contentMode='scaleToFill' id='rOX-vT-yEp'>
+                    <rect height='208' key='frame' width='280' x='20' y='292'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <subviews>
+                        <textView clipsSubviews='YES' contentMode='scaleToFill' editable='NO' id='uQU-sz-oZz' multipleTouchEnabled='YES' selectable='NO'>
+                            <rect height='172' key='frame' width='263' x='9' y='36'/>
+                            <autoresizingMask flexibleMinY='YES' heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.33333333333333331'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='system'/>
+                            <textInputTraits autocapitalizationType='sentences' key='textInputTraits'/>
+                        </textView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='DKv-fL-d3E' lineBreakMode='tailTruncation' opaque='NO' text='Remark:' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='22' key='frame' width='263' x='9' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color catalog='System' colorSpace='catalog' key='backgroundColor' name='controlHighlightColor'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.33333333333333331'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                    </subviews>
+                    <color catalog='System' colorSpace='catalog' key='backgroundColor' name='controlHighlightColor'/>
+                </view>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='dQK-cw-GdQ' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='27' key='frame' width='100' x='200' y='508'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                    <state backgroundImage='btn_orange.png' key='normal' title='Redeem'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='CDj-q0-sFw' selector='redeem_onTouch:'/>
+                    </connections>
+                <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_new.png'/></userDefinedRuntimeAttributes></button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='JhT-u7-S09' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='27' key='frame' width='100' x='20' y='508'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMinY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                    <state backgroundImage='btn_back_grey.png' key='normal' title='Back'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='0.0' colorSpace='calibratedWhite' key='titleShadowColor' white='0.0'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='6wW-CU-L30' selector='back_onTouch:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='1' blue='0.96862751250000001' colorSpace='deviceRGB' green='0.96862751250000001' key='backgroundColor' red='0.97254908080000002'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='62' name='btn_back_grey.png' width='194'/>
+        <image height='70' name='btn_orange.png' width='305'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

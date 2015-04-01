@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FE49C604-AE0F-45A9-930E-F145193FA42C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PageThemeUtil</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5E44C6F82215E4468ACCE1FD883B3E9A8DDD3542</key>
+		<string>https://github.com/hkg186t/BEA_App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PageThemeUtil/PageThemeUtil.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5E44C6F82215E4468ACCE1FD883B3E9A8DDD3542</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hkg186t/BEA_App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5E44C6F82215E4468ACCE1FD883B3E9A8DDD3542</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5E44C6F82215E4468ACCE1FD883B3E9A8DDD3542</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BEA_3.3.6</string>
+		</dict>
+	</array>
+</dict>
+</plist>

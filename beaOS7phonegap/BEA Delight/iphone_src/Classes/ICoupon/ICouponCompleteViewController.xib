@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='14C109' targetRuntime='iOS.CocoaTouch' toolsVersion='7515.2' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='7512'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='ICouponCompleteViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='91r-9c-pSt' id='vaR-ak-4JS' property='btn_done'/>
+                <outlet destination='qUh-Di-RVH' id='Iw6-YR-oQ2' property='btn_done1'/>
+                <outlet destination='cAa-YM-wta' id='5fs-5b-9NG' property='imv_icon'/>
+                <outlet destination='VVK-m5-6Ho' id='bSo-zt-fp4' property='imv_icon1'/>
+                <outlet destination='i4M-EQ-6cu' id='idw-GJ-V6o' property='imv_qrCode'/>
+                <outlet destination='o4t-Jo-2FQ' id='FsH-et-Ix5' property='imv_thanks'/>
+                <outlet destination='3jZ-GV-PKY' id='M2f-X4-6PM' property='imv_thanks1'/>
+                <outlet destination='VA2-4L-m1L' id='MuC-wC-rzI' property='lbl_couponId'/>
+                <outlet destination='UKr-S6-70T' id='da9-0m-vp4' property='lbl_couponId1'/>
+                <outlet destination='vV0-Ap-lIt' id='cCN-Dl-p9W' property='lbl_couponTitle'/>
+                <outlet destination='uux-3M-mZQ' id='rnG-O5-z1m' property='lbl_presentLabel'/>
+                <outlet destination='Zaw-0A-1dV' id='8R9-89-pWq' property='lbl_presentLabel2'/>
+                <outlet destination='R3r-Wa-vfM' id='yqA-XO-Gq5' property='lbl_subTitle'/>
+                <outlet destination='1FZ-Ve-vSd' id='8Km-SO-j6q' property='lbl_subTitle1'/>
+                <outlet destination='npV-yZ-zPG' id='jqg-wY-ziR' property='lbl_title'/>
+                <outlet destination='N9N-jf-d3W' id='w7L-qM-wf0' property='lbl_title1'/>
+                <outlet destination='GJT-9t-9Le' id='TRW-Gv-sO8' property='lbl_tranId'/>
+                <outlet destination='rYC-EQ-bZf' id='9lj-eK-ZIg' property='lbl_tranId1'/>
+                <outlet destination='sth-fH-8fC' id='mfr-qO-9Gl' property='scv_container'/>
+                <outlet destination='i5M-Pr-FkT' id='sfx-zR-JGt' property='view'/>
+                <outlet destination='ozm-br-pTk' id='h0o-C5-lWF' property='view_QR'/>
+                <outlet destination='MVJ-Gk-JTe' id='MLg-sU-hFS' property='view_QR_linedown'/>
+                <outlet destination='ylL-dm-5jf' id='odd-UW-SOK' property='view_QR_lineup'/>
+                <outlet destination='j3h-Rz-2pi' id='7zc-MQ-ELP' property='view_method1'/>
+                <outlet destination='rvv-Nf-viv' id='siX-oY-P8u' property='view_qrFrame'/>
+                <outlet destination='EIW-ix-Lic' id='7ss-NG-9eB' property='view_timerContent'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='i5M-Pr-FkT'>
+            <rect height='568' key='frame' width='314' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view contentMode='scaleToFill' id='j3h-Rz-2pi'>
+                    <rect height='528' key='frame' width='320' x='-3' y='20'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='VVK-m5-6Ho' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='120' key='frame' width='280' x='20' y='53'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='N9N-jf-d3W' lineBreakMode='tailTruncation' opaque='NO' text='Pacific Coffee Company Limited' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='21' key='frame' width='297' x='12' y='181'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                            <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='1FZ-Ve-vSd' lineBreakMode='tailTruncation' opaque='NO' text='1 short Size e-Coffee voucher 8oz' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='16' key='frame' width='297' x='12' y='200'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='system'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='UKr-S6-70T' lineBreakMode='tailTruncation' opaque='NO' text='Coupon ID: CDNW525G' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='21' key='frame' width='297' x='12' y='218'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='boldSystem'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.33333333333333331'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='Zaw-0A-1dV' lineBreakMode='tailTruncation' opaque='NO' text='Present this page to merchant' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='21' key='frame' width='280' x='20' y='247'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                            <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView contentMode='scaleToFill' hidden='YES' horizontalHuggingPriority='251' id='3jZ-GV-PKY' image='thank_you.png' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='74' key='frame' width='263' x='28' y='266'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='rYC-EQ-bZf' lineBreakMode='tailTruncation' opaque='NO' text='Transaction ID: CBSJKABC25' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='18' key='frame' width='261' x='29' y='348'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.33333333333333331'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='qUh-Di-RVH' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='200' x='60' y='385'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='boldSystem'/>
+                            <state backgroundImage='btn_orange.png' key='normal' title='Done &amp; Back to &apos;My Wallet&apos;'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='vEC-vC-Ueh' selector='back_onTouch:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_new.png'/></userDefinedRuntimeAttributes></button>
+                    </subviews>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </view>
+                <scrollView clipsSubviews='YES' contentMode='scaleToFill' id='sth-fH-8fC' multipleTouchEnabled='YES'>
+                    <rect height='568' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <subviews>
+                        <imageView contentMode='scaleAspectFit' customClass='CachedImageView' horizontalHuggingPriority='251' id='cAa-YM-wta' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='66' key='frame' width='66' x='11' y='69'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='npV-yZ-zPG' lineBreakMode='tailTruncation' opaque='NO' text='Pacific Coffee Company Limited' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='21' key='frame' width='227' x='85' y='69'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='boldSystem'/>
+                            <color alpha='1' blue='0.43137258290000002' colorSpace='deviceRGB' green='0.41176474089999998' key='textColor' red='0.86666673419999996'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='R3r-Wa-vfM' lineBreakMode='tailTruncation' numberOfLines='2' opaque='NO' text='1 short Size e-Coffee voucher 8oz' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='32' key='frame' width='227' x='85' y='95'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' contentMode='left' horizontalHuggingPriority='251' id='vV0-Ap-lIt' lineBreakMode='tailTruncation' opaque='NO' text='Coupon ID:' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='16' key='frame' width='295' x='11' y='137'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='VA2-4L-m1L' lineBreakMode='tailTruncation' opaque='NO' text='0019999900100140000000000217' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='30' key='frame' width='295' x='11' y='154'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='18' type='system'/>
+                            <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView contentMode='scaleToFill' hidden='YES' horizontalHuggingPriority='251' id='o4t-Jo-2FQ' image='thank_you.png' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='90' key='frame' width='320' x='0.0' y='181'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                        </imageView>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='GJT-9t-9Le' lineBreakMode='tailTruncation' opaque='NO' text='Transaction ID: CBSJKABC25' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='18' key='frame' width='289' x='11' y='538'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='16' type='system'/>
+                            <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='0.33333333333333331'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='91r-9c-pSt' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='30' key='frame' width='203' x='59' y='564'/>
+                            <autoresizingMask flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='13' type='boldSystem'/>
+                            <state backgroundImage='btn_orange.png' key='normal' title='Done &amp; Back to &apos;My Wallet&apos;'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='4Rh-1j-WdN' selector='back_onTouch:'/>
+                            </connections>
+                        <userDefinedRuntimeAttributes><userDefinedRuntimeAttribute keyPath='orangeImageName' type='string' value='btn_orange.png'/><userDefinedRuntimeAttribute keyPath='redImageName' type='string' value='btn_orange_new.png'/></userDefinedRuntimeAttributes></button>
+                        <view clipsSubviews='YES' contentMode='scaleToFill' id='ozm-br-pTk'>
+                            <rect height='293' key='frame' width='314' x='0.0' y='265'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <subviews>
+                                <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='i4M-EQ-6cu' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                                    <rect height='200' key='frame' width='200' x='57' y='32'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                </imageView>
+                                <view clipsSubviews='YES' contentMode='scaleToFill' id='EIW-ix-Lic'>
+                                    <rect height='58' key='frame' width='298' x='8' y='235'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                                </view>
+                                <view contentMode='scaleToFill' id='MVJ-Gk-JTe'>
+                                    <rect height='198' key='frame' width='320' x='0.0' y='290'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <subviews>
+                                        <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='slb-zA-Rkq' image='thank_you_line1.png' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                                            <rect height='12' key='frame' width='320' x='0.0' y='0.0'/>
+                                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                                        </imageView>
+                                    </subviews>
+                                    <color cocoaTouchSystemColor='groupTableViewBackgroundColor' key='backgroundColor'/>
+                                </view>
+                                <view contentMode='scaleToFill' id='ylL-dm-5jf'>
+                                    <rect height='194' key='frame' width='320' x='0.0' y='-190'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <subviews>
+                                        <imageView contentMode='scaleToFill' horizontalHuggingPriority='251' id='5b9-vb-Bzz' image='thank_you_line1.png' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                                            <rect height='12' key='frame' width='320' x='0.0' y='184'/>
+                                            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                                        </imageView>
+                                    </subviews>
+                                    <color cocoaTouchSystemColor='groupTableViewBackgroundColor' key='backgroundColor'/>
+                                </view>
+                                <view contentMode='scaleToFill' hidden='YES' id='rvv-Nf-viv'>
+                                    <rect height='141' key='frame' width='280' x='20' y='47'/>
+                                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                                </view>
+                                <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' horizontalHuggingPriority='251' id='uux-3M-mZQ' lineBreakMode='tailTruncation' opaque='NO' text='Present this page to merchant' textAlignment='center' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                                    <rect height='24' key='frame' width='313' x='4' y='0.0'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <fontDescription key='fontDescription' pointSize='17' type='system'/>
+                                    <color alpha='1' blue='0.0' colorSpace='calibratedRGB' green='0.0' key='textColor' red='1'/>
+                                    <nil key='highlightedColor'/>
+                                </label>
+                            </subviews>
+                            <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                        </view>
+                    </subviews>
+                    <color cocoaTouchSystemColor='groupTableViewBackgroundColor' key='backgroundColor'/>
+                </scrollView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <nil key='simulatedStatusBarMetrics'/>
+            <freeformSimulatedSizeMetrics key='simulatedDestinationMetrics'/>
+            <point key='canvasLocation' x='535' y='372'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='70' name='btn_orange.png' width='305'/>
+        <image height='147' name='thank_you.png' width='564'/>
+        <image height='46' name='thank_you_line1.png' width='720'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

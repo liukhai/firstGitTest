@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13F34' targetRuntime='iOS.CocoaTouch' toolsVersion='6245' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' variant='6xAndEarlier' version='3.0'>
+    <dependencies>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='6238'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='RotateMenu4ViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='gSd-Fh-Z3T' id='197-IE-pUk' property='btnBack'/>
+                <outlet destination='3qL-o8-ziW' id='JVc-wK-apy' property='btnMore'/>
+                <outlet destination='I2h-iX-m0Z' id='MI5-Wx-Gy5' property='btnSidemenu'/>
+                <outlet destination='hjz-ar-zfg' id='lLS-nB-h6F' property='btnmenu0'/>
+                <outlet destination='IHh-3T-LGu' id='PhT-9V-KVW' property='btnmenu1'/>
+                <outlet destination='mu6-jN-JjI' id='SXr-LB-qeM' property='contentView'/>
+                <outlet destination='aLD-qh-rCd' id='t4h-Pc-2C0' property='image_bg'/>
+                <outlet destination='XeR-OU-DR7' id='NAK-bH-SIN' property='lbl_coupon'/>
+                <outlet destination='i5M-Pr-FkT' id='sfx-zR-JGt' property='view'/>
+                <outlet destination='Nzd-9L-q3d' id='fYA-it-0XY' property='view_features'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='i5M-Pr-FkT'>
+            <rect height='548' key='frame' width='320' x='0.0' y='20'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <view contentMode='scaleToFill' id='mu6-jN-JjI'>
+                    <rect height='95' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <view contentMode='scaleToFill' id='QZY-rb-Xqj'>
+                            <rect height='43' key='frame' width='320' x='0.0' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <color catalog='System' colorSpace='catalog' key='backgroundColor' name='alternateSelectedControlTextColor'/>
+                        </view>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='Aoh-M9-fz9' image='topbar_logo_01.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='24' key='frame' width='130' x='95' y='10'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                        </imageView>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='I2h-iX-m0Z' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='31' key='frame' width='39' x='6' y='6'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='topbar_btn_menu.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='ZfW-u9-uRJ' selector='doMenuButtonsPressed:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='3qL-o8-ziW' lineBreakMode='middleTruncation' opaque='NO' tag='1'>
+                            <rect height='31' key='frame' width='39' x='233' y='6'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_more.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='9wv-re-QrQ' selector='doMenuButtonsPressed:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='gSd-Fh-Z3T' lineBreakMode='middleTruncation' opaque='NO' tag='2'>
+                            <rect height='31' key='frame' width='39' x='274' y='6'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='15' type='boldSystem'/>
+                            <state backgroundImage='btn_back.png' key='normal'>
+                                <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='-1' eventType='touchUpInside' id='Fl7-GM-cfH' selector='doMenuButtonsPressed:'/>
+                            </connections>
+                        </button>
+                        <label adjustsFontSizeToFit='NO' baselineAdjustment='alignBaselines' clipsSubviews='YES' contentMode='left' hidden='YES' horizontalHuggingPriority='251' id='XeR-OU-DR7' lineBreakMode='tailTruncation' opaque='NO' text='i-Coupon' textAlignment='right' userInteractionEnabled='NO' verticalHuggingPriority='251'>
+                            <rect height='21' key='frame' width='72' x='241' y='11'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='boldSystem'/>
+                            <color alpha='1' blue='0.43137258290000002' colorSpace='deviceRGB' green='0.41176474089999998' key='textColor' red='0.86666673419999996'/>
+                            <nil key='highlightedColor'/>
+                        </label>
+                        <imageView clipsSubviews='YES' contentMode='scaleToFill' id='D23-KN-z1z' image='topbar_decoration_bar.png' multipleTouchEnabled='YES' opaque='NO'>
+                            <rect height='20' key='frame' width='320' x='0.0' y='43'/>
+                            <autoresizingMask key='autoresizingMask'/>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                        </imageView>
+                        <view contentMode='scaleToFill' id='Nzd-9L-q3d'>
+                            <rect height='54' key='frame' width='320' x='0.0' y='40'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <subviews>
+                                <imageView clipsSubviews='YES' contentMode='scaleToFill' id='aLD-qh-rCd' image='my_wallet_bar.png' multipleTouchEnabled='YES' opaque='NO'>
+                                    <rect height='51' key='frame' width='320' x='0.0' y='2'/>
+                                    <autoresizingMask key='autoresizingMask'/>
+                                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                                </imageView>
+                                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='hjz-ar-zfg' lineBreakMode='middleTruncation' opaque='NO' tag='3'>
+                                    <rect height='51' key='frame' width='160' x='0.0' y='2'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                                    <state key='normal' title='Full List'>
+                                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                                    </state>
+                                    <connections>
+                                        <action destination='-1' eventType='touchUpInside' id='946-Ji-msE' selector='doMenuButtonsPressed:'/>
+                                    </connections>
+                                </button>
+                                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='IHh-3T-LGu' lineBreakMode='middleTruncation' opaque='NO' tag='4'>
+                                    <rect height='51' key='frame' width='160' x='160' y='2'/>
+                                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                                    <fontDescription key='fontDescription' pointSize='14' type='boldSystem'/>
+                                    <state key='normal' title='My Wallet'>
+                                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                                    </state>
+                                    <connections>
+                                        <action destination='-1' eventType='touchUpInside' id='prw-k5-Kwv' selector='doMenuButtonsPressed:'/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                        </view>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </view>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='62' name='btn_back.png' width='78'/>
+        <image height='62' name='btn_more.png' width='78'/>
+        <image height='104' name='my_wallet_bar.png' width='640'/>
+        <image height='62' name='topbar_btn_menu.png' width='78'/>
+        <image height='50' name='topbar_decoration_bar.png' width='800'/>
+        <image height='62' name='topbar_logo_01.png' width='324'/>
+    </resources>
+    <simulatedMetricsContainer key='defaultSimulatedMetrics'>
+        <simulatedStatusBarMetrics key='statusBar'/>
+        <simulatedOrientationMetrics key='orientation'/>
+        <simulatedScreenMetrics key='destination' type='retina4'/>
+    </simulatedMetricsContainer>
+</document>

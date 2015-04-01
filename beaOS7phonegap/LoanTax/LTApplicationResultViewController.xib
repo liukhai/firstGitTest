@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='13B42' targetRuntime='iOS.CocoaTouch' toolsVersion='4514' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1536' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3747'/>
+    </dependencies>
+    <objects>
+        <placeholder customClass='LTApplicationResultViewController' id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'>
+            <connections>
+                <outlet destination='11' id='60' property='btOK'/>
+                <outlet destination='27' id='33' property='lbEmail'/>
+                <outlet destination='28' id='34' property='lbLoanDetail'/>
+                <outlet destination='26' id='32' property='lbMobileno'/>
+                <outlet destination='25' id='31' property='lbName'/>
+                <outlet destination='24' id='30' property='lbRefno'/>
+                <outlet destination='14' id='52' property='lbTag00'/>
+                <outlet destination='16' id='53' property='lbTag01'/>
+                <outlet destination='17' id='54' property='lbTag02'/>
+                <outlet destination='18' id='55' property='lbTag03'/>
+                <outlet destination='19' id='56' property='lbTag04'/>
+                <outlet destination='20' id='57' property='lbTag05'/>
+                <outlet destination='21' id='58' property='lbTag06'/>
+                <outlet destination='22' id='59' property='lbTag07'/>
+                <outlet destination='47' id='51' property='lbTimestamp'/>
+                <outlet destination='7' id='38' property='lbTitle'/>
+                <outlet destination='1' id='3' property='view'/>
+            </connections>
+        </placeholder>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' id='1'>
+            <rect height='480' key='frame' width='320' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <userGuides>
+                <userLayoutGuide affinity='minY' location='184'/>
+                <userLayoutGuide affinity='minX' location='160'/>
+            </userGuides>
+            <subviews>
+                <imageView contentMode='scaleToFill' id='61' image='app_result_frame.png' userInteractionEnabled='NO'>
+                    <rect height='310' key='frame' width='295' x='13' y='51'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                </imageView>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='14' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Application Recieved' userInteractionEnabled='NO'>
+                    <rect height='22' key='frame' width='170' x='78' y='65'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='18'/>
+                    <color alpha='1' blue='0.20000000000000001' colorSpace='calibratedRGB' green='0.59999999999999998' key='textColor' red='0.20000000000000001'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='16' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Reference no.:' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='93' x='19' y='110'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='24' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='XXXXXX' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='153' x='128' y='110'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='18' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Name:' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='96' x='19' y='174'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='25' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Mr. Chan Tai Man' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='182' x='117' y='175'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='26' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='91234567' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='182' x='117' y='192'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='19' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Mobile no.:' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='96' x='19' y='192'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='20' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Email Address:' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='96' x='19' y='209'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='27' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='ABC@ABC.com' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='182' x='117' y='209'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='21' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Loan Detail:' userInteractionEnabled='NO'>
+                    <rect height='16' key='frame' width='96' x='19' y='226'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='28' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='3' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='49' key='frame' width='135' x='117' y='226'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <string key='text'>HK$10,000,
+HK$10,000,
+12 months</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='22' lineBreakMode='tailTruncation' minimumFontSize='10' numberOfLines='3' opaque='NO' text='Our Customer Service Representative will contact you within 4 hours on next working day.' userInteractionEnabled='NO'>
+                    <rect height='36' key='frame' width='280' x='19' y='278'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='17' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Thanks for your application.' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='281' x='19' y='148'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='left' id='47' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='16 Sep 2010 15:54:08 HKG' userInteractionEnabled='NO'>
+                    <rect height='18' key='frame' width='281' x='19' y='128'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='14'/>
+                    <color cocoaTouchSystemColor='darkTextColor' key='textColor'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <imageView clearsContextBeforeDrawing='NO' contentMode='scaleToFill' id='6' image='table_header_bg.png' opaque='NO' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='320' x='0.0' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                </imageView>
+                <label adjustsFontSizeToFit='NO' clipsSubviews='YES' contentMode='scaleToFill' id='7' lineBreakMode='wordWrap' minimumFontSize='10' numberOfLines='2' opaque='NO' textAlignment='center' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='310' x='5' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' blue='0.1843137255' colorSpace='calibratedRGB' green='0.1058823529' key='backgroundColor' red='0.92941176469999998'/>
+                    <string key='text'>Tax Loan
+Application</string>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='17'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <nil key='highlightedColor'/>
+                    <color alpha='1' blue='0.45490199329999997' colorSpace='deviceRGB' green='0.4156863093' key='shadowColor' red='0.36470589040000001'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='11' lineBreakMode='wordWrap' opaque='NO'>
+                    <rect height='37' key='frame' width='106' x='193' y='317'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica' pointSize='13'/>
+                    <inset key='contentEdgeInsets' maxX='10' maxY='6' minX='10' minY='0.0'/>
+                    <state backgroundImage='merchant_button_2.png' key='normal' title='OK'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='-1' eventType='touchUpInside' id='35' selector='btOKPressed'/>
+                    </connections>
+                </button>
+                <imageView contentMode='scaleToFill' id='15' image='complete.png' userInteractionEnabled='NO'>
+                    <rect height='45' key='frame' width='45' x='19' y='53'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                </imageView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedStatusBarMetrics key='simulatedStatusBarMetrics'/>
+            <simulatedNavigationBarMetrics key='simulatedTopBarMetrics' prompted='NO'/>
+            <simulatedTabBarMetrics key='simulatedBottomBarMetrics'/>
+        </view>
+    </objects>
+    <resources>
+        <image height='310' name='app_result_frame.png' width='295'/>
+        <image height='45' name='complete.png' width='45'/>
+        <image height='37' name='merchant_button_2.png' width='135'/>
+        <image height='45' name='table_header_bg.png' width='1'/>
+    </resources>
+</document>

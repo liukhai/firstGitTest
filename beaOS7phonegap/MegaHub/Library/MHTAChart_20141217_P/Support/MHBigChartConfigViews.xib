@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<document propertyAccessControl='none' systemVersion='12F45' targetRuntime='iOS.CocoaTouch' toolsVersion='4510' type='com.apple.InterfaceBuilder3.CocoaTouch.XIB' version='3.0'>
+    <dependencies>
+        <deployment defaultVersion='1072' identifier='iOS'/>
+        <plugIn identifier='com.apple.InterfaceBuilder.IBCocoaTouchPlugin' version='3742'/>
+    </dependencies>
+    <objects>
+        <placeholder id='-1' placeholderIdentifier='IBFilesOwner' userLabel='File&apos;s Owner'/>
+        <placeholder customClass='UIResponder' id='-2' placeholderIdentifier='IBFirstResponder'/>
+        <view contentMode='scaleToFill' customClass='MHChartBaseConfigView' id='1' opaque='NO'>
+            <rect height='280' key='frame' width='230' x='0.0' y='0.0'/>
+            <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+            <subviews>
+                <label clipsSubviews='YES' contentMode='left' id='4' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Period' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='80' x='11' y='2'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='shadowColor' white='0.33333333333333331'/>
+                    <size height='1' key='shadowOffset' width='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='5' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Chart Type' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='11' y='89'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='55' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Volume' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='165' y='89'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='7' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Indicator 1' userInteractionEnabled='NO'>
+                    <rect height='20' key='frame' width='165' x='11' y='143'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='15' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Indicator 2' userInteractionEnabled='NO'>
+                    <rect height='20' key='frame' width='165' x='11' y='194'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='textColor' red='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <segmentedControl contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='top' id='6' opaque='NO' segmentControlStyle='bar' selectedSegmentIndex='0'>
+                    <rect height='30' key='frame' width='137' x='11' y='112'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <segments>
+                        <segment image='candle.png' title=''/>
+                        <segment image='line.png' title=''/>
+                        <segment image='ohlc.png' title=''/>
+                    </segments>
+                    <connections>
+                        <action destination='1' eventType='valueChanged' id='153' selector='onChartTypeValueChanged:'/>
+                    </connections>
+                </segmentedControl>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='9' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='28' key='frame' width='28' x='11' y='165'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state image='off.png' key='normal'>
+                        <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state image='on.png' key='selected'/>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='151' selector='onTA1ToggleButtonClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='10' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='50' x='51' y='168'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='tintColor' white='1'/>
+                    <state key='normal' title='SELECT'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='146' selector='onTA1SelectButtonClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='11' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='64' x='112' y='168'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='tintColor' white='1'/>
+                    <state key='normal' title='PARAMS'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='147' selector='onTA1ConfigButtonClicked:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='12' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='28' key='frame' width='28' x='11' y='214'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state image='off.png' key='normal'>
+                        <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state image='on.png' key='selected'/>
+                    <state key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='152' selector='onTA2ToggleButtonClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='13' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='50' x='51' y='217'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='tintColor' white='1'/>
+                    <state key='normal' title='SELECT'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='149' selector='onTA2SelectButtonClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='14' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='64' x='112' y='217'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='tintColor' white='1'/>
+                    <state key='normal' title='PARAMS'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='148' selector='onTA2ConfigButtonClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='175' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='64' x='118' y='250'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='9'/>
+                    <state key='normal' title='UPDATE'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='180' selector='onQuoteUpdateButtonClicked:'/>
+                        <action destination='1' eventType='touchUpInside' id='176' selector='onTA2ConfigButtonClicked:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='54' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='45' x='165' y='111'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state image='volume.png' key='normal'>
+                        <color alpha='1' blue='0.52156865600000002' colorSpace='calibratedRGB' green='0.30980393290000002' key='titleColor' red='0.19607843459999999'/>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <state image='volume.png' key='selected'/>
+                    <state image='volume1.png' key='highlighted'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='150' selector='onVolumeButtonClicked:'/>
+                    </connections>
+                </button>
+                <view contentMode='scaleToFill' id='173'>
+                    <rect height='64' key='frame' width='210' x='9' y='24'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='0.87'/>
+                    <color alpha='1' blue='1' colorSpace='calibratedRGB' green='1' key='tintColor' red='1'/>
+                </view>
+                <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='174' minimumFontSize='17' opaque='NO'>
+                    <rect height='31' key='frame' width='96' x='14' y='245'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                    <textInputTraits key='textInputTraits'/>
+                </textField>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='6h1-kg-BaP' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='45' x='12' y='111'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='tintColor' white='0.0'/>
+                    <state image='candle.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='ZiH-W3-nOq' selector='onCandleSegmentedButtonClicked:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='6LH-t6-t4X' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='45' x='57' y='111'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <state image='line.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='IiN-DB-0QY' selector='onLineSegmentedButtonClicked:'/>
+                    </connections>
+                </button>
+                <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' hidden='YES' id='w08-FF-wyt' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='30' key='frame' width='45' x='102' y='111'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <state image='ohlc.png' key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='1' eventType='touchUpInside' id='Ccu-m4-BJf' selector='onOhlcSegmentedButtonClicked:'/>
+                    </connections>
+                </button>
+            </subviews>
+            <color alpha='0.5' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedOrientationMetrics key='simulatedOrientationMetrics' orientation='landscapeRight'/>
+            <connections>
+                <outlet destination='6h1-kg-BaP' id='bdo-IV-g6I' property='oCandleSegmentedButton'/>
+                <outlet destination='6' id='128' property='oChartTypeSelector'/>
+                <outlet destination='5' id='129' property='oChartTypeTitle'/>
+                <outlet destination='173' id='179' property='oClippingView'/>
+                <outlet destination='6LH-t6-t4X' id='R3z-Ed-idm' property='oLineSegmentedButton'/>
+                <outlet destination='w08-FF-wyt' id='SPT-6q-8lR' property='oOhlcSegmentedButton'/>
+                <outlet destination='4' id='130' property='oPeriodTitle'/>
+                <outlet destination='175' id='177' property='oQuoteUpdateButton'/>
+                <outlet destination='174' id='178' property='oQuoteUpdateField'/>
+                <outlet destination='11' id='141' property='oTA1ConfigButton'/>
+                <outlet destination='7' id='132' property='oTA1IndicatorTitle'/>
+                <outlet destination='10' id='143' property='oTA1SelectButton'/>
+                <outlet destination='9' id='137' property='oTA1ToggleButton'/>
+                <outlet destination='14' id='144' property='oTA2ConfigButton'/>
+                <outlet destination='15' id='133' property='oTA2IndicatorTitle'/>
+                <outlet destination='13' id='139' property='oTA2SelectButton'/>
+                <outlet destination='12' id='138' property='oTA2ToggleButton'/>
+                <outlet destination='55' id='134' property='oVolumeTitle'/>
+                <outlet destination='54' id='135' property='oVolumeToggleButton'/>
+            </connections>
+        </view>
+        <view contentMode='scaleToFill' customClass='MHChartTAParamConfigView' id='16'>
+            <rect height='280' key='frame' width='230' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <label clipsSubviews='YES' contentMode='left' id='18' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Param 1' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='8' y='43'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='24' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='TA Parameters' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='8' y='7'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='25' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Param 2' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='122' y='43'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' hidden='YES' id='33' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Parameter 5' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='8' y='163'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' hidden='YES' id='60' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Parameter 4' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='122' y='103'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <label clipsSubviews='YES' contentMode='left' id='37' lineBreakMode='tailTruncation' minimumFontSize='10' opaque='NO' text='Param 3' userInteractionEnabled='NO'>
+                    <rect height='21' key='frame' width='85' x='8' y='103'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='textColor' white='1'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='highlightedColor' white='1'/>
+                </label>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='41' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='64' x='96' y='7'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='tintColor' white='1'/>
+                    <state key='normal' title='DEFAULTS'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='16' eventType='touchUpInside' id='126' selector='onDefaultButtonClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='42' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='22' key='frame' width='66' x='162' y='7'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='12'/>
+                    <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='tintColor' white='1'/>
+                    <state key='normal' title='OK'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='16' eventType='touchUpInside' id='127' selector='onOkButtonClicked:'/>
+                    </connections>
+                </button>
+                <view contentMode='scaleToFill' customClass='MHAdjustableTextFieldView' id='86'>
+                    <rect height='31' key='frame' width='100' x='8' y='64'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='89' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='0.0' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='-.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='-2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='86' eventType='touchDown' id='186' selector='onDecrementDown:'/>
+                                <action destination='86' eventType='touchUpInside' id='196' selector='onDecrementUp:'/>
+                                <action destination='86' eventType='touchUpOutside' id='203' selector='onDecrementUp:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='88' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='78' y='4'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='+.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='+2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='86' eventType='touchDown' id='185' selector='onIncrementDown:'/>
+                                <action destination='86' eventType='touchUpInside' id='197' selector='onIncrementUp:'/>
+                                <action destination='86' eventType='touchUpOutside' id='202' selector='onIncrementUp:'/>
+                            </connections>
+                        </button>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='87' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='50' x='25' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits'/>
+                            <connections>
+                                <outlet destination='86' id='160' property='delegate'/>
+                            </connections>
+                        </textField>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='89' id='91' property='m_oDecrementButton'/>
+                        <outlet destination='88' id='90' property='m_oIncrementButton'/>
+                        <outlet destination='87' id='92' property='m_oTextField'/>
+                    </connections>
+                </view>
+                <view contentMode='scaleToFill' customClass='MHAdjustableTextFieldView' id='93'>
+                    <rect height='31' key='frame' width='100' x='122' y='64'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='96' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='0.0' y='4'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='-.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='-2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='93' eventType='touchDown' id='187' selector='onDecrementDown:'/>
+                                <action destination='93' eventType='touchUpInside' id='195' selector='onDecrementUp:'/>
+                                <action destination='93' eventType='touchUpOutside' id='204' selector='onDecrementUp:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='95' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='78' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='+.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='+2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='93' eventType='touchDown' id='193' selector='onIncrementDown:'/>
+                                <action destination='93' eventType='touchUpInside' id='194' selector='onIncrementUp:'/>
+                                <action destination='93' eventType='touchUpOutside' id='205' selector='onIncrementUp:'/>
+                            </connections>
+                        </button>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='94' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='50' x='25' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits'/>
+                            <connections>
+                                <outlet destination='93' id='161' property='delegate'/>
+                            </connections>
+                        </textField>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='96' id='99' property='m_oDecrementButton'/>
+                        <outlet destination='95' id='98' property='m_oIncrementButton'/>
+                        <outlet destination='94' id='97' property='m_oTextField'/>
+                    </connections>
+                </view>
+                <view contentMode='scaleToFill' customClass='MHAdjustableTextFieldView' id='100'>
+                    <rect height='31' key='frame' width='100' x='8' y='124'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='103' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='0.0' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='-.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='-2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='100' eventType='touchDown' id='191' selector='onDecrementDown:'/>
+                                <action destination='100' eventType='touchUpInside' id='192' selector='onDecrementUp:'/>
+                                <action destination='100' eventType='touchUpOutside' id='206' selector='onDecrementUp:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='102' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='78' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='+.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='+2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='100' eventType='touchDown' id='190' selector='onIncrementDown:'/>
+                                <action destination='100' eventType='touchUpInside' id='189' selector='onIncrementUp:'/>
+                                <action destination='100' eventType='touchUpOutside' id='207' selector='onIncrementUp:'/>
+                            </connections>
+                        </button>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='101' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='50' x='25' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits'/>
+                            <connections>
+                                <outlet destination='100' id='166' property='delegate'/>
+                            </connections>
+                        </textField>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='103' id='106' property='m_oDecrementButton'/>
+                        <outlet destination='102' id='105' property='m_oIncrementButton'/>
+                        <outlet destination='101' id='104' property='m_oTextField'/>
+                    </connections>
+                </view>
+                <view contentMode='scaleToFill' customClass='MHAdjustableTextFieldView' hidden='YES' id='107'>
+                    <rect height='31' key='frame' width='100' x='122' y='124'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='110' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='0.0' y='6'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='-.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='-2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='107' eventType='touchDown' id='198' selector='onDecrementDown:'/>
+                                <action destination='107' eventType='touchUpInside' id='199' selector='onDecrementUp:'/>
+                                <action destination='107' eventType='touchUpOutside' id='208' selector='onDecrementUp:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='109' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='78' y='6'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='+.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='+2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='107' eventType='touchDown' id='200' selector='onIncrementDown:'/>
+                                <action destination='107' eventType='touchUpInside' id='201' selector='onIncrementUp:'/>
+                                <action destination='107' eventType='touchUpOutside' id='209' selector='onIncrementUp:'/>
+                            </connections>
+                        </button>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='108' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='50' x='25' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits'/>
+                            <connections>
+                                <outlet destination='107' id='167' property='delegate'/>
+                            </connections>
+                        </textField>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='110' id='113' property='m_oDecrementButton'/>
+                        <outlet destination='109' id='112' property='m_oIncrementButton'/>
+                        <outlet destination='108' id='111' property='m_oTextField'/>
+                    </connections>
+                </view>
+                <view contentMode='scaleToFill' customClass='MHAdjustableTextFieldView' hidden='YES' id='114'>
+                    <rect height='31' key='frame' width='100' x='8' y='184'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <subviews>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='117' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='22' key='frame' width='22' x='0.0' y='5'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='-.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='-2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='114' eventType='touchDown' id='183' selector='onDecrementDown:'/>
+                                <action destination='114' eventType='touchUpInside' id='184' selector='onDecrementUp:'/>
+                                <action destination='114' eventType='touchUpOutside' id='211' selector='onDecrementUp:'/>
+                            </connections>
+                        </button>
+                        <button contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='116' lineBreakMode='middleTruncation' opaque='NO'>
+                            <rect height='19' key='frame' width='18' x='80' y='6'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                            <state image='+.png' key='normal'>
+                                <color alpha='1' blue='0.52156862749999999' colorSpace='calibratedRGB' green='0.30980392159999998' key='titleColor' red='0.1960784314'/>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                            </state>
+                            <state image='+2.png' key='highlighted'>
+                                <color alpha='1' colorSpace='calibratedWhite' key='titleColor' white='1'/>
+                            </state>
+                            <connections>
+                                <action destination='114' eventType='touchDown' id='181' selector='onIncrementDown:'/>
+                                <action destination='114' eventType='touchUpInside' id='182' selector='onIncrementUp:'/>
+                                <action destination='114' eventType='touchUpOutside' id='210' selector='onIncrementUp:'/>
+                            </connections>
+                        </button>
+                        <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='115' minimumFontSize='17' opaque='NO'>
+                            <rect height='31' key='frame' width='50' x='25' y='0.0'/>
+                            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                            <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                            <textInputTraits key='textInputTraits'/>
+                            <connections>
+                                <outlet destination='114' id='170' property='delegate'/>
+                            </connections>
+                        </textField>
+                    </subviews>
+                    <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+                    <connections>
+                        <outlet destination='117' id='118' property='m_oDecrementButton'/>
+                        <outlet destination='116' id='120' property='m_oIncrementButton'/>
+                        <outlet destination='115' id='119' property='m_oTextField'/>
+                    </connections>
+                </view>
+            </subviews>
+            <color alpha='0.5' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <simulatedOrientationMetrics key='simulatedOrientationMetrics' orientation='landscapeRight'/>
+            <connections>
+                <outlet destination='41' id='82' property='oDefaultButton'/>
+                <outlet destination='42' id='83' property='oOKButton'/>
+                <outlet destination='18' id='76' property='oParam1Title'/>
+                <outlet destination='86' id='121' property='oParam1Value'/>
+                <outlet destination='25' id='77' property='oParam2Title'/>
+                <outlet destination='93' id='122' property='oParam2Value'/>
+                <outlet destination='37' id='78' property='oParam3Title'/>
+                <outlet destination='100' id='123' property='oParam3Value'/>
+                <outlet destination='60' id='79' property='oParam4Title'/>
+                <outlet destination='107' id='124' property='oParam4Value'/>
+                <outlet destination='33' id='80' property='oParam5Title'/>
+                <outlet destination='114' id='125' property='oParam5Value'/>
+                <outlet destination='24' id='81' property='oTAParamsTitle'/>
+            </connections>
+        </view>
+        <view contentMode='scaleToFill' customClass='MHChartTASelectView' id='63'>
+            <rect height='280' key='frame' width='230' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <tableView alwaysBounceVertical='YES' clipsSubviews='YES' contentMode='scaleToFill' id='62' rowHeight='44' sectionFooterHeight='22' sectionHeaderHeight='22' separatorStyle='default' showsSelectionImmediatelyOnTouchBegin='NO' style='plain'>
+                    <rect height='280' key='frame' width='230' x='0.0' y='0.0'/>
+                    <autoresizingMask heightSizable='YES' key='autoresizingMask' widthSizable='YES'/>
+                    <color alpha='1' colorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+                </tableView>
+            </subviews>
+            <color alpha='1' colorSpace='custom' customColorSpace='calibratedWhite' key='backgroundColor' white='1'/>
+            <connections>
+                <outlet destination='62' id='75' property='oTableView'/>
+            </connections>
+        </view>
+        <view contentMode='scaleToFill' customClass='MHAdjustableTextFieldView' id='64'>
+            <rect height='31' key='frame' width='100' x='0.0' y='0.0'/>
+            <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+            <subviews>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='68' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='19' key='frame' width='18' x='2' y='6'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='64' eventType='touchUpInside' id='156' selector='onDecrementClicked:'/>
+                    </connections>
+                </button>
+                <button buttonType='roundedRect' contentHorizontalAlignment='center' contentMode='scaleToFill' contentVerticalAlignment='center' id='69' lineBreakMode='middleTruncation' opaque='NO'>
+                    <rect height='19' key='frame' width='18' x='80' y='6'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription family='Helvetica' key='fontDescription' name='Helvetica-Bold' pointSize='15'/>
+                    <state key='normal'>
+                        <color alpha='1' colorSpace='calibratedWhite' key='titleShadowColor' white='0.5'/>
+                    </state>
+                    <connections>
+                        <action destination='64' eventType='touchUpInside' id='155' selector='onIncrementClicked:'/>
+                    </connections>
+                </button>
+                <textField borderStyle='roundedRect' clipsSubviews='YES' contentHorizontalAlignment='left' contentMode='scaleToFill' contentVerticalAlignment='center' id='70' minimumFontSize='17' opaque='NO' text='9'>
+                    <rect height='31' key='frame' width='50' x='25' y='0.0'/>
+                    <autoresizingMask flexibleMaxX='YES' flexibleMaxY='YES' key='autoresizingMask'/>
+                    <fontDescription key='fontDescription' pointSize='12' type='system'/>
+                    <textInputTraits key='textInputTraits'/>
+                    <connections>
+                        <outlet destination='64' id='154' property='delegate'/>
+                    </connections>
+                </textField>
+            </subviews>
+            <color alpha='0.0' colorSpace='calibratedWhite' key='backgroundColor' white='0.0'/>
+            <connections>
+                <outlet destination='68' id='71' property='m_oDecrementButton'/>
+                <outlet destination='69' id='72' property='m_oIncrementButton'/>
+                <outlet destination='70' id='73' property='m_oTextField'/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image height='26' name='+.png' width='26'/>
+        <image height='26' name='+2.png' width='26'/>
+        <image height='26' name='-.png' width='26'/>
+        <image height='26' name='-2.png' width='26'/>
+        <image height='25' name='candle.png' width='30'/>
+        <image height='20' name='line.png' width='31'/>
+        <image height='26' name='off.png' width='26'/>
+        <image height='20' name='ohlc.png' width='31'/>
+        <image height='26' name='on.png' width='26'/>
+        <image height='20' name='volume.png' width='31'/>
+        <image height='20' name='volume1.png' width='31'/>
+    </resources>
+</document>
