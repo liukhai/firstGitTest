@@ -104,7 +104,6 @@ static PageUtil *pageUtil;
 
 + (NSString *)getDocConfigSettingFilePath
 {
-//    NSString *filePath = [[NSBundle mainBundle] pathForResource:@"PageThemeConfigSetting" ofType:@"plist"];
     NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *documentsDirectory = [paths objectAtIndex:0];
     NSString *filePath = [documentsDirectory stringByAppendingPathComponent:@"PageThemeConfigSetting.plist"];
